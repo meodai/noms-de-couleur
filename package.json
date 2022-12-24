@@ -1,0 +1,35 @@
+{
+  "name": "recueil-de-couleur",
+  "version": "0.1.0",
+  "description": "Liste de noms de couleur en français.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/fetch.js && node scripts/createimage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/noms-de-couleur.git"
+  },
+  "keywords": [
+    "color",
+    "couleur",
+    "words",
+    "french",
+    "français",
+    "france",
+    "colours",
+    "couleurs",
+    "color",
+    "colour"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/noms-de-couleur/issues"
+  },
+  "homepage": "https://github.com/meodai/noms-de-couleur#readme",
+  "devDependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
