@@ -3,6 +3,9 @@ import path from 'path';
 import puppeteer from 'puppeteer';
 import titleCaseFrench from 'titlecase-french';
 import { formatHex, converter } from 'culori';
+const userColors = JSON.parse( 
+  fs.readFileSync(path.normalize('src/userCreations.json'), 'utf8') 
+).colors;
 
 const rgbconv = converter('rgb');
 
@@ -109,6 +112,16 @@ const pages = [
 ];
 
 let colors = [];
+
+userColors.forEach(color => {
+  colors.push({
+    name: color.name,
+    hex: color.hex,
+    link: color.hasOwnProperty('link') ? color.link :
+    `https://github.com/meodai/noms-de-couleur/#authors-${color.author}`,
+  })  
+});
+
 
 (async () => {
   const browser = await puppeteer.launch();

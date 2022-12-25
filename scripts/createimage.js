@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 
-
 const colorList = JSON.parse(fs.readFileSync(
   path.normalize('colors.json'),
   'utf8'
