@@ -2,7 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import puppeteer from 'puppeteer';
 import titleCaseFrench from 'titlecase-french';
-import { formatHex } from 'culori';
+import { formatHex, converter } from 'culori';
+
+const rgbconv = converter('rgb');
 
 // to add
 // - http://pourpre.com/fr/dictionnaire/alpha/c
@@ -172,10 +174,35 @@ let colors = [];
     duplicates.forEach(d => {
       const dupes = colors.filter(c => c.hex === d);
       console.warn(`duplicate hex: ${d} (${dupes.map(c => c.name).join(', ')})`);
+      // shift each subsequent duplicate color value by 1
+      for (let i = 1; i < dupes.length; i++) {
+        dupes[i].hex = shiftColor(dupes[i].hex, (1/255) * i);
+      }
     });
   }
+  // will probably need to do this recursively
+  console.warn('Shifted all the color values a bit to make each color unique');
 
-  
+  function shiftColor(hex, shift) {
+    const rgb = rgbconv(hex);
+    rgb.r = rgb.r + shift;
+    rgb.g = rgb.g + shift;
+    rgb.b = rgb.b + shift;
+    
+    if (rgb.r > 1) {
+      rgb.r = 2 - rgb.r;
+    }
+    if (rgb.g > 1) {
+      rgb.g = 2 - rgb.g;
+    }
+    if (rgb.b > 1) {
+      rgb.b = 2 - rgb.b;
+    }
+
+    return formatHex(rgb);
+  }
+
+
   // update color count in readme.md
   // gets SVG template
   let mdTpl = fs.readFileSync(

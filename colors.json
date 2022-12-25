@@ -71,7 +71,7 @@
   },
   {
     "name": "Ambre Jaune",
-    "hex": "#f0c300",
+    "hex": "#f1c401",
     "link": "https://fr.wiktionary.org/wiki/ambre_jaune"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "name": "Azuré",
-    "hex": "#f0ffff",
+    "hex": "#f1fefe",
     "link": "https://fr.wikipedia.org/wiki/Azur_(couleur)"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "name": "Blanc d'Argent",
-    "hex": "#fefefe",
+    "hex": "#ffffff",
     "link": "https://fr.wikipedia.org/wiki/C%C3%A9ruse"
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "name": "Blanc de Céruse",
-    "hex": "#fefefe",
+    "hex": "#fdfdfd",
     "link": "https://fr.wiktionary.org/wiki/blanc_de_c%C3%A9ruse"
   },
   {
@@ -341,22 +341,22 @@
   },
   {
     "name": "Blanc de Meudon",
-    "hex": "#fefdf0",
+    "hex": "#fffef1",
     "link": "https://fr.wikipedia.org/wiki/Blanc_de_Meudon"
   },
   {
     "name": "Blanc de Plomb",
-    "hex": "#fefefe",
+    "hex": "#fcfcfc",
     "link": "https://fr.wikipedia.org/wiki/C%C3%A9ruse"
   },
   {
     "name": "Blanc de Saturne",
-    "hex": "#fefefe",
+    "hex": "#fbfbfb",
     "link": "https://fr.wikipedia.org/wiki/C%C3%A9ruse"
   },
   {
     "name": "Blanc de Troyes",
-    "hex": "#fefdf0",
+    "hex": "#fefff2",
     "link": "https://fr.wikipedia.org/wiki/Blanc_de_Meudon"
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "name": "Blanc-Bleu",
-    "hex": "#fefefe",
+    "hex": "#fafafa",
     "link": "https://fr.wiktionary.org/wiki/blanc-bleu"
   },
   {
@@ -396,12 +396,12 @@
   },
   {
     "name": "Bleu Barbeau",
-    "hex": "#5472ae",
+    "hex": "#5573af",
     "link": "https://fr.wiktionary.org/wiki/bleu_barbeau"
   },
   {
     "name": "Bleu Bleuet",
-    "hex": "#5472ae",
+    "hex": "#5674b0",
     "link": "https://fr.wiktionary.org/wiki/bleu_bleuet"
   },
   {
@@ -426,7 +426,7 @@
   },
   {
     "name": "Bleu Charron",
-    "hex": "#8ea2c6",
+    "hex": "#8fa3c7",
     "link": "https://fr.wiktionary.org/wiki/bleu_charron"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "name": "Bleu Céruléen",
-    "hex": "#357ab7",
+    "hex": "#367bb8",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_c%C3%A9rul%C3%A9en&action=edit&redlink=1"
   },
   {
@@ -591,7 +591,7 @@
   },
   {
     "name": "Bleu Minéral",
-    "hex": "#24445c",
+    "hex": "#25455d",
     "link": "https://fr.wikipedia.org/wiki/Bleu_min%C3%A9ral"
   },
   {
@@ -646,7 +646,7 @@
   },
   {
     "name": "Bleu Pastel",
-    "hex": "#56739a",
+    "hex": "#57749b",
     "link": "https://fr.wikipedia.org/wiki/Pastel_des_teinturiers"
   },
   {
@@ -686,7 +686,7 @@
   },
   {
     "name": "Bleu Roy",
-    "hex": "#318ce7",
+    "hex": "#328de8",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_roy&action=edit&redlink=1"
   },
   {
@@ -736,7 +736,7 @@
   },
   {
     "name": "Bleu d'Anvers",
-    "hex": "#24445c",
+    "hex": "#26465e",
     "link": "https://fr.wiktionary.org/wiki/bleu_d%E2%80%99Anvers"
   },
   {
@@ -746,7 +746,7 @@
   },
   {
     "name": "Bleu de Berlin",
-    "hex": "#24445c",
+    "hex": "#27475f",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_Berlin&action=edit&redlink=1"
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "name": "Bleu de Cobalt",
-    "hex": "#22427c",
+    "hex": "#23437d",
     "link": "https://fr.wiktionary.org/wiki/bleu_de_cobalt"
   },
   {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Bleu de France",
-    "hex": "#318ce7",
+    "hex": "#338ee9",
     "link": "https://fr.wikipedia.org/wiki/Bleu_de_France_(couleur)"
   },
   {
@@ -786,7 +786,7 @@
   },
   {
     "name": "Bleu de Prusse",
-    "hex": "#24445c",
+    "hex": "#284860",
     "link": "https://fr.wikipedia.org/wiki/Bleu_de_Prusse"
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Bleuet",
-    "hex": "#5472ae",
+    "hex": "#5775b1",
     "link": "https://fr.wikipedia.org/wiki/Bleu_bleuet"
   },
   {
@@ -906,7 +906,7 @@
   },
   {
     "name": "Brun",
-    "hex": "#5b3c11",
+    "hex": "#5c3d12",
     "link": "https://influenz.design/mag/brun"
   },
   {
@@ -1026,7 +1026,7 @@
   },
   {
     "name": "Carné",
-    "hex": "#fec3ac",
+    "hex": "#ffc4ad",
     "link": "https://fr.wiktionary.org/wiki/carn%C3%A9"
   },
   {
@@ -1066,7 +1066,7 @@
   },
   {
     "name": "Chair",
-    "hex": "#fec3ac",
+    "hex": "#fec5ae",
     "link": "https://fr.wikipedia.org/wiki/Incarnat"
   },
   {
@@ -1086,7 +1086,7 @@
   },
   {
     "name": "Charbon",
-    "hex": "#000000",
+    "hex": "#010101",
     "link": "https://fr.wikipedia.org/wiki/Charbon"
   },
   {
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "Chenu",
-    "hex": "#fefefe",
+    "hex": "#f9f9f9",
     "link": "https://fr.wiktionary.org/wiki/chenu"
   },
   {
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "Châtain",
-    "hex": "#8b6c42",
+    "hex": "#8c6d43",
     "link": "https://fr.wikipedia.org/wiki/Ch%C3%A2tain"
   },
   {
@@ -1306,17 +1306,17 @@
   },
   {
     "name": "Cæruléum",
-    "hex": "#26c4ec",
+    "hex": "#27c5ed",
     "link": "https://fr.wiktionary.org/w/index.php?title=c%C3%A6rul%C3%A9um&action=edit&redlink=1"
   },
   {
     "name": "Céruléen",
-    "hex": "#357ab7",
+    "hex": "#377cb9",
     "link": "https://fr.wiktionary.org/wiki/c%C3%A9rul%C3%A9en"
   },
   {
     "name": "Céruse",
-    "hex": "#fefefe",
+    "hex": "#f8f8f8",
     "link": "https://fr.wikipedia.org/wiki/C%C3%A9ruse"
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Denim",
-    "hex": "#1560bd",
+    "hex": "#1661be",
     "link": "https://fr.wiktionary.org/wiki/denim"
   },
   {
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "Double Claro",
-    "hex": "#ba9b61",
+    "hex": "#bb9c62",
     "link": "https://fr.wiktionary.org/w/index.php?title=double_claro&action=edit&redlink=1"
   },
   {
@@ -1366,7 +1366,7 @@
   },
   {
     "name": "Ebène",
-    "hex": "#000000",
+    "hex": "#020202",
     "link": "https://fr.wikipedia.org/wiki/%C3%89b%C3%A8ne"
   },
   {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Fauve",
-    "hex": "#ad4f09",
+    "hex": "#ae500a",
     "link": "https://fr.wikipedia.org/wiki/Fauve_(couleur)"
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "name": "Gris Ardoise",
-    "hex": "#5a5e6b",
+    "hex": "#5b5f6c",
     "link": "https://fr.wikipedia.org/wiki/Gris_ardoise"
   },
   {
@@ -1671,7 +1671,7 @@
   },
   {
     "name": "Gris Fumée",
-    "hex": "#bbd2e1",
+    "hex": "#bcd3e2",
     "link": "https://fr.wiktionary.org/w/index.php?title=gris_fum%C3%A9e&action=edit&redlink=1"
   },
   {
@@ -1826,7 +1826,7 @@
   },
   {
     "name": "Isabelle",
-    "hex": "#785e2f",
+    "hex": "#795f30",
     "link": "https://fr.wiktionary.org/wiki/isabelle"
   },
   {
@@ -1846,7 +1846,7 @@
   },
   {
     "name": "Jais",
-    "hex": "#000000",
+    "hex": "#030303",
     "link": "https://fr.wikipedia.org/wiki/Jais"
   },
   {
@@ -1856,17 +1856,17 @@
   },
   {
     "name": "Jaune Auréolin",
-    "hex": "#efd242",
+    "hex": "#f0d343",
     "link": "https://fr.wiktionary.org/wiki/jaune_aur%C3%A9olin"
   },
   {
     "name": "Jaune Banane",
-    "hex": "#d1b606",
+    "hex": "#d2b707",
     "link": "https://fr.wikipedia.org/wiki/Banane"
   },
   {
     "name": "Jaune Bouton d'or",
-    "hex": "#f6dc12",
+    "hex": "#f7dd13",
     "link": "https://fr.wiktionary.org/wiki/jaune_bouton_d%E2%80%99or"
   },
   {
@@ -1876,7 +1876,7 @@
   },
   {
     "name": "Jaune Citron",
-    "hex": "#f7ff3c",
+    "hex": "#f8fe3d",
     "link": "https://fr.wikipedia.org/wiki/Jaune_citron"
   },
   {
@@ -1886,7 +1886,7 @@
   },
   {
     "name": "Jaune Fleur de Soufre",
-    "hex": "#ffff6b",
+    "hex": "#fefe6c",
     "link": "https://fr.wiktionary.org/w/index.php?title=jaune_fleur_de_soufre&action=edit&redlink=1"
   },
   {
@@ -1951,7 +1951,7 @@
   },
   {
     "name": "Jaune Soufre",
-    "hex": "#ffff6b",
+    "hex": "#fdfd6d",
     "link": "https://fr.wiktionary.org/wiki/jaune_soufre"
   },
   {
@@ -2046,7 +2046,7 @@
   },
   {
     "name": "Lavande",
-    "hex": "#9683ec",
+    "hex": "#9784ed",
     "link": "https://fr.wikipedia.org/wiki/Lavande_(couleur)"
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "name": "Maduro Colorado",
-    "hex": "#5b3c11",
+    "hex": "#5d3e13",
     "link": "https://fr.wiktionary.org/w/index.php?title=maduro_colorado&action=edit&redlink=1"
   },
   {
@@ -2216,7 +2216,7 @@
   },
   {
     "name": "Moreau",
-    "hex": "#000000",
+    "hex": "#040404",
     "link": "https://fr.wiktionary.org/wiki/moreau"
   },
   {
@@ -2241,27 +2241,27 @@
   },
   {
     "name": "Nankin",
-    "hex": "#f7e269",
+    "hex": "#f8e36a",
     "link": "https://fr.wikipedia.org/wiki/Nankin_(couleur)"
   },
   {
     "name": "Neige",
-    "hex": "#fefefe",
+    "hex": "#f7f7f7",
     "link": "https://fr.wikipedia.org/wiki/Blanc"
   },
   {
     "name": "Noir",
-    "hex": "#000000",
+    "hex": "#050505",
     "link": "https://influenz.design/mag/noir"
   },
   {
     "name": "Noir Animal",
-    "hex": "#000000",
+    "hex": "#060606",
     "link": "https://fr.wikipedia.org/wiki/Noir_animal#Colorant"
   },
   {
     "name": "Noir Charbon",
-    "hex": "#000010",
+    "hex": "#010111",
     "link": "https://fr.wiktionary.org/w/index.php?title=noir_charbon&action=edit&redlink=1"
   },
   {
@@ -2271,12 +2271,12 @@
   },
   {
     "name": "Noir d'Encre",
-    "hex": "#000000",
+    "hex": "#070707",
     "link": "https://fr.wikipedia.org/wiki/Noir"
   },
   {
     "name": "Noir d'Ivoire",
-    "hex": "#000000",
+    "hex": "#080808",
     "link": "https://fr.wikipedia.org/wiki/Noir_animal#Pigment"
   },
   {
@@ -2286,12 +2286,12 @@
   },
   {
     "name": "Noir de Fumée",
-    "hex": "#130e0a",
+    "hex": "#140f0b",
     "link": "https://fr.wiktionary.org/wiki/noir_de_fum%C3%A9e"
   },
   {
     "name": "Noir de Jais",
-    "hex": "#000000",
+    "hex": "#090909",
     "link": "https://fr.wiktionary.org/wiki/noir_de_jais"
   },
   {
@@ -2326,12 +2326,12 @@
   },
   {
     "name": "Ocre Jaune",
-    "hex": "#dfaf2c",
+    "hex": "#e0b02d",
     "link": "https://fr.wiktionary.org/wiki/ocre_jaune"
   },
   {
     "name": "Ocre Rouge",
-    "hex": "#dd985c",
+    "hex": "#de995d",
     "link": "https://fr.wiktionary.org/wiki/ocre_rouge"
   },
   {
@@ -2391,7 +2391,7 @@
   },
   {
     "name": "Orange Brûlée",
-    "hex": "#cc5500",
+    "hex": "#cd5601",
     "link": "https://fr.wiktionary.org/w/index.php?title=orange_br%C3%BBl%C3%A9e&action=edit&redlink=1"
   },
   {
@@ -2401,7 +2401,7 @@
   },
   {
     "name": "Orangé",
-    "hex": "#ed7f10",
+    "hex": "#ee8011",
     "link": "https://fr.wiktionary.org/wiki/orang%C3%A9"
   },
   {
@@ -2416,7 +2416,7 @@
   },
   {
     "name": "Orpin de Perse",
-    "hex": "#fcd21c",
+    "hex": "#fdd31d",
     "link": "https://fr.wiktionary.org/wiki/orpin_de_Perse"
   },
   {
@@ -2436,7 +2436,7 @@
   },
   {
     "name": "Paille",
-    "hex": "#fee347",
+    "hex": "#ffe448",
     "link": "https://fr.wiktionary.org/wiki/paille"
   },
   {
@@ -2466,12 +2466,12 @@
   },
   {
     "name": "Passe-Velours",
-    "hex": "#91283b",
+    "hex": "#92293c",
     "link": "https://fr.wikipedia.org/wiki/Bordeaux_(couleur)"
   },
   {
     "name": "Pastel",
-    "hex": "#56739a",
+    "hex": "#58759c",
     "link": "https://fr.wiktionary.org/wiki/pastel"
   },
   {
@@ -2536,7 +2536,7 @@
   },
   {
     "name": "Plomb",
-    "hex": "#798081",
+    "hex": "#7a8182",
     "link": "https://fr.wiktionary.org/wiki/plomb"
   },
   {
@@ -2571,7 +2571,7 @@
   },
   {
     "name": "Ponceau",
-    "hex": "#c60800",
+    "hex": "#c70901",
     "link": "https://fr.wikipedia.org/wiki/Ponceau_(couleur)"
   },
   {
@@ -2626,7 +2626,7 @@
   },
   {
     "name": "Queue-de-renard",
-    "hex": "#91283b",
+    "hex": "#932a3d",
     "link": "https://fr.wiktionary.org/wiki/queue-de-renard"
   },
   {
@@ -2726,7 +2726,7 @@
   },
   {
     "name": "Rose Fuchsia",
-    "hex": "#fd3f92",
+    "hex": "#fe4093",
     "link": "https://fr.wiktionary.org/wiki/rose_fuchsia"
   },
   {
@@ -2881,12 +2881,12 @@
   },
   {
     "name": "Rouge Bourgogne",
-    "hex": "#6b0d0d",
+    "hex": "#6c0e0e",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bourgogne&action=edit&redlink=1"
   },
   {
     "name": "Rouge Capucine",
-    "hex": "#ff5e4d",
+    "hex": "#fe5f4e",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_capucine&action=edit&redlink=1"
   },
   {
@@ -2896,7 +2896,7 @@
   },
   {
     "name": "Rouge Carmin",
-    "hex": "#960018",
+    "hex": "#970119",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_carmin&action=edit&redlink=1"
   },
   {
@@ -2906,7 +2906,7 @@
   },
   {
     "name": "Rouge Cinabre",
-    "hex": "#db1702",
+    "hex": "#dc1803",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_cinabre&action=edit&redlink=1"
   },
   {
@@ -2916,7 +2916,7 @@
   },
   {
     "name": "Rouge Coquelicot",
-    "hex": "#c60800",
+    "hex": "#c80a02",
     "link": "https://fr.wikipedia.org/wiki/Ponceau_(couleur)"
   },
   {
@@ -2941,7 +2941,7 @@
   },
   {
     "name": "Rouge Fraise",
-    "hex": "#bf3030",
+    "hex": "#c03131",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_fraise&action=edit&redlink=1"
   },
   {
@@ -2951,17 +2951,17 @@
   },
   {
     "name": "Rouge Grenadine",
-    "hex": "#e9383f",
+    "hex": "#ea3940",
     "link": "https://fr.wikipedia.org/wiki/Grenadine_(couleur)"
   },
   {
     "name": "Rouge Grenat",
-    "hex": "#6e0b14",
+    "hex": "#6f0c15",
     "link": "https://fr.wikipedia.org/wiki/Grenat_(couleur)"
   },
   {
     "name": "Rouge Groseille",
-    "hex": "#cf0a1d",
+    "hex": "#d00b1e",
     "link": "https://fr.wikipedia.org/wiki/Groseille_(couleur)"
   },
   {
@@ -2981,12 +2981,12 @@
   },
   {
     "name": "Rouge Ponceau",
-    "hex": "#c60800",
+    "hex": "#c90b03",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_ponceau&action=edit&redlink=1"
   },
   {
     "name": "Rouge Rubis",
-    "hex": "#d20f45",
+    "hex": "#d31046",
     "link": "https://fr.wikipedia.org/wiki/Rubis_(couleur)"
   },
   {
@@ -3011,12 +3011,12 @@
   },
   {
     "name": "Rouge Turc",
-    "hex": "#a91101",
+    "hex": "#aa1202",
     "link": "https://fr.wikipedia.org/wiki/Rouge_d%27Andrinople"
   },
   {
     "name": "Rouge Vermillon",
-    "hex": "#db1702",
+    "hex": "#dd1904",
     "link": "https://fr.wiktionary.org/w/index.php?title=rouge_vermillon&action=edit&redlink=1"
   },
   {
@@ -3031,12 +3031,12 @@
   },
   {
     "name": "Rouge d'Alizarine",
-    "hex": "#d90115",
+    "hex": "#da0216",
     "link": "https://fr.wiktionary.org/wiki/rouge_d%E2%80%99alizarine"
   },
   {
     "name": "Rouge d'Andrinople",
-    "hex": "#a91101",
+    "hex": "#ab1303",
     "link": "https://fr.wikipedia.org/wiki/Rouge_d%27Andrinople"
   },
   {
@@ -3051,7 +3051,7 @@
   },
   {
     "name": "Rouge de Mars",
-    "hex": "#f7230c",
+    "hex": "#f8240d",
     "link": "https://fr.wikipedia.org/wiki/Oxyde_de_fer(III)"
   },
   {
@@ -3071,7 +3071,7 @@
   },
   {
     "name": "Roux",
-    "hex": "#b7410e",
+    "hex": "#b8420f",
     "link": "https://fr.wikipedia.org/wiki/Roux_(couleur)"
   },
   {
@@ -3096,7 +3096,7 @@
   },
   {
     "name": "Safre",
-    "hex": "#0131b4",
+    "hex": "#0232b5",
     "link": "https://fr.wiktionary.org/wiki/safre"
   },
   {
@@ -3111,17 +3111,17 @@
   },
   {
     "name": "Sanguine",
-    "hex": "#850606",
+    "hex": "#860707",
     "link": "https://fr.wiktionary.org/wiki/sanguine"
   },
   {
     "name": "Saphir",
-    "hex": "#0131b4",
+    "hex": "#0333b6",
     "link": "https://fr.wiktionary.org/wiki/saphir"
   },
   {
     "name": "Sarcelle",
-    "hex": "#008e8e",
+    "hex": "#018f8f",
     "link": "https://fr.wiktionary.org/wiki/sarcelle"
   },
   {
@@ -3161,7 +3161,7 @@
   },
   {
     "name": "Smaragdin",
-    "hex": "#01d758",
+    "hex": "#02d859",
     "link": "https://fr.wikipedia.org/wiki/%C3%89meraude_(couleur)"
   },
   {
@@ -3176,12 +3176,12 @@
   },
   {
     "name": "Soufre",
-    "hex": "#ffff6b",
+    "hex": "#fcfc6e",
     "link": "https://fr.wikipedia.org/wiki/Soufre_(couleur)"
   },
   {
     "name": "Souris",
-    "hex": "#9e9e9e",
+    "hex": "#9f9f9f",
     "link": "https://fr.wiktionary.org/wiki/souris"
   },
   {
@@ -3206,7 +3206,7 @@
   },
   {
     "name": "Taupe",
-    "hex": "#463f32",
+    "hex": "#474033",
     "link": "https://fr.wiktionary.org/wiki/taupe"
   },
   {
@@ -3276,12 +3276,12 @@
   },
   {
     "name": "Tomate",
-    "hex": "#de2916",
+    "hex": "#df2a17",
     "link": "https://fr.wiktionary.org/wiki/tomate"
   },
   {
     "name": "Tomette",
-    "hex": "#ae4a34",
+    "hex": "#af4b35",
     "link": "https://fr.wikipedia.org/wiki/Tomette"
   },
   {
@@ -3301,7 +3301,7 @@
   },
   {
     "name": "Turquoise",
-    "hex": "#25fde9",
+    "hex": "#26feea",
     "link": "https://fr.wiktionary.org/wiki/turquoise"
   },
   {
@@ -3341,7 +3341,7 @@
   },
   {
     "name": "Vert Absinthe",
-    "hex": "#7fdd4c",
+    "hex": "#80de4d",
     "link": "https://fr.wikipedia.org/wiki/Absinthe_(spiritueux)"
   },
   {
@@ -3356,7 +3356,7 @@
   },
   {
     "name": "Vert Amande",
-    "hex": "#82c46c",
+    "hex": "#83c56d",
     "link": "https://fr.wikipedia.org/wiki/Amande_(couleur)"
   },
   {
@@ -3371,7 +3371,7 @@
   },
   {
     "name": "Vert Anis",
-    "hex": "#9fe855",
+    "hex": "#a0e956",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_anis&action=edit&redlink=1"
   },
   {
@@ -3381,7 +3381,7 @@
   },
   {
     "name": "Vert Avocat",
-    "hex": "#568203",
+    "hex": "#578304",
     "link": "https://fr.wikipedia.org/wiki/Avocat_(couleur)"
   },
   {
@@ -3496,7 +3496,7 @@
   },
   {
     "name": "Vert Emeraude",
-    "hex": "#01d758",
+    "hex": "#03d95a",
     "link": "https://fr.wikipedia.org/wiki/%C3%89meraude_(couleur)"
   },
   {
@@ -3576,7 +3576,7 @@
   },
   {
     "name": "Vert Herbe",
-    "hex": "#3a9d23",
+    "hex": "#3b9e24",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_herbe&action=edit&redlink=1"
   },
   {
@@ -3586,12 +3586,12 @@
   },
   {
     "name": "Vert Impérial",
-    "hex": "#00561b",
+    "hex": "#01571c",
     "link": "https://fr.wikipedia.org/wiki/Vert_imp%C3%A9rial"
   },
   {
     "name": "Vert Jade",
-    "hex": "#87e990",
+    "hex": "#88ea91",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_jade&action=edit&redlink=1"
   },
   {
@@ -3616,7 +3616,7 @@
   },
   {
     "name": "Vert Malachite",
-    "hex": "#1fa055",
+    "hex": "#20a156",
     "link": "https://fr.wikipedia.org/wiki/Malachite_(couleur)"
   },
   {
@@ -3626,12 +3626,12 @@
   },
   {
     "name": "Vert Menthe",
-    "hex": "#16b84e",
+    "hex": "#17b94f",
     "link": "https://fr.wikipedia.org/wiki/Menthe_(couleur)"
   },
   {
     "name": "Vert Menthe à l'Eau",
-    "hex": "#54f98d",
+    "hex": "#55fa8e",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_menthe_%C3%A0_l%E2%80%99eau&action=edit&redlink=1"
   },
   {
@@ -3671,7 +3671,7 @@
   },
   {
     "name": "Vert Olive",
-    "hex": "#708d23",
+    "hex": "#718e24",
     "link": "https://fr.wikipedia.org/wiki/Olive_(couleur)"
   },
   {
@@ -3716,7 +3716,7 @@
   },
   {
     "name": "Vert Poireau",
-    "hex": "#4ca66b",
+    "hex": "#4da76c",
     "link": "https://fr.wikipedia.org/wiki/Vert_poireau"
   },
   {
@@ -3736,7 +3736,7 @@
   },
   {
     "name": "Vert Prasin",
-    "hex": "#4ca66b",
+    "hex": "#4ea86d",
     "link": "https://fr.wikipedia.org/wiki/Prasin"
   },
   {
@@ -3746,7 +3746,7 @@
   },
   {
     "name": "Vert Prés",
-    "hex": "#57d53b",
+    "hex": "#58d63c",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_pr%C3%A9s&action=edit&redlink=1"
   },
   {
@@ -3791,7 +3791,7 @@
   },
   {
     "name": "Vert Smaragdin",
-    "hex": "#01d758",
+    "hex": "#04da5b",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_smaragdin&action=edit&redlink=1"
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "Vert-de-gris",
-    "hex": "#95a595",
+    "hex": "#96a696",
     "link": "https://fr.wikipedia.org/wiki/Vert-de-gris"
   },
   {
