@@ -136,7 +136,7 @@ let colors = [];
   // while keeping the first occurence
   colors = colors.filter((c, i) => {
     const name = c.name.toLowerCase();
-    const index = colors.findIndex(c => c.name.toLowerCase() === name);
+    const index = colors.findIndex(c => c.name.toLowerCase().localeCompare(name) === 0);
     if (index === i) {
       return true;
     }
