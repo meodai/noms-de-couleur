@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>List of Wikipedia Color-Names</title>
+    <title>Recueil de Couleur</title>
     <style>
       @import url('https://rsms.me/inter/inter.css');
       body * {
