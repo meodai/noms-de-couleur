@@ -1,4 +1,4 @@
-# noms-de-couleur
+# Noms de Couleur
 
 Recueil de noms de couleur en français.
 
