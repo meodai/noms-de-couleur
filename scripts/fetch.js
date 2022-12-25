@@ -129,7 +129,7 @@ let colors = [];
   
   // title case each color name
   colors.forEach(c => {
-    c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'"));
+    c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'").trim());
   });
 
   // remove duplicate names from colors list
@@ -163,6 +163,17 @@ let colors = [];
       console.wran(`invalid hex: ${c.name} (${c.link})`);
     }
   });
+
+  // find duplicate hex values and warn about them
+  const hexes = colors.map(c => c.hex);
+  const duplicates = hexes.filter((h, i) => hexes.indexOf(h) !== i);
+  if (duplicates.length > 0) {
+    console.warn('found some duplicate hex values:');
+    duplicates.forEach(d => {
+      const dupes = colors.filter(c => c.hex === d);
+      console.warn(`duplicate hex: ${d} (${dupes.map(c => c.name).join(', ')})`);
+    });
+  }
 
   
   // update color count in readme.md
