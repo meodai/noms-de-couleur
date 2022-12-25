@@ -1,15 +1,19 @@
-const colorList = require('../colors.json');
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
+
+const colorList = JSON.parse(fs.readFileSync(
+  path.normalize('colors.json'),
+  'utf8'
+));
 // get SVG template
 const svgTpl = fs.readFileSync(
-  path.normalize(__dirname + '/template.svg.tpl'),
+  path.normalize('./scripts/template.svg.tpl'),
   'utf8'
 ).toString();
 
 const htmlTpl = fs.readFileSync(
-  path.normalize(__dirname + '/template.html.tpl'),
+  path.normalize('./scripts/template.html.tpl'),
   'utf8'
 ).toString();
 

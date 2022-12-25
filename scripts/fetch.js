@@ -1,13 +1,65 @@
-const fs = require('fs');
-const path = require('path');
-const puppeteer = require('puppeteer');
+import fs from 'fs';
+import path from 'path';
+import puppeteer from 'puppeteer';
+import { formatHex } from 'culori';
 
-const pages = [{
-  name: 'Wiktionary',
-  sources: [
-    'https://fr.wiktionary.org/wiki/Th%C3%A9saurus:couleur/fran%C3%A7ais'
-  ],
-}];
+const pages = [
+  {
+    name: 'Wiktionary',
+    sources: [
+      'https://fr.wiktionary.org/wiki/Th%C3%A9saurus:couleur/fran%C3%A7ais'
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorTable = document.querySelector('table.wikitable.sortable');
+      const colorRows = colorTable.querySelectorAll('tr:not(:first-child)');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        let $wrap = colorRow.querySelector('td:nth-child(1) a');
+
+        //sometimes people mess up the links
+        $wrap = $wrap ? $wrap : colorRow.querySelector('td');  
+        
+        const name = $wrap.innerText;
+        const link = $wrap.href;
+        const hex = '#' + colorRow.querySelector('td:nth-child(2)').getAttribute('bgcolor');
+        colorList.push({
+          name, hex, link,
+        });
+        
+      }
+
+      return colorList;
+    }
+  },
+  {
+    name: 'deleze.name/marcel/',
+    sources: [
+      'https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorTable = document.querySelector('table.struct tr:nth-child(2)');
+      const colorRows = colorTable.querySelectorAll('div.struct:not(:first-child)');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        
+        const link = 'https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php';
+        const hex = colorRow.querySelector('.couleur').style['background-color'];
+        colorRow.querySelector('.couleur').remove(); // it contains p's :D
+        const name = colorRow.querySelector('p').innerHTML.replace(/&nbsp;/g, '').split('<br>')[0];
+        colorList.push({
+          name, hex, link,
+        });
+        
+      }
+
+      return colorList;
+    }
+  },
+];
 
 let colors = [];
 
@@ -19,40 +71,23 @@ let colors = [];
       const page = await browser.newPage();
       console.log(`visiting ${pages[j].sources[i]}`);
       await page.goto(pages[j].sources[i]);
-      
-      const colorList = await page.evaluate(_ => {     
-        const colorList = [];
-        const colorTable = document.querySelector('table.wikitable.sortable');
-        const colorRows = colorTable.querySelectorAll('tr:not(:first-child)');
 
-        for (let y = 1; y < colorRows.length; y++) {
-          const colorRow = colorRows[y];
-          const $wrap = colorRow.querySelector('td:nth-child(1) a');
-
-          //sometimes people mess up the links
-          //$wrap = $wrap ? $wrap : colorRow.querySelector('td');  
-          if ($wrap) {
-            const name = $wrap.innerText;
-            const link = $wrap.href;
-            const hex = '#' + colorRow.querySelector('td:nth-child(2)').getAttribute('bgcolor');
-            colorList.push({
-              name, hex, link,
-            });
-          } else {
-            return {name:'noname', hex:'#000000', link:'nolink', debug:colorRow.innerHTML};
-          }
-        }
-
-        return colorList;
-
-      });
+      const colorList = await page.evaluate(pages[j].fn);
       colors = colors.concat(colorList);
     }
   }
 
   await browser.close();
 
+
   // data sanitization
+  
+  // lowercase the first letter of each name
+  colors.forEach(c => {
+    c.name = c.name.charAt(0).toLowerCase() + c.name.slice(1);
+  });
+
+  // sort colors by name
   colors.sort((a, b) => {
     if (a.name < b.name) {
       return -1;
@@ -64,13 +99,14 @@ let colors = [];
   }).forEach(c => {
     // remove parentheses and its contents from name
     c.name = c.name.replace(/\(.*\)/, '').trim();
-    c.hex = c.hex.toLowerCase();
+    c.hex = formatHex(c.hex);
   });
 
   // remove duplicate names from colors list
+  // while keeping the first occurence
   colors = colors.filter((c, i) => {
-    const name = c.name;
-    const index = colors.findIndex(c => c.name === name);
+    const name = c.name.toLowerCase();
+    const index = colors.findIndex(c => c.name.toLowerCase() === name);
     if (index === i) {
       return true;
     }

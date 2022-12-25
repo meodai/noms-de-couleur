@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Liste de noms de couleur en français.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node scripts/fetch.js && node scripts/createimage.js"
@@ -31,5 +32,8 @@
   "homepage": "https://github.com/meodai/noms-de-couleur#readme",
   "devDependencies": {
     "puppeteer": "^19.4.1"
+  },
+  "dependencies": {
+    "culori": "^2.0.3"
   }
 }
