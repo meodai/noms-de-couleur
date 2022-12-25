@@ -1,6 +1,6 @@
 {
   "name": "recueil-de-couleur",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Liste de noms de couleur en français.",
   "main": "index.js",
   "type": "module",
