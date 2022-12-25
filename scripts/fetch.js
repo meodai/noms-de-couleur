@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import puppeteer from 'puppeteer';
+import titleCaseFrench from 'titlecase-french';
 import { formatHex } from 'culori';
 
 // to add
@@ -92,9 +93,9 @@ let colors = [];
 
   // data sanitization
   
-  // lowercase the first letter of each name
+  // title case each color name
   colors.forEach(c => {
-    c.name = c.name.charAt(0).toLowerCase() + c.name.slice(1);
+    c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'"));
   });
 
   // remove duplicate names from colors list

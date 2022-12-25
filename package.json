@@ -31,7 +31,8 @@
   },
   "homepage": "https://github.com/meodai/noms-de-couleur#readme",
   "devDependencies": {
-    "puppeteer": "^19.4.1"
+    "puppeteer": "^19.4.1",
+    "titlecase-french": "^1.0.1"
   },
   "dependencies": {
     "culori": "^2.0.3"

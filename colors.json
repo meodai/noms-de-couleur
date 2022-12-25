@@ -1,3772 +1,3737 @@
 [
   {
-    "name": "abricot",
+    "name": "Abricot",
     "hex": "#e67e30",
     "link": "https://fr.wiktionary.org/wiki/abricot"
   },
   {
-    "name": "absinthe",
+    "name": "Absinthe",
     "hex": "#7fdd4c",
     "link": "https://fr.wiktionary.org/wiki/absinthe"
   },
   {
-    "name": "acajou",
+    "name": "Acajou",
     "hex": "#88421d",
     "link": "https://fr.wiktionary.org/wiki/acajou"
   },
   {
-    "name": "acier",
+    "name": "Acier",
     "hex": "#6c6c6c",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "aigue-marine",
+    "name": "Aigue-Marine",
     "hex": "#79f8f8",
     "link": "https://fr.wiktionary.org/wiki/aigue-marine"
   },
   {
-    "name": "aigue-marine bleue",
+    "name": "Aigue-Marine Bleue",
     "hex": "#acd8e2",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "aile de corbeau",
+    "name": "Aile de Corbeau",
     "hex": "#000000",
     "link": "https://fr.wiktionary.org/wiki/aile_de_corbeau"
   },
   {
-    "name": "air marin",
+    "name": "Air Marin",
     "hex": "#c5e8ed",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "albâtre",
+    "name": "Albâtre",
     "hex": "#fefefe",
     "link": "https://fr.wiktionary.org/wiki/alb%C3%A2tre"
   },
   {
-    "name": "alezan",
+    "name": "Alezan",
     "hex": "#a76726",
     "link": "https://fr.wiktionary.org/wiki/alezan"
   },
   {
-    "name": "amande",
+    "name": "Amande",
     "hex": "#82c46c",
     "link": "https://fr.wiktionary.org/wiki/amande"
   },
   {
-    "name": "amarante",
+    "name": "Amarante",
     "hex": "#91283b",
     "link": "https://fr.wiktionary.org/wiki/amarante"
   },
   {
-    "name": "ambre jaune",
+    "name": "Ambre Jaune",
     "hex": "#f0c300",
     "link": "https://fr.wiktionary.org/wiki/ambre_jaune"
   },
   {
-    "name": "ambre rouge",
+    "name": "Ambre Rouge",
     "hex": "#ad390e",
     "link": "https://fr.wiktionary.org/wiki/ambre_rouge"
   },
   {
-    "name": "améthyste",
+    "name": "Améthyste",
     "hex": "#884da7",
     "link": "https://fr.wiktionary.org/wiki/am%C3%A9thyste"
   },
   {
-    "name": "améthyste violette",
+    "name": "Améthyste Violette",
     "hex": "#a3638b",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "anthracite",
+    "name": "Anthracite",
     "hex": "#303030",
     "link": "https://fr.wiktionary.org/wiki/anthracite"
   },
   {
-    "name": "aquilain",
+    "name": "Aquilain",
     "hex": "#ad4f09",
     "link": "https://fr.wiktionary.org/wiki/aquilain"
   },
   {
-    "name": "ardoise",
+    "name": "Ardoise",
     "hex": "#5a5e6b",
     "link": "https://fr.wiktionary.org/wiki/ardoise"
   },
   {
-    "name": "ardoise grise",
+    "name": "Ardoise Grise",
     "hex": "#455c71",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "argent",
+    "name": "Argent",
     "hex": "#cecece",
     "link": "https://fr.wiktionary.org/wiki/argent"
   },
   {
-    "name": "argile",
+    "name": "Argile",
     "hex": "#efefef",
     "link": "https://fr.wiktionary.org/wiki/argile"
   },
   {
-    "name": "asperge",
+    "name": "Asperge",
     "hex": "#5ba05b",
     "link": "https://fr.wiktionary.org/wiki/asperge"
   },
   {
-    "name": "aube rose",
+    "name": "Aube Rose",
     "hex": "#eeaa9b",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "aubergine",
+    "name": "Aubergine",
     "hex": "#370028",
     "link": "https://fr.wiktionary.org/wiki/aubergine"
   },
   {
-    "name": "auburn",
+    "name": "Auburn",
     "hex": "#9d3e0c",
     "link": "https://fr.wiktionary.org/wiki/auburn"
   },
   {
-    "name": "aurore",
+    "name": "Aurore",
     "hex": "#ffcb60",
     "link": "https://fr.wiktionary.org/wiki/aurore"
   },
   {
-    "name": "avocat",
+    "name": "Avocat",
     "hex": "#568203",
     "link": "https://fr.wiktionary.org/wiki/avocat"
   },
   {
-    "name": "azur",
+    "name": "Azur",
     "hex": "#1e7fcb",
     "link": "https://fr.wiktionary.org/wiki/azur"
   },
   {
-    "name": "azurin",
+    "name": "Azurin",
     "hex": "#a9eafe",
     "link": "https://fr.wiktionary.org/wiki/azurin"
   },
   {
-    "name": "badiane",
+    "name": "Badiane",
     "hex": "#7e6b42",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "baies roses",
+    "name": "Baies Roses",
     "hex": "#e36d6d",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "baillet",
+    "name": "Baillet",
     "hex": "#ae642d",
     "link": "https://fr.wiktionary.org/wiki/baillet"
   },
   {
-    "name": "banane",
+    "name": "Banane",
     "hex": "#d1b606",
     "link": "https://fr.wiktionary.org/wiki/banane"
   },
   {
-    "name": "banquise bleue",
+    "name": "Banquise Bleue",
     "hex": "#5ba3b3",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "basané",
+    "name": "Basané",
     "hex": "#8b6c42",
     "link": "https://fr.wiktionary.org/wiki/basan%C3%A9"
   },
   {
-    "name": "beige",
+    "name": "Beige",
     "hex": "#c8ad7f",
     "link": "https://fr.wiktionary.org/wiki/beige"
   },
   {
-    "name": "beige cachemire",
+    "name": "Beige Cachemire",
     "hex": "#ffe2cf",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "beige flanelle",
+    "name": "Beige Flanelle",
     "hex": "#e3d8cc",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "beige foncé",
+    "name": "Beige Foncé",
     "hex": "#c48e70",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "beige rosé",
+    "name": "Beige Rosé",
     "hex": "#f7cbbf",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "beigeasse",
+    "name": "Beigeasse",
     "hex": "#afa77b",
     "link": "https://fr.wiktionary.org/wiki/beigeasse"
   },
   {
-    "name": "beurre",
+    "name": "Beurre",
     "hex": "#f0e36b",
     "link": "https://fr.wiktionary.org/wiki/beurre"
   },
   {
-    "name": "beurre frais",
+    "name": "Beurre Frais",
     "hex": "#fff48d",
     "link": "https://fr.wiktionary.org/wiki/beurre_frais"
   },
   {
-    "name": "bis",
+    "name": "Bis",
     "hex": "#f1e2be",
     "link": "https://fr.wiktionary.org/wiki/bis"
   },
   {
-    "name": "bisque",
+    "name": "Bisque",
     "hex": "#ffe4c4",
     "link": "https://fr.wiktionary.org/wiki/bisque"
   },
   {
-    "name": "bistre",
+    "name": "Bistre",
     "hex": "#856d4d",
     "link": "https://fr.wiktionary.org/wiki/bistre"
   },
   {
-    "name": "bitume",
+    "name": "Bitume",
     "hex": "#4e3d28",
     "link": "https://fr.wiktionary.org/wiki/bitume"
   },
   {
-    "name": "blanc",
+    "name": "Blanc",
     "hex": "#ffffff",
     "link": "https://fr.wiktionary.org/wiki/blanc"
   },
   {
-    "name": "blanc Lumière",
-    "hex": "#ffffff",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "blanc cassé",
+    "name": "Blanc Cassé",
     "hex": "#fefee2",
     "link": "https://fr.wiktionary.org/wiki/blanc_cass%C3%A9"
   },
   {
-    "name": "blanc crème",
+    "name": "Blanc Crème",
     "hex": "#fdf1b8",
     "link": "https://fr.wiktionary.org/w/index.php?title=blanc_cr%C3%A8me&action=edit&redlink=1"
   },
   {
-    "name": "blanc d'ail",
-    "hex": "#faf6f0",
+    "name": "Blanc Lumière",
+    "hex": "#ffffff",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "blanc de Meudon",
-    "hex": "#fefdf0",
-    "link": "https://fr.wiktionary.org/wiki/blanc_de_Meudon"
-  },
-  {
-    "name": "blanc de Troyes",
-    "hex": "#fefdf0",
-    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_Troyes&action=edit&redlink=1"
-  },
-  {
-    "name": "blanc de céruse",
-    "hex": "#fefefe",
-    "link": "https://fr.wiktionary.org/wiki/blanc_de_c%C3%A9ruse"
-  },
-  {
-    "name": "blanc de lait",
-    "hex": "#fbfcfa",
-    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_lait&action=edit&redlink=1"
-  },
-  {
-    "name": "blanc de plomb",
-    "hex": "#fefefe",
-    "link": "https://fr.wiktionary.org/wiki/blanc_de_plomb"
-  },
-  {
-    "name": "blanc de zinc",
-    "hex": "#f6fefe",
-    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_zinc&action=edit&redlink=1"
-  },
-  {
-    "name": "blanc d’Espagne",
-    "hex": "#fefdf0",
-    "link": "https://fr.wiktionary.org/wiki/blanc_d%E2%80%99Espagne"
-  },
-  {
-    "name": "blanc d’argent",
-    "hex": "#fefefe",
-    "link": "https://fr.wiktionary.org/wiki/blanc_de_c%C3%A9ruse"
-  },
-  {
-    "name": "blanc lunaire",
+    "name": "Blanc Lunaire",
     "hex": "#f4fefe",
     "link": "https://fr.wiktionary.org/wiki/blanc_lunaire"
   },
   {
-    "name": "blanc-bleu",
+    "name": "Blanc d'Ail",
+    "hex": "#faf6f0",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Blanc d'Argent",
+    "hex": "#fefefe",
+    "link": "https://fr.wiktionary.org/wiki/blanc_de_c%C3%A9ruse"
+  },
+  {
+    "name": "Blanc d'Espagne",
+    "hex": "#fefdf0",
+    "link": "https://fr.wiktionary.org/wiki/blanc_d%E2%80%99Espagne"
+  },
+  {
+    "name": "Blanc de Céruse",
+    "hex": "#fefefe",
+    "link": "https://fr.wiktionary.org/wiki/blanc_de_c%C3%A9ruse"
+  },
+  {
+    "name": "Blanc de Lait",
+    "hex": "#fbfcfa",
+    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_lait&action=edit&redlink=1"
+  },
+  {
+    "name": "Blanc de Meudon",
+    "hex": "#fefdf0",
+    "link": "https://fr.wiktionary.org/wiki/blanc_de_Meudon"
+  },
+  {
+    "name": "Blanc de Plomb",
+    "hex": "#fefefe",
+    "link": "https://fr.wiktionary.org/wiki/blanc_de_plomb"
+  },
+  {
+    "name": "Blanc de Troyes",
+    "hex": "#fefdf0",
+    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_Troyes&action=edit&redlink=1"
+  },
+  {
+    "name": "Blanc de Zinc",
+    "hex": "#f6fefe",
+    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_de_zinc&action=edit&redlink=1"
+  },
+  {
+    "name": "Blanc-Bleu",
     "hex": "#fefefe",
     "link": "https://fr.wiktionary.org/wiki/blanc-bleu"
   },
   {
-    "name": "blet",
+    "name": "Blet",
     "hex": "#5b3c11",
     "link": "https://fr.wiktionary.org/wiki/blet"
   },
   {
-    "name": "bleu",
+    "name": "Bleu",
     "hex": "#0000ff",
     "link": "https://fr.wiktionary.org/wiki/bleu"
   },
   {
-    "name": "bleu Caraïbes",
-    "hex": "#2696b6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu France",
-    "hex": "#318ce7",
-    "link": "https://fr.wiktionary.org/wiki/bleu_France"
-  },
-  {
-    "name": "bleu Klein",
-    "hex": "#21177d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_Klein&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu Majorelle",
-    "hex": "#6050dc",
-    "link": "https://fr.wiktionary.org/wiki/bleu_Majorelle"
-  },
-  {
-    "name": "bleu Nattier",
-    "hex": "#4f93a7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu Navajo",
-    "hex": "#06e3e6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu acier",
+    "name": "Bleu Acier",
     "hex": "#3a8eba",
     "link": "https://fr.wiktionary.org/wiki/bleu_acier"
   },
   {
-    "name": "bleu ardoise",
+    "name": "Bleu Ardoise",
     "hex": "#686f8c",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_ardoise&action=edit&redlink=1"
   },
   {
-    "name": "bleu azur",
+    "name": "Bleu Azur",
     "hex": "#1e7fcb",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_azur&action=edit&redlink=1"
   },
   {
-    "name": "bleu barbeau",
+    "name": "Bleu Barbeau",
     "hex": "#5472ae",
     "link": "https://fr.wiktionary.org/wiki/bleu_barbeau"
   },
   {
-    "name": "bleu bleuet",
+    "name": "Bleu Bleuet",
     "hex": "#5472ae",
     "link": "https://fr.wiktionary.org/wiki/bleu_bleuet"
   },
   {
-    "name": "bleu canard",
+    "name": "Bleu Canard",
     "hex": "#048b9a",
     "link": "https://fr.wiktionary.org/wiki/bleu_canard"
   },
   {
-    "name": "bleu chardon",
+    "name": "Bleu Caraïbes",
+    "hex": "#2696b6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Chardon",
     "hex": "#5c7294",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bleu charrette",
+    "name": "Bleu Charrette",
     "hex": "#8ea2c6",
     "link": "https://fr.wiktionary.org/wiki/bleu_charrette"
   },
   {
-    "name": "bleu charron",
+    "name": "Bleu Charron",
     "hex": "#8ea2c6",
     "link": "https://fr.wiktionary.org/wiki/bleu_charron"
   },
   {
-    "name": "bleu ciel",
+    "name": "Bleu Ciel",
     "hex": "#77b5fe",
     "link": "https://fr.wiktionary.org/wiki/bleu_ciel"
   },
   {
-    "name": "bleu clair de lune",
+    "name": "Bleu Clair de Lune",
     "hex": "#dbe2e9",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bleu cobalt",
+    "name": "Bleu Cobalt",
     "hex": "#22427c",
     "link": "https://fr.wiktionary.org/wiki/bleu_cobalt"
   },
   {
-    "name": "bleu céleste",
+    "name": "Bleu Céleste",
     "hex": "#26c4ec",
     "link": "https://fr.wiktionary.org/wiki/bleu_c%C3%A9leste"
   },
   {
-    "name": "bleu cérule",
+    "name": "Bleu Cérule",
     "hex": "#357ab7",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_c%C3%A9rule&action=edit&redlink=1"
   },
   {
-    "name": "bleu céruléen",
+    "name": "Bleu Céruléen",
     "hex": "#357ab7",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_c%C3%A9rul%C3%A9en&action=edit&redlink=1"
   },
   {
-    "name": "bleu d'azur",
-    "hex": "#b8d2e6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu de Berlin",
-    "hex": "#24445c",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_Berlin&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu de Chine",
-    "hex": "#555b7b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu de Delft",
-    "hex": "#5a8fb8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu de France",
-    "hex": "#318ce7",
-    "link": "https://fr.wiktionary.org/wiki/bleu_de_France"
-  },
-  {
-    "name": "bleu de Perse",
-    "hex": "#488e9a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu de Prusse",
-    "hex": "#24445c",
-    "link": "https://fr.wiktionary.org/wiki/bleu_de_Prusse"
-  },
-  {
-    "name": "bleu de Sèvres",
-    "hex": "#11416d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu de cobalt",
-    "hex": "#22427c",
-    "link": "https://fr.wiktionary.org/wiki/bleu_de_cobalt"
-  },
-  {
-    "name": "bleu de minuit",
-    "hex": "#033660",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_minuit&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu des mers du sud",
-    "hex": "#00cccb",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_des_mers_du_sud&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu doux",
+    "name": "Bleu Doux",
     "hex": "#bbc3d9",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bleu dragée",
+    "name": "Bleu Dragée",
     "hex": "#dff2ff",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_drag%C3%A9e&action=edit&redlink=1"
   },
   {
-    "name": "bleu d’Anvers",
-    "hex": "#24445c",
-    "link": "https://fr.wiktionary.org/wiki/bleu_d%E2%80%99Anvers"
-  },
-  {
-    "name": "bleu fjord",
-    "hex": "#3d95a5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu fumée",
-    "hex": "#bbd2e1",
-    "link": "https://fr.wiktionary.org/wiki/bleu_fum%C3%A9e"
-  },
-  {
-    "name": "bleu gauloise",
-    "hex": "#a1c2d7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu gentiane",
-    "hex": "#4781a5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu givré",
-    "hex": "#80d0d0",
-    "link": "https://fr.wiktionary.org/wiki/bleu_givr%C3%A9"
-  },
-  {
-    "name": "bleu glacier",
-    "hex": "#d3d7ed",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu gris",
-    "hex": "#6a859e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu guède",
-    "hex": "#56739a",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_gu%C3%A8de&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu horizon",
-    "hex": "#748eb6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu hortensia",
-    "hex": "#b7bfdd",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu hussard",
-    "hex": "#24445c",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_hussard&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu igloo",
-    "hex": "#cddfed",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu indigo",
-    "hex": "#253b73",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu lavande",
-    "hex": "#9683ec",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_lavande&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu layette",
-    "hex": "#8f9cc1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu marine",
-    "hex": "#03224c",
-    "link": "https://fr.wiktionary.org/wiki/bleu_marine"
-  },
-  {
-    "name": "bleu minéral",
-    "hex": "#24445c",
-    "link": "https://fr.wiktionary.org/wiki/bleu_min%C3%A9ral"
-  },
-  {
-    "name": "bleu myosotis",
-    "hex": "#bddded",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu myrtille",
-    "hex": "#213063",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu méditerranée",
-    "hex": "#7b8eab",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu nuit",
-    "hex": "#0f056b",
-    "link": "https://fr.wiktionary.org/wiki/bleu_nuit"
-  },
-  {
-    "name": "bleu océan",
-    "hex": "#396987",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu orage",
-    "hex": "#999fb7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu outremer",
-    "hex": "#1b019b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_outremer&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu paon",
-    "hex": "#067790",
-    "link": "https://fr.wiktionary.org/wiki/bleu_paon"
-  },
-  {
-    "name": "bleu pastel",
-    "hex": "#93b4ce",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu persan",
-    "hex": "#660ff0",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_persan&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu piscine",
-    "hex": "#14aad0",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu polaire foncé",
-    "hex": "#1c5066",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu porcelaine clair",
-    "hex": "#c7d1db",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu pétrole",
-    "hex": "#1d4851",
-    "link": "https://fr.wiktionary.org/wiki/bleu_p%C3%A9trole"
-  },
-  {
-    "name": "bleu pétrole foncé",
-    "hex": "#384c5e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu roi",
-    "hex": "#318ce7",
-    "link": "https://fr.wiktionary.org/wiki/bleu_roi"
-  },
-  {
-    "name": "bleu roy",
-    "hex": "#318ce7",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_roy&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu saphir",
-    "hex": "#0131b4",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_saphir&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu sarcelle",
-    "hex": "#008e8e",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_sarcelle&action=edit&redlink=1"
-  },
-  {
-    "name": "bleu sureau",
-    "hex": "#1b2853",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu tendre",
-    "hex": "#94a8c6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu touareg",
-    "hex": "#6b9ebf",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu turquin",
-    "hex": "#425b8a",
-    "link": "https://fr.wiktionary.org/wiki/bleu_turquin"
-  },
-  {
-    "name": "bleu turquoise",
-    "hex": "#25fde9",
-    "link": "https://fr.wiktionary.org/wiki/bleu_turquoise"
-  },
-  {
-    "name": "bleu vert",
-    "hex": "#99cfd9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bleu électrique",
+    "name": "Bleu Electrique",
     "hex": "#2c75ff",
     "link": "https://fr.wiktionary.org/wiki/bleu_%C3%A9lectrique"
   },
   {
-    "name": "bleuet",
+    "name": "Bleu Fjord",
+    "hex": "#3d95a5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu France",
+    "hex": "#318ce7",
+    "link": "https://fr.wiktionary.org/wiki/bleu_France"
+  },
+  {
+    "name": "Bleu Fumée",
+    "hex": "#bbd2e1",
+    "link": "https://fr.wiktionary.org/wiki/bleu_fum%C3%A9e"
+  },
+  {
+    "name": "Bleu Gauloise",
+    "hex": "#a1c2d7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Gentiane",
+    "hex": "#4781a5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Givré",
+    "hex": "#80d0d0",
+    "link": "https://fr.wiktionary.org/wiki/bleu_givr%C3%A9"
+  },
+  {
+    "name": "Bleu Glacier",
+    "hex": "#d3d7ed",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Gris",
+    "hex": "#6a859e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Guède",
+    "hex": "#56739a",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_gu%C3%A8de&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Horizon",
+    "hex": "#748eb6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Hortensia",
+    "hex": "#b7bfdd",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Hussard",
+    "hex": "#24445c",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_hussard&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Igloo",
+    "hex": "#cddfed",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Indigo",
+    "hex": "#253b73",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Klein",
+    "hex": "#21177d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_Klein&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Lavande",
+    "hex": "#9683ec",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_lavande&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Layette",
+    "hex": "#8f9cc1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Majorelle",
+    "hex": "#6050dc",
+    "link": "https://fr.wiktionary.org/wiki/bleu_Majorelle"
+  },
+  {
+    "name": "Bleu Marine",
+    "hex": "#03224c",
+    "link": "https://fr.wiktionary.org/wiki/bleu_marine"
+  },
+  {
+    "name": "Bleu Minéral",
+    "hex": "#24445c",
+    "link": "https://fr.wiktionary.org/wiki/bleu_min%C3%A9ral"
+  },
+  {
+    "name": "Bleu Myosotis",
+    "hex": "#bddded",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Myrtille",
+    "hex": "#213063",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Méditerranée",
+    "hex": "#7b8eab",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Nattier",
+    "hex": "#4f93a7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Navajo",
+    "hex": "#06e3e6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Nuit",
+    "hex": "#0f056b",
+    "link": "https://fr.wiktionary.org/wiki/bleu_nuit"
+  },
+  {
+    "name": "Bleu Océan",
+    "hex": "#396987",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Orage",
+    "hex": "#999fb7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Outremer",
+    "hex": "#1b019b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_outremer&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Paon",
+    "hex": "#067790",
+    "link": "https://fr.wiktionary.org/wiki/bleu_paon"
+  },
+  {
+    "name": "Bleu Pastel",
+    "hex": "#93b4ce",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Persan",
+    "hex": "#660ff0",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_persan&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Piscine",
+    "hex": "#14aad0",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Polaire Foncé",
+    "hex": "#1c5066",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Porcelaine Clair",
+    "hex": "#c7d1db",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Pétrole",
+    "hex": "#1d4851",
+    "link": "https://fr.wiktionary.org/wiki/bleu_p%C3%A9trole"
+  },
+  {
+    "name": "Bleu Pétrole Foncé",
+    "hex": "#384c5e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Roi",
+    "hex": "#318ce7",
+    "link": "https://fr.wiktionary.org/wiki/bleu_roi"
+  },
+  {
+    "name": "Bleu Roy",
+    "hex": "#318ce7",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_roy&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Saphir",
+    "hex": "#0131b4",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_saphir&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Sarcelle",
+    "hex": "#008e8e",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_sarcelle&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu Sureau",
+    "hex": "#1b2853",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Tendre",
+    "hex": "#94a8c6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Touareg",
+    "hex": "#6b9ebf",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu Turquin",
+    "hex": "#425b8a",
+    "link": "https://fr.wiktionary.org/wiki/bleu_turquin"
+  },
+  {
+    "name": "Bleu Turquoise",
+    "hex": "#25fde9",
+    "link": "https://fr.wiktionary.org/wiki/bleu_turquoise"
+  },
+  {
+    "name": "Bleu Vert",
+    "hex": "#99cfd9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu d'Anvers",
+    "hex": "#24445c",
+    "link": "https://fr.wiktionary.org/wiki/bleu_d%E2%80%99Anvers"
+  },
+  {
+    "name": "Bleu d'Azur",
+    "hex": "#b8d2e6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu de Berlin",
+    "hex": "#24445c",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_Berlin&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu de Chine",
+    "hex": "#555b7b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu de Cobalt",
+    "hex": "#22427c",
+    "link": "https://fr.wiktionary.org/wiki/bleu_de_cobalt"
+  },
+  {
+    "name": "Bleu de Delft",
+    "hex": "#5a8fb8",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu de France",
+    "hex": "#318ce7",
+    "link": "https://fr.wiktionary.org/wiki/bleu_de_France"
+  },
+  {
+    "name": "Bleu de Minuit",
+    "hex": "#033660",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_minuit&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleu de Perse",
+    "hex": "#488e9a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu de Prusse",
+    "hex": "#24445c",
+    "link": "https://fr.wiktionary.org/wiki/bleu_de_Prusse"
+  },
+  {
+    "name": "Bleu de Sèvres",
+    "hex": "#11416d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu des Mers du Sud",
+    "hex": "#00cccb",
+    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_des_mers_du_sud&action=edit&redlink=1"
+  },
+  {
+    "name": "Bleuet",
     "hex": "#707da2",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "blond",
+    "name": "Blond",
     "hex": "#e2bc74",
     "link": "https://fr.wiktionary.org/wiki/blond"
   },
   {
-    "name": "blond vénitien",
+    "name": "Blond Vénitien",
     "hex": "#e7a854",
     "link": "https://fr.wiktionary.org/wiki/blond_v%C3%A9nitien"
   },
   {
-    "name": "blush rose",
+    "name": "Blush Rose",
     "hex": "#f18787",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "blé",
+    "name": "Blé",
     "hex": "#e8d630",
     "link": "https://fr.wiktionary.org/wiki/bl%C3%A9"
   },
   {
-    "name": "bois de rose",
-    "hex": "#cc847c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bois de rose foncé",
-    "hex": "#bc6c64",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bois de violette",
-    "hex": "#785762",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bois foncé",
+    "name": "Bois Foncé",
     "hex": "#594937",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bordeaux",
+    "name": "Bois de Rose",
+    "hex": "#cc847c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bois de Rose Foncé",
+    "hex": "#bc6c64",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bois de Violette",
+    "hex": "#785762",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bordeaux",
     "hex": "#6d071a",
     "link": "https://fr.wiktionary.org/wiki/bordeaux"
   },
   {
-    "name": "bougainvillée",
+    "name": "Bougainvillée",
     "hex": "#9b1359",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bouleau",
+    "name": "Bouleau",
     "hex": "#e7d6c1",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bourgeon vert",
+    "name": "Bourgeon Vert",
     "hex": "#d8e498",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bourgogne",
+    "name": "Bourgogne",
     "hex": "#6b0d0d",
     "link": "https://fr.wiktionary.org/wiki/bourgogne"
   },
   {
-    "name": "bouton de rose",
-    "hex": "#ffc0cd",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "bouton d’or",
+    "name": "Bouton d'or",
     "hex": "#fcdc12",
     "link": "https://fr.wiktionary.org/wiki/bouton_d%E2%80%99or"
   },
   {
-    "name": "brique",
+    "name": "Bouton de Rose",
+    "hex": "#ffc0cd",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Brique",
     "hex": "#842e1b",
     "link": "https://fr.wiktionary.org/wiki/brique"
   },
   {
-    "name": "bronze",
+    "name": "Bronze",
     "hex": "#614e1a",
     "link": "https://fr.wiktionary.org/wiki/bronze"
   },
   {
-    "name": "brou de noix",
+    "name": "Brou de Noix",
     "hex": "#3f2204",
     "link": "https://fr.wiktionary.org/wiki/brou_de_noix"
   },
   {
-    "name": "brume de mer bleue",
+    "name": "Brume de Mer Bleue",
     "hex": "#e5fcfd",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brume de rose",
+    "name": "Brume de Rose",
     "hex": "#d7cbd3",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun",
+    "name": "Brun",
     "hex": "#5b3c11",
     "link": "https://fr.wiktionary.org/wiki/brun"
   },
   {
-    "name": "brun Palissandre",
-    "hex": "#82340a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "brun castor",
+    "name": "Brun Castor",
     "hex": "#796047",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun cigare",
+    "name": "Brun Cigare",
     "hex": "#985e33",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun racine",
+    "name": "Brun Palissandre",
+    "hex": "#82340a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Brun Racine",
     "hex": "#675541",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun rosé",
+    "name": "Brun Rosé",
     "hex": "#964a3f",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun rouge",
+    "name": "Brun Rouge",
     "hex": "#984436",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "brun tomette",
+    "name": "Brun Tomette",
     "hex": "#a64510",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bruyère",
+    "name": "Bruyère",
     "hex": "#b7737f",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "bureau",
+    "name": "Bureau",
     "hex": "#6b5731",
     "link": "https://fr.wiktionary.org/wiki/bureau"
   },
   {
-    "name": "caca d’oie",
+    "name": "Caca d'Oie",
     "hex": "#cdcd0d",
     "link": "https://fr.wiktionary.org/wiki/caca_d%E2%80%99oie"
   },
   {
-    "name": "cacao",
+    "name": "Cacao",
     "hex": "#614b3a",
     "link": "https://fr.wiktionary.org/wiki/cacao"
   },
   {
-    "name": "cachou",
+    "name": "Cachou",
     "hex": "#2f1b0c",
     "link": "https://fr.wiktionary.org/wiki/cachou"
   },
   {
-    "name": "café",
+    "name": "Café",
     "hex": "#462e01",
     "link": "https://fr.wiktionary.org/wiki/caf%C3%A9"
   },
   {
-    "name": "café au lait",
+    "name": "Café au Lait",
     "hex": "#785e2f",
     "link": "https://fr.wiktionary.org/wiki/caf%C3%A9_au_lait"
   },
   {
-    "name": "camel",
+    "name": "Camel",
     "hex": "#e4bb8e",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "camomille",
+    "name": "Camomille",
     "hex": "#f6dc98",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "campanule bleue",
+    "name": "Campanule Bleue",
     "hex": "#60678c",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cannelle",
+    "name": "Cannelle",
     "hex": "#7e5835",
     "link": "https://fr.wiktionary.org/wiki/cannelle"
   },
   {
-    "name": "capucine",
+    "name": "Capucine",
     "hex": "#ff5e4d",
     "link": "https://fr.wiktionary.org/wiki/capucine"
   },
   {
-    "name": "caramel",
+    "name": "Caramel",
     "hex": "#7e3300",
     "link": "https://fr.wiktionary.org/wiki/caramel"
   },
   {
-    "name": "carmin",
+    "name": "Carmin",
     "hex": "#960018",
     "link": "https://fr.wiktionary.org/wiki/carmin"
   },
   {
-    "name": "carmélite",
+    "name": "Carmélite",
     "hex": "#411f20",
     "link": "https://fr.wiktionary.org/wiki/carm%C3%A9lite"
   },
   {
-    "name": "carnation",
+    "name": "Carnation",
     "hex": "#fec3ac",
     "link": "https://fr.wiktionary.org/wiki/carnation"
   },
   {
-    "name": "carné",
+    "name": "Carné",
     "hex": "#fec3ac",
     "link": "https://fr.wiktionary.org/wiki/carn%C3%A9"
   },
   {
-    "name": "carotte",
+    "name": "Carotte",
     "hex": "#f4661b",
     "link": "https://fr.wiktionary.org/wiki/carotte"
   },
   {
-    "name": "cascade bleue",
+    "name": "Cascade Bleue",
     "hex": "#bce3e6",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cassis",
+    "name": "Cassis",
     "hex": "#3a020d",
     "link": "https://fr.wiktionary.org/wiki/cassis"
   },
   {
-    "name": "cendre bleue",
+    "name": "Cendre Bleue",
     "hex": "#7880a4",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cendre de rose",
-    "hex": "#b79da7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "cendre verte",
+    "name": "Cendre Verte",
     "hex": "#abb197",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cerise",
+    "name": "Cendre de Rose",
+    "hex": "#b79da7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Cerise",
     "hex": "#bb0b0b",
     "link": "https://fr.wiktionary.org/wiki/cerise"
   },
   {
-    "name": "chair",
+    "name": "Chair",
     "hex": "#fec3ac",
     "link": "https://fr.wiktionary.org/wiki/chair"
   },
   {
-    "name": "chamois",
+    "name": "Chamois",
     "hex": "#d0c07a",
     "link": "https://fr.wiktionary.org/wiki/chamois"
   },
   {
-    "name": "champagne",
+    "name": "Champagne",
     "hex": "#fbf2b7",
     "link": "https://fr.wiktionary.org/wiki/champagne"
   },
   {
-    "name": "chanvre",
+    "name": "Chanvre",
     "hex": "#ddd8cb",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "charbonneux",
+    "name": "Charbonneux",
     "hex": "#000010",
     "link": "https://fr.wiktionary.org/wiki/charbonneux"
   },
   {
-    "name": "chaudron",
+    "name": "Chaudron",
     "hex": "#85530f",
     "link": "https://fr.wiktionary.org/wiki/chaudron"
   },
   {
-    "name": "chenu",
+    "name": "Chenu",
     "hex": "#fefefe",
     "link": "https://fr.wiktionary.org/wiki/chenu"
   },
   {
-    "name": "chocolat",
+    "name": "Chocolat",
     "hex": "#5a3a22",
     "link": "https://fr.wiktionary.org/wiki/chocolat"
   },
   {
-    "name": "châtaigier",
+    "name": "Châtaigier",
     "hex": "#94631a",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "châtaigne",
+    "name": "Châtaigne",
     "hex": "#806d5a",
     "link": "https://fr.wiktionary.org/wiki/ch%C3%A2taigne"
   },
   {
-    "name": "châtain",
+    "name": "Châtain",
     "hex": "#8b6c42",
     "link": "https://fr.wiktionary.org/wiki/ch%C3%A2tain"
   },
   {
-    "name": "chêne",
+    "name": "Chêne",
     "hex": "#b78b61",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "chêne clair",
+    "name": "Chêne Clair",
     "hex": "#c69f7b",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "ciel orageux",
+    "name": "Ciel Orageux",
     "hex": "#c7cad7",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cinabre",
+    "name": "Cinabre",
     "hex": "#db1702",
     "link": "https://fr.wiktionary.org/wiki/cinabre"
   },
   {
-    "name": "citron",
+    "name": "Citron",
     "hex": "#f7ff3c",
     "link": "https://fr.wiktionary.org/wiki/citron"
   },
   {
-    "name": "citron vert",
+    "name": "Citron Vert",
     "hex": "#9ecf34",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "citrouille",
+    "name": "Citrouille",
     "hex": "#df6d14",
     "link": "https://fr.wiktionary.org/wiki/citrouille"
   },
   {
-    "name": "clair de Véronèse",
+    "name": "Clair de Véronèse",
     "hex": "#59c7b4",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "clarissimo",
+    "name": "Clarissimo",
     "hex": "#b9b276",
     "link": "https://fr.wiktionary.org/wiki/clarissimo"
   },
   {
-    "name": "claro",
+    "name": "Claro",
     "hex": "#845a3b",
     "link": "https://fr.wiktionary.org/wiki/claro"
   },
   {
-    "name": "claro claro",
+    "name": "Claro Claro",
     "hex": "#ba9b61",
     "link": "https://fr.wiktionary.org/w/index.php?title=claro_claro&action=edit&redlink=1"
   },
   {
-    "name": "clou de girofle",
+    "name": "Clou de Girofle",
     "hex": "#361f0e",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "clémentine",
+    "name": "Clémentine",
     "hex": "#ffbf57",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "colombin",
+    "name": "Colombin",
     "hex": "#6a455d",
     "link": "https://fr.wiktionary.org/wiki/colombin"
   },
   {
-    "name": "colorado",
+    "name": "Colorado",
     "hex": "#703516",
     "link": "https://fr.wiktionary.org/wiki/colorado"
   },
   {
-    "name": "colorado claro",
+    "name": "Colorado Claro",
     "hex": "#6a4b21",
     "link": "https://fr.wiktionary.org/w/index.php?title=colorado_claro&action=edit&redlink=1"
   },
   {
-    "name": "coquelicot",
+    "name": "Coquelicot",
     "hex": "#c60800",
     "link": "https://fr.wiktionary.org/wiki/coquelicot"
   },
   {
-    "name": "coquillage",
+    "name": "Coquillage",
     "hex": "#f2e3ce",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "coquille d'huitre",
+    "name": "Coquille d'Huitre",
     "hex": "#dde3e3",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "coquille d'oeuf",
+    "name": "Coquille d'Oeuf",
     "hex": "#ffeee3",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "coquille d’œuf",
+    "name": "Coquille d'Œuf",
     "hex": "#fde9e0",
     "link": "https://fr.wiktionary.org/wiki/coquille_d%E2%80%99%C5%93uf"
   },
   {
-    "name": "corail",
+    "name": "Corail",
     "hex": "#e73e01",
     "link": "https://fr.wiktionary.org/wiki/corail"
   },
   {
-    "name": "cordage beige",
+    "name": "Cordage Beige",
     "hex": "#d1baa1",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cotonnade",
+    "name": "Cotonnade",
     "hex": "#e7e2d3",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cramoisi",
+    "name": "Cramoisi",
     "hex": "#dc143c",
     "link": "https://fr.wiktionary.org/wiki/cramoisi"
   },
   {
-    "name": "crevette",
+    "name": "Crevette",
     "hex": "#f7976f",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "crème",
+    "name": "Crème",
     "hex": "#fdf1b8",
     "link": "https://fr.wiktionary.org/wiki/cr%C3%A8me"
   },
   {
-    "name": "cuir rouge",
+    "name": "Cuir Rouge",
     "hex": "#863022",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cuisse de nymphe",
+    "name": "Cuisse de Nymphe",
     "hex": "#fee7f0",
     "link": "https://fr.wiktionary.org/wiki/cuisse_de_nymphe"
   },
   {
-    "name": "cuivre",
+    "name": "Cuivre",
     "hex": "#b36700",
     "link": "https://fr.wiktionary.org/wiki/cuivre"
   },
   {
-    "name": "cuivre rouge",
+    "name": "Cuivre Rouge",
     "hex": "#68251a",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cyan",
+    "name": "Cyan",
     "hex": "#2bfafa",
     "link": "https://fr.wiktionary.org/wiki/cyan"
   },
   {
-    "name": "cyclamen",
+    "name": "Cyclamen",
     "hex": "#f4aed5",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "cæruléum",
+    "name": "Cæruléum",
     "hex": "#26c4ec",
     "link": "https://fr.wiktionary.org/w/index.php?title=c%C3%A6rul%C3%A9um&action=edit&redlink=1"
   },
   {
-    "name": "céruléen",
+    "name": "Céruléen",
     "hex": "#357ab7",
     "link": "https://fr.wiktionary.org/wiki/c%C3%A9rul%C3%A9en"
   },
   {
-    "name": "dahlia noir",
-    "hex": "#881531",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "dahlia rose",
-    "hex": "#fc90a2",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "daim",
-    "hex": "#b69b7e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "denim",
-    "hex": "#1560bd",
-    "link": "https://fr.wiktionary.org/wiki/denim"
-  },
-  {
-    "name": "double claro",
-    "hex": "#ba9b61",
-    "link": "https://fr.wiktionary.org/w/index.php?title=double_claro&action=edit&redlink=1"
-  },
-  {
-    "name": "dune",
-    "hex": "#f8e4c8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "d’ivoire",
+    "name": "D'Ivoire",
     "hex": "#ffffd4",
     "link": "https://fr.wiktionary.org/w/index.php?title=blanc_d%E2%80%99ivoire&action=edit&redlink=1"
   },
   {
-    "name": "eau bleutée",
+    "name": "Dahlia Noir",
+    "hex": "#881531",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Dahlia Rose",
+    "hex": "#fc90a2",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Daim",
+    "hex": "#b69b7e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560bd",
+    "link": "https://fr.wiktionary.org/wiki/denim"
+  },
+  {
+    "name": "Double Claro",
+    "hex": "#ba9b61",
+    "link": "https://fr.wiktionary.org/w/index.php?title=double_claro&action=edit&redlink=1"
+  },
+  {
+    "name": "Dune",
+    "hex": "#f8e4c8",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Eau Bleutée",
     "hex": "#dbecf5",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "ebène",
-    "hex": "#1e1108",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "eclat d'émeraude",
-    "hex": "#49b3a1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ecorce",
-    "hex": "#7f6a55",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ecru",
-    "hex": "#f0eada",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ecureuil",
-    "hex": "#b35f2b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "edelweiss",
-    "hex": "#f9f7f1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "embruns bleutés",
-    "hex": "#7eb1c8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "emeraude",
-    "hex": "#378477",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "encre bleue",
-    "hex": "#2c597c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "epices",
-    "hex": "#f2af68",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "etain",
-    "hex": "#848484",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "falaise",
-    "hex": "#ebeae7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fard à joue rose",
-    "hex": "#f27688",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fauve",
-    "hex": "#ad4f09",
-    "link": "https://fr.wiktionary.org/wiki/fauve"
-  },
-  {
-    "name": "fennec",
-    "hex": "#bc8d0e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fer",
-    "hex": "#848484",
-    "link": "https://fr.wiktionary.org/wiki/fer"
-  },
-  {
-    "name": "fer forgé",
-    "hex": "#6b5743",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "feu",
-    "hex": "#eb6307",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "feu vif",
-    "hex": "#ff4901",
-    "link": "https://fr.wiktionary.org/w/index.php?title=feu_vif&action=edit&redlink=1"
-  },
-  {
-    "name": "feuille-morte",
-    "hex": "#99512b",
-    "link": "https://fr.wiktionary.org/wiki/feuille-morte"
-  },
-  {
-    "name": "feutre gris",
-    "hex": "#b1aa97",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ficelle",
-    "hex": "#dcc4aa",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "flamant rose",
-    "hex": "#ffadbc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "flave",
-    "hex": "#e6e697",
-    "link": "https://fr.wiktionary.org/wiki/flave"
-  },
-  {
-    "name": "fleur de lin bleue",
-    "hex": "#b0c0da",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fleur de soufre",
-    "hex": "#ffff6b",
-    "link": "https://fr.wiktionary.org/wiki/fleur_de_soufre"
-  },
-  {
-    "name": "fleur de thym parme",
-    "hex": "#ba91aa",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fond de teint",
-    "hex": "#fbd5bb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fraise",
-    "hex": "#bf3030",
-    "link": "https://fr.wiktionary.org/wiki/fraise"
-  },
-  {
-    "name": "fraise des bois",
-    "hex": "#b32f48",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fraise écrasée",
-    "hex": "#a42424",
-    "link": "https://fr.wiktionary.org/wiki/fraise_%C3%A9cras%C3%A9e"
-  },
-  {
-    "name": "framboise",
-    "hex": "#c72c48",
-    "link": "https://fr.wiktionary.org/wiki/framboise"
-  },
-  {
-    "name": "framboise glacée",
-    "hex": "#bc4365",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fruits rouges",
-    "hex": "#970b23",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fuchsia",
-    "hex": "#fd3f92",
-    "link": "https://fr.wiktionary.org/wiki/fuchsia"
-  },
-  {
-    "name": "fumée grise",
-    "hex": "#877d73",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "fuschia",
-    "hex": "#f3478b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "galet",
-    "hex": "#636458",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "garance",
-    "hex": "#ee1010",
-    "link": "https://fr.wiktionary.org/wiki/garance"
-  },
-  {
-    "name": "gingembre",
-    "hex": "#d2bca6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "glaise",
-    "hex": "#ba8b7c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "glauque",
-    "hex": "#649b88",
-    "link": "https://fr.wiktionary.org/wiki/glauque"
-  },
-  {
-    "name": "glycine",
-    "hex": "#c9a0dc",
-    "link": "https://fr.wiktionary.org/wiki/glycine"
-  },
-  {
-    "name": "glycine violette",
-    "hex": "#ada7c7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "grand bleu",
-    "hex": "#3b768f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "granit gris",
-    "hex": "#ababab",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "granit rose",
-    "hex": "#9b5b66",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "granny smith",
-    "hex": "#c7e666",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "grenadine",
-    "hex": "#e9383f",
-    "link": "https://fr.wiktionary.org/wiki/grenadine"
-  },
-  {
-    "name": "grenat",
-    "hex": "#6e0b14",
-    "link": "https://fr.wiktionary.org/wiki/grenat"
-  },
-  {
-    "name": "gris",
-    "hex": "#333333",
-    "link": "https://fr.wiktionary.org/wiki/gris"
-  },
-  {
-    "name": "gris anthracite",
-    "hex": "#424242",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris chromé",
-    "hex": "#d3d3d6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris de Payne",
-    "hex": "#677179",
-    "link": "https://fr.wiktionary.org/wiki/gris_de_Payne"
-  },
-  {
-    "name": "gris de lin",
-    "hex": "#d2caec",
-    "link": "https://fr.wiktionary.org/wiki/gris_de_lin"
-  },
-  {
-    "name": "gris de maure",
-    "hex": "#685e43",
-    "link": "https://fr.wiktionary.org/w/index.php?title=gris_de_maure&action=edit&redlink=1"
-  },
-  {
-    "name": "gris falaise",
-    "hex": "#4f4b41",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris fer",
-    "hex": "#7f7f7f",
-    "link": "https://fr.wiktionary.org/wiki/gris_fer"
-  },
-  {
-    "name": "gris fumée",
-    "hex": "#bbd2e1",
-    "link": "https://fr.wiktionary.org/w/index.php?title=gris_fum%C3%A9e&action=edit&redlink=1"
-  },
-  {
-    "name": "gris perle",
-    "hex": "#cecece",
-    "link": "https://fr.wiktionary.org/wiki/gris_perle"
-  },
-  {
-    "name": "gris pierre ponce",
-    "hex": "#e6e8e8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris pigeon",
-    "hex": "#c0b3ae",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris plomb",
-    "hex": "#798081",
-    "link": "https://fr.wiktionary.org/w/index.php?title=gris_plomb&action=edit&redlink=1"
-  },
-  {
-    "name": "gris rocher",
-    "hex": "#b0a69c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris rosé",
-    "hex": "#956f7c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris souris",
-    "hex": "#9e9e9e",
-    "link": "https://fr.wiktionary.org/wiki/gris_souris"
-  },
-  {
-    "name": "gris taupe",
-    "hex": "#463f32",
-    "link": "https://fr.wiktionary.org/w/index.php?title=gris_taupe&action=edit&redlink=1"
-  },
-  {
-    "name": "gris terre d'ombre",
-    "hex": "#a49878",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris tourdille",
-    "hex": "#c1bfb1",
-    "link": "https://fr.wiktionary.org/w/index.php?title=gris_tourdille&action=edit&redlink=1"
-  },
-  {
-    "name": "gris tourterelle",
-    "hex": "#d7cecb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris vert",
-    "hex": "#98aeae",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "gris éléphant",
-    "hex": "#8e9078",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "groseille",
-    "hex": "#cf0a1d",
-    "link": "https://fr.wiktionary.org/wiki/groseille"
-  },
-  {
-    "name": "grotte marine",
-    "hex": "#3f7c85",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "grège",
-    "hex": "#bbae98",
-    "link": "https://fr.wiktionary.org/wiki/gr%C3%A8ge"
-  },
-  {
-    "name": "gueules",
-    "hex": "#e21313",
-    "link": "https://fr.wiktionary.org/wiki/gueules"
-  },
-  {
-    "name": "havane",
-    "hex": "#947f60",
-    "link": "https://fr.wiktionary.org/wiki/havane"
-  },
-  {
-    "name": "houblon",
-    "hex": "#e4b468",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "huître",
-    "hex": "#bdcbcb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "héliotrope",
-    "hex": "#df73ff",
-    "link": "https://fr.wiktionary.org/wiki/h%C3%A9liotrope"
-  },
-  {
-    "name": "hêtre",
-    "hex": "#f7bb77",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "incarnadin",
-    "hex": "#fe96a0",
-    "link": "https://fr.wiktionary.org/wiki/incarnadin"
-  },
-  {
-    "name": "incarnat",
-    "hex": "#ff6f7d",
-    "link": "https://fr.wiktionary.org/wiki/incarnat"
-  },
-  {
-    "name": "indigo",
-    "hex": "#791cf8",
-    "link": "https://fr.wiktionary.org/wiki/indigo"
-  },
-  {
-    "name": "indigo clair",
-    "hex": "#739fc1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "iris",
-    "hex": "#776b98",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "isabelle",
-    "hex": "#785e2f",
-    "link": "https://fr.wiktionary.org/wiki/isabelle"
-  },
-  {
-    "name": "ivoire",
-    "hex": "#ffffd4",
-    "link": "https://fr.wiktionary.org/wiki/ivoire"
-  },
-  {
-    "name": "jacinthe rose",
-    "hex": "#ffb0be",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jade",
-    "hex": "#87e990",
-    "link": "https://fr.wiktionary.org/wiki/jade"
-  },
-  {
-    "name": "jais",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/jais"
-  },
-  {
-    "name": "jaune",
-    "hex": "#ffff00",
-    "link": "https://fr.wiktionary.org/wiki/jaune"
-  },
-  {
-    "name": "jaune auréolin",
-    "hex": "#efd242",
-    "link": "https://fr.wiktionary.org/wiki/jaune_aur%C3%A9olin"
-  },
-  {
-    "name": "jaune banane",
-    "hex": "#d1b606",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_banane&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune bouton d'or",
-    "hex": "#ffc840",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jaune bouton d’or",
-    "hex": "#f6dc12",
-    "link": "https://fr.wiktionary.org/wiki/jaune_bouton_d%E2%80%99or"
-  },
-  {
-    "name": "jaune canari",
-    "hex": "#e7f00d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_canari&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune citron",
-    "hex": "#f7ff3c",
-    "link": "https://fr.wiktionary.org/wiki/jaune_citron"
-  },
-  {
-    "name": "jaune curry",
-    "hex": "#ffb515",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jaune de Mars",
-    "hex": "#eed153",
-    "link": "https://fr.wiktionary.org/wiki/jaune_de_Mars"
-  },
-  {
-    "name": "jaune de Naples",
-    "hex": "#fff0bc",
-    "link": "https://fr.wiktionary.org/wiki/jaune_de_Naples"
-  },
-  {
-    "name": "jaune de chrome",
-    "hex": "#edff0c",
-    "link": "https://fr.wiktionary.org/wiki/jaune_de_chrome"
-  },
-  {
-    "name": "jaune d’or",
-    "hex": "#efd807",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_d%E2%80%99or&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune fleur de soufre",
-    "hex": "#ffff6b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_fleur_de_soufre&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune impérial",
-    "hex": "#ffe436",
-    "link": "https://fr.wiktionary.org/wiki/jaune_imp%C3%A9rial"
-  },
-  {
-    "name": "jaune maïs",
-    "hex": "#ffde75",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_ma%C3%AFs&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune mimosa",
-    "hex": "#fef86c",
-    "link": "https://fr.wiktionary.org/wiki/jaune_mimosa"
-  },
-  {
-    "name": "jaune moutarde",
-    "hex": "#c7cf00",
-    "link": "https://fr.wiktionary.org/wiki/jaune_moutarde"
-  },
-  {
-    "name": "jaune nankin",
-    "hex": "#f7e269",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_nankin&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune paille",
-    "hex": "#fee347",
-    "link": "https://fr.wiktionary.org/wiki/jaune_paille"
-  },
-  {
-    "name": "jaune pamplemousse",
-    "hex": "#ffe793",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jaune poussin",
-    "hex": "#f7e35f",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_poussin&action=edit&redlink=1"
-  },
-  {
-    "name": "jaune primevère",
-    "hex": "#fff1af",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jaune pâle",
-    "hex": "#fdf9cd",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jaune soufre",
-    "hex": "#ffff6b",
-    "link": "https://fr.wiktionary.org/wiki/jaune_soufre"
-  },
-  {
-    "name": "jaune vif",
-    "hex": "#ffd600",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jonquille",
-    "hex": "#ffe300",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "jute",
-    "hex": "#bc9a78",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "kaki",
-    "hex": "#94812b",
-    "link": "https://fr.wiktionary.org/wiki/kaki"
-  },
-  {
-    "name": "lagon",
-    "hex": "#12aeba",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lagune turquoise",
-    "hex": "#90c3cc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "laine de vigogne",
-    "hex": "#cbb69c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "laiton",
-    "hex": "#c8ab6c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lama",
-    "hex": "#8a6e4e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lapis",
-    "hex": "#464563",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lapis-lazuli",
-    "hex": "#26619c",
-    "link": "https://fr.wiktionary.org/wiki/lapis-lazuli"
-  },
-  {
-    "name": "laurier vert",
-    "hex": "#617a52",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lavallière",
-    "hex": "#8f5922",
-    "link": "https://fr.wiktionary.org/wiki/lavalli%C3%A8re"
-  },
-  {
-    "name": "lavande",
-    "hex": "#9683ec",
-    "link": "https://fr.wiktionary.org/wiki/lavande"
-  },
-  {
-    "name": "layette rose",
-    "hex": "#ffeeeb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lie-de-vin",
-    "hex": "#ac1e44",
-    "link": "https://fr.wiktionary.org/wiki/lie-de-vin"
-  },
-  {
-    "name": "lilas",
-    "hex": "#b666d2",
-    "link": "https://fr.wiktionary.org/wiki/lilas"
-  },
-  {
-    "name": "lilas fané",
-    "hex": "#814952",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lilas rose",
-    "hex": "#e6ccd9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lin",
-    "hex": "#faf0e6",
-    "link": "https://fr.wiktionary.org/wiki/lin"
-  },
-  {
-    "name": "lin bistre",
-    "hex": "#b39f8b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "litchee",
-    "hex": "#dba9b2",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "lièvre",
-    "hex": "#9a7c5c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "loup gris",
-    "hex": "#625d50",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "loutre",
-    "hex": "#a4835c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "maduro",
-    "hex": "#372f25",
-    "link": "https://fr.wiktionary.org/wiki/maduro"
-  },
-  {
-    "name": "maduro colorado",
-    "hex": "#5b3c11",
-    "link": "https://fr.wiktionary.org/w/index.php?title=maduro_colorado&action=edit&redlink=1"
-  },
-  {
-    "name": "magenta",
-    "hex": "#ff00ff",
-    "link": "https://fr.wiktionary.org/wiki/magenta"
-  },
-  {
-    "name": "malachite",
-    "hex": "#1fa055",
-    "link": "https://fr.wiktionary.org/wiki/malachite"
-  },
-  {
-    "name": "mandarine",
-    "hex": "#fea347",
-    "link": "https://fr.wiktionary.org/wiki/mandarine"
-  },
-  {
-    "name": "mangue",
-    "hex": "#fdbd96",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "marine",
-    "hex": "#03224c",
-    "link": "https://fr.wiktionary.org/wiki/marine"
-  },
-  {
-    "name": "marron",
-    "hex": "#582900",
-    "link": "https://fr.wiktionary.org/wiki/marron"
-  },
-  {
-    "name": "marron doré",
-    "hex": "#ad7239",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "marron glacé",
-    "hex": "#a06c50",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "marée turquoise",
-    "hex": "#64abba",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "mastic",
-    "hex": "#b3b191",
-    "link": "https://fr.wiktionary.org/wiki/mastic"
-  },
-  {
-    "name": "mauve",
-    "hex": "#d473d4",
-    "link": "https://fr.wiktionary.org/wiki/mauve"
-  },
-  {
-    "name": "maïs",
-    "hex": "#ffde75",
-    "link": "https://fr.wiktionary.org/wiki/ma%C3%AFs"
-  },
-  {
-    "name": "melon",
-    "hex": "#de9816",
-    "link": "https://fr.wiktionary.org/wiki/melon"
-  },
-  {
-    "name": "menthe",
-    "hex": "#16b84e",
-    "link": "https://fr.wiktionary.org/wiki/menthe"
-  },
-  {
-    "name": "menthe à l’eau",
-    "hex": "#54f98d",
-    "link": "https://fr.wiktionary.org/wiki/menthe_%C3%A0_l%E2%80%99eau"
-  },
-  {
-    "name": "miel",
-    "hex": "#dab30a",
-    "link": "https://fr.wiktionary.org/wiki/miel"
-  },
-  {
-    "name": "mordoré",
-    "hex": "#87591a",
-    "link": "https://fr.wiktionary.org/wiki/mordor%C3%A9"
-  },
-  {
-    "name": "mordoré",
-    "hex": "#948c36",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "mordoré",
-    "hex": "#938b37",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "moreau",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/moreau"
-  },
-  {
-    "name": "mouette bleutée",
-    "hex": "#a2b5c6",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "moutarde",
-    "hex": "#c7cf00",
-    "link": "https://fr.wiktionary.org/wiki/moutarde"
-  },
-  {
-    "name": "muscade",
-    "hex": "#c28142",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "nacarat",
-    "hex": "#fc5d5d",
-    "link": "https://fr.wiktionary.org/wiki/nacarat"
-  },
-  {
-    "name": "nankin",
-    "hex": "#f7e269",
-    "link": "https://fr.wiktionary.org/wiki/nankin"
-  },
-  {
-    "name": "neige",
-    "hex": "#fefefe",
-    "link": "https://fr.wiktionary.org/wiki/neige"
-  },
-  {
-    "name": "noir",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/noir"
-  },
-  {
-    "name": "noir animal",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/noir_animal"
-  },
-  {
-    "name": "noir charbon",
-    "hex": "#000010",
-    "link": "https://fr.wiktionary.org/w/index.php?title=noir_charbon&action=edit&redlink=1"
-  },
-  {
-    "name": "noir de carbone",
-    "hex": "#130e0a",
-    "link": "https://fr.wiktionary.org/wiki/noir_de_carbone"
-  },
-  {
-    "name": "noir de fumée",
-    "hex": "#130e0a",
-    "link": "https://fr.wiktionary.org/wiki/noir_de_fum%C3%A9e"
-  },
-  {
-    "name": "noir de jais",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/noir_de_jais"
-  },
-  {
-    "name": "noir d’aniline",
-    "hex": "#120d16",
-    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99aniline"
-  },
-  {
-    "name": "noir d’encre",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99encre"
-  },
-  {
-    "name": "noir d’ivoire",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99ivoire"
-  },
-  {
-    "name": "noiraud",
-    "hex": "#2f1e0e",
-    "link": "https://fr.wiktionary.org/wiki/noiraud"
-  },
-  {
-    "name": "noisette",
-    "hex": "#955628",
-    "link": "https://fr.wiktionary.org/wiki/noisette"
-  },
-  {
-    "name": "nougatine",
-    "hex": "#cf7939",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "nuage bleu",
-    "hex": "#eefcfc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ocre",
-    "hex": "#cc7722",
-    "link": "https://fr.wiktionary.org/wiki/ocre"
-  },
-  {
-    "name": "ocre jaune",
-    "hex": "#dfaf2c",
-    "link": "https://fr.wiktionary.org/wiki/ocre_jaune"
-  },
-  {
-    "name": "ocre rouge",
-    "hex": "#dd985c",
-    "link": "https://fr.wiktionary.org/wiki/ocre_rouge"
-  },
-  {
-    "name": "ocre terre de Sienne",
-    "hex": "#ac5414",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ocre toscane",
-    "hex": "#c66218",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "oeillet de poète rose",
-    "hex": "#ff8cae",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "olive",
-    "hex": "#708d23",
-    "link": "https://fr.wiktionary.org/wiki/olive"
-  },
-  {
-    "name": "olive cassée",
-    "hex": "#c7c077",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ombre verte",
-    "hex": "#205f2e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "opalin",
-    "hex": "#f2ffff",
-    "link": "https://fr.wiktionary.org/wiki/opalin"
-  },
-  {
-    "name": "or",
-    "hex": "#d2cb0f",
-    "link": "https://fr.wiktionary.org/wiki/or"
-  },
-  {
-    "name": "or rose",
-    "hex": "#c56a5b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "orange",
-    "hex": "#ed7f10",
-    "link": "https://fr.wiktionary.org/wiki/orange"
-  },
-  {
-    "name": "orange brûlée",
-    "hex": "#cc5500",
-    "link": "https://fr.wiktionary.org/w/index.php?title=orange_br%C3%BBl%C3%A9e&action=edit&redlink=1"
-  },
-  {
-    "name": "orange fluo",
-    "hex": "#f78b13",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "orangé",
-    "hex": "#ed7f10",
-    "link": "https://fr.wiktionary.org/wiki/orang%C3%A9"
-  },
-  {
-    "name": "orchidée",
-    "hex": "#da70d6",
-    "link": "https://fr.wiktionary.org/wiki/orchid%C3%A9e"
-  },
-  {
-    "name": "orpiment",
-    "hex": "#fcd21c",
-    "link": "https://fr.wiktionary.org/wiki/orpiment"
-  },
-  {
-    "name": "orpin de Perse",
-    "hex": "#fcd21c",
-    "link": "https://fr.wiktionary.org/wiki/orpin_de_Perse"
-  },
-  {
-    "name": "oscuro",
-    "hex": "#292107",
-    "link": "https://fr.wiktionary.org/wiki/oscuro"
-  },
-  {
-    "name": "osier",
-    "hex": "#ae7720",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "osier",
-    "hex": "#a26d20",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "paille",
-    "hex": "#fee347",
-    "link": "https://fr.wiktionary.org/wiki/paille"
-  },
-  {
-    "name": "papaye",
-    "hex": "#ffefd5",
-    "link": "https://fr.wiktionary.org/wiki/papaye"
-  },
-  {
-    "name": "papaye orange",
-    "hex": "#f27842",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "papier bulle",
-    "hex": "#edd38c",
-    "link": "https://fr.wiktionary.org/wiki/papier_bulle"
-  },
-  {
-    "name": "parme",
-    "hex": "#cfa0e9",
-    "link": "https://fr.wiktionary.org/wiki/parme"
-  },
-  {
-    "name": "parme clair",
-    "hex": "#e3cbe3",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "passe-velours",
-    "hex": "#91283b",
-    "link": "https://fr.wiktionary.org/wiki/passe-velours"
-  },
-  {
-    "name": "pastel",
-    "hex": "#56739a",
-    "link": "https://fr.wiktionary.org/wiki/pastel"
-  },
-  {
-    "name": "pavé gris",
-    "hex": "#857b61",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "peau de pêche",
-    "hex": "#ffdfd5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "peau rosée",
-    "hex": "#ebb7af",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "pelure d’oignon",
-    "hex": "#d58490",
-    "link": "https://fr.wiktionary.org/w/index.php?title=pelure_d%E2%80%99oignon&action=edit&redlink=1"
-  },
-  {
-    "name": "pensée",
-    "hex": "#835b8b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "perle de Tahiti",
-    "hex": "#566a6a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "pervenche",
-    "hex": "#ccccff",
-    "link": "https://fr.wiktionary.org/wiki/pervenche"
-  },
-  {
-    "name": "petit gris",
-    "hex": "#917b73",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "piment",
-    "hex": "#d21035",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "pinchard",
-    "hex": "#cccccc",
-    "link": "https://fr.wiktionary.org/wiki/pinchard"
-  },
-  {
-    "name": "pistache",
-    "hex": "#d2df84",
-    "link": "https://fr.wiktionary.org/wiki/pistache"
-  },
-  {
-    "name": "platine",
-    "hex": "#faf0c5",
-    "link": "https://fr.wiktionary.org/wiki/platine"
-  },
-  {
-    "name": "plomb",
-    "hex": "#798081",
-    "link": "https://fr.wiktionary.org/wiki/plomb"
-  },
-  {
-    "name": "pluie d'été bleue",
-    "hex": "#d9ebf1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "plume rose",
-    "hex": "#fee7da",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "poil de chameau",
-    "hex": "#b67823",
-    "link": "https://fr.wiktionary.org/wiki/poil_de_chameau"
-  },
-  {
-    "name": "poivre blanc",
-    "hex": "#bcb4ac",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "poivre noir",
-    "hex": "#484848",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "poivre rose",
-    "hex": "#da6783",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ponceau",
-    "hex": "#c60800",
-    "link": "https://fr.wiktionary.org/wiki/ponceau"
-  },
-  {
-    "name": "poterie",
-    "hex": "#f7a777",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "potiron",
-    "hex": "#f56600",
-    "link": "https://fr.wiktionary.org/wiki/potiron"
-  },
-  {
-    "name": "pourpre",
-    "hex": "#9e0e40",
-    "link": "https://fr.wiktionary.org/wiki/pourpre"
-  },
-  {
-    "name": "praliné",
-    "hex": "#a77c49",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "prasin",
-    "hex": "#4ca66b",
-    "link": "https://fr.wiktionary.org/wiki/prasin"
-  },
-  {
-    "name": "prune",
-    "hex": "#811453",
-    "link": "https://fr.wiktionary.org/wiki/prune"
-  },
-  {
-    "name": "puce",
-    "hex": "#4e1609",
-    "link": "https://fr.wiktionary.org/wiki/puce"
-  },
-  {
-    "name": "pétale de rose",
-    "hex": "#fbbfc2",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "pêche",
-    "hex": "#fdbfb7",
-    "link": "https://fr.wiktionary.org/wiki/p%C3%AAche"
-  },
-  {
-    "name": "quartz rose",
-    "hex": "#ffe2e2",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "queue-de-renard",
-    "hex": "#91283b",
-    "link": "https://fr.wiktionary.org/wiki/queue-de-renard"
-  },
-  {
-    "name": "queue-de-vache",
-    "hex": "#c3b470",
-    "link": "https://fr.wiktionary.org/wiki/queue-de-vache"
-  },
-  {
-    "name": "raisin",
-    "hex": "#72375d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "renne gris",
-    "hex": "#6e655c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rhododendron rose",
-    "hex": "#ea9cc4",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose",
-    "hex": "#fd6c9e",
-    "link": "https://fr.wiktionary.org/wiki/rose"
-  },
-  {
-    "name": "rose Aurore",
-    "hex": "#ffc9c9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose Bengale",
-    "hex": "#e02876",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose Grenadine",
-    "hex": "#f5adad",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose Mountbatten",
-    "hex": "#997a8d",
-    "link": "https://fr.wiktionary.org/wiki/rose_Mountbatten"
-  },
-  {
-    "name": "rose Pompadour",
-    "hex": "#e7a9ac",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose ancien",
-    "hex": "#e68a8a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose azalée",
-    "hex": "#ffcbd5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose balais",
-    "hex": "#c4698f",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rose_balais&action=edit&redlink=1"
-  },
-  {
-    "name": "rose bombon",
-    "hex": "#ffa4be",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose bonbon",
-    "hex": "#f9429e",
-    "link": "https://fr.wiktionary.org/wiki/rose_bonbon"
-  },
-  {
-    "name": "rose bruni",
-    "hex": "#f8cac8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose des sables",
-    "hex": "#fed7cc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose dragée",
-    "hex": "#febfd2",
-    "link": "https://fr.wiktionary.org/wiki/rose_drag%C3%A9e"
-  },
-  {
-    "name": "rose flamant",
-    "hex": "#ffded5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose fluo",
-    "hex": "#ff9191",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose foncé",
-    "hex": "#ee546e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose framboise écrasée",
-    "hex": "#ba4a4a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose fuchsia",
-    "hex": "#fd3f92",
-    "link": "https://fr.wiktionary.org/wiki/rose_fuchsia"
-  },
-  {
-    "name": "rose guimauve",
-    "hex": "#f0ced4",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose géranium",
-    "hex": "#ff5773",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose hortensia",
-    "hex": "#e4a6ac",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose impatience",
-    "hex": "#d1286a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose indien",
-    "hex": "#c54989",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose magenta",
-    "hex": "#9c2462",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose magenta foncé",
-    "hex": "#820043",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose pivoine",
-    "hex": "#ffbdbd",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose poivré",
-    "hex": "#dfb3bb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose poudré",
-    "hex": "#ffdfd9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose pétunia",
-    "hex": "#ff798c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose thé",
-    "hex": "#ff866a",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rose_th%C3%A9&action=edit&redlink=1"
-  },
-  {
-    "name": "rose trémière",
-    "hex": "#e8879b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose vif",
-    "hex": "#fdb5b5",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rose églantine",
-    "hex": "#fcb0b9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "roseraie",
-    "hex": "#cf7373",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rosée des prés",
-    "hex": "#f3e1d7",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge",
-    "hex": "#ff0000",
-    "link": "https://fr.wiktionary.org/wiki/rouge"
-  },
-  {
-    "name": "rouge Andrinople",
-    "hex": "#a91101",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_Andrinople&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge Bismarck",
-    "hex": "#a5260a",
-    "link": "https://fr.wiktionary.org/wiki/rouge_Bismarck"
-  },
-  {
-    "name": "rouge anglais",
-    "hex": "#f7230c",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_anglais&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge bordeaux",
-    "hex": "#6d071a",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bordeaux&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge bourgogne",
-    "hex": "#6b0d0d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bourgogne&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge capucine",
-    "hex": "#ff5e4d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_capucine&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge cardinal",
-    "hex": "#b82010",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_cardinal&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge carmin",
-    "hex": "#960018",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_carmin&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge cerise",
-    "hex": "#bb0b0b",
-    "link": "https://fr.wiktionary.org/wiki/rouge_cerise"
-  },
-  {
-    "name": "rouge cinabre",
-    "hex": "#db1702",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_cinabre&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge clair",
-    "hex": "#ff7992",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge coquelicot",
-    "hex": "#c60800",
-    "link": "https://fr.wiktionary.org/wiki/rouge_coquelicot"
-  },
-  {
-    "name": "rouge de Mars",
-    "hex": "#f7230c",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_de_Mars&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge d’Andrinople",
-    "hex": "#a91101",
-    "link": "https://fr.wiktionary.org/wiki/rouge_d%E2%80%99Andrinople"
-  },
-  {
-    "name": "rouge d’alizarine",
-    "hex": "#d90115",
-    "link": "https://fr.wiktionary.org/wiki/rouge_d%E2%80%99alizarine"
-  },
-  {
-    "name": "rouge d’aniline",
-    "hex": "#ed0000",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_d%E2%80%99aniline&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge feu",
-    "hex": "#fe1b00",
-    "link": "https://fr.wiktionary.org/wiki/rouge_feu"
-  },
-  {
-    "name": "rouge fraise",
-    "hex": "#bf3030",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_fraise&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge framboise",
-    "hex": "#c72c48",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_framboise&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge grenadine",
-    "hex": "#e9383f",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_grenadine&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge grenat",
-    "hex": "#6e0b14",
-    "link": "https://fr.wiktionary.org/wiki/rouge_grenat"
-  },
-  {
-    "name": "rouge groseille",
-    "hex": "#cf0a1d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_groseille&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge japonais",
-    "hex": "#bb051f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge laque de Chine",
-    "hex": "#b71f33",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge lie de vin",
-    "hex": "#913546",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge ponceau",
-    "hex": "#c60800",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_ponceau&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge rubis",
-    "hex": "#b33b4b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge sang",
-    "hex": "#850606",
-    "link": "https://fr.wiktionary.org/wiki/rouge_sang"
-  },
-  {
-    "name": "rouge tomate",
-    "hex": "#de2916",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_tomate&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge tomette",
-    "hex": "#ae4a34",
-    "link": "https://fr.wiktionary.org/wiki/rouge_tomette"
-  },
-  {
-    "name": "rouge tulipe",
-    "hex": "#e74967",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge turc",
-    "hex": "#a91101",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_turc&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge vermillon",
-    "hex": "#db1702",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_vermillon&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge vif",
-    "hex": "#fa3203",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge vin",
-    "hex": "#7b001b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge écarlate",
-    "hex": "#e31d42",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge écrevisse",
-    "hex": "#bc2001",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_%C3%A9crevisse&action=edit&redlink=1"
-  },
-  {
-    "name": "rouge égyptien",
-    "hex": "#bf2d2d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge-baiser",
-    "hex": "#a7132b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "rouge-violet",
-    "hex": "#c71585",
-    "link": "https://fr.wiktionary.org/w/index.php?title=rouge-violet&action=edit&redlink=1"
-  },
-  {
-    "name": "rouille",
-    "hex": "#985717",
-    "link": "https://fr.wiktionary.org/wiki/rouille"
-  },
-  {
-    "name": "roux",
-    "hex": "#ad4f09",
-    "link": "https://fr.wiktionary.org/wiki/roux"
-  },
-  {
-    "name": "réglisse",
-    "hex": "#2d241e",
-    "link": "https://fr.wiktionary.org/wiki/r%C3%A9glisse"
-  },
-  {
-    "name": "sable",
-    "hex": "#000000",
-    "link": "https://fr.wiktionary.org/wiki/sable"
-  },
-  {
-    "name": "sable rose",
-    "hex": "#f4bba9",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "safran",
-    "hex": "#f3d617",
-    "link": "https://fr.wiktionary.org/wiki/safran"
-  },
-  {
-    "name": "safre",
-    "hex": "#0131b4",
-    "link": "https://fr.wiktionary.org/wiki/safre"
-  },
-  {
-    "name": "sahara",
-    "hex": "#eccc9e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "sang de bœuf",
-    "hex": "#730800",
-    "link": "https://fr.wiktionary.org/wiki/sang_de_b%C5%93uf"
-  },
-  {
-    "name": "sanguine",
-    "hex": "#850606",
-    "link": "https://fr.wiktionary.org/wiki/sanguine"
-  },
-  {
-    "name": "saphir",
-    "hex": "#0131b4",
-    "link": "https://fr.wiktionary.org/wiki/saphir"
-  },
-  {
-    "name": "sarcelle",
-    "hex": "#008e8e",
-    "link": "https://fr.wiktionary.org/wiki/sarcelle"
-  },
-  {
-    "name": "saumon",
-    "hex": "#f88e55",
-    "link": "https://fr.wiktionary.org/wiki/saumon"
-  },
-  {
-    "name": "savane",
-    "hex": "#e5ce97",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "seigle",
-    "hex": "#d8bc9a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "senois",
-    "hex": "#8d4024",
-    "link": "https://fr.wiktionary.org/wiki/senois"
-  },
-  {
-    "name": "sinople",
-    "hex": "#149414",
-    "link": "https://fr.wiktionary.org/wiki/sinople"
-  },
-  {
-    "name": "sisal",
-    "hex": "#967656",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "smalt",
-    "hex": "#033990",
-    "link": "https://fr.wiktionary.org/wiki/smalt"
-  },
-  {
-    "name": "smaragdin",
-    "hex": "#01d758",
-    "link": "https://fr.wiktionary.org/wiki/smaragdin"
-  },
-  {
-    "name": "soleil couchant",
-    "hex": "#ff7b4d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "sorbet fraise",
-    "hex": "#ea8699",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "soufre",
-    "hex": "#ffff6b",
-    "link": "https://fr.wiktionary.org/wiki/soufre"
-  },
-  {
-    "name": "souris",
-    "hex": "#9e9e9e",
-    "link": "https://fr.wiktionary.org/wiki/souris"
-  },
-  {
-    "name": "sépia",
-    "hex": "#ae8964",
-    "link": "https://fr.wiktionary.org/wiki/s%C3%A9pia"
-  },
-  {
-    "name": "tabac",
-    "hex": "#9f551e",
-    "link": "https://fr.wiktionary.org/wiki/tabac"
-  },
-  {
-    "name": "tanné",
-    "hex": "#a75502",
-    "link": "https://fr.wiktionary.org/wiki/tann%C3%A9"
-  },
-  {
-    "name": "taupe",
-    "hex": "#463f32",
-    "link": "https://fr.wiktionary.org/wiki/taupe"
-  },
-  {
-    "name": "taupe clair",
-    "hex": "#a68881",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "taupe foncé",
-    "hex": "#7d5d57",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "teck",
-    "hex": "#492a13",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "teddy",
-    "hex": "#cb9051",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "tempête",
-    "hex": "#657f7f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "terracotta",
-    "hex": "#e27323",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "terre cuite rosé",
-    "hex": "#d98978",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "terre d'ocre",
-    "hex": "#a98204",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "terre de Sienne",
-    "hex": "#8e5434",
-    "link": "https://fr.wiktionary.org/wiki/terre_de_Sienne"
-  },
-  {
-    "name": "terre d’ombre",
-    "hex": "#926d27",
-    "link": "https://fr.wiktionary.org/wiki/terre_d%E2%80%99ombre"
-  },
-  {
-    "name": "terre rose",
-    "hex": "#a14b51",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "thym vert",
-    "hex": "#7bac94",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "tisane verte",
-    "hex": "#dbbe7f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "tomate",
-    "hex": "#de2916",
-    "link": "https://fr.wiktionary.org/wiki/tomate"
-  },
-  {
-    "name": "topaze",
-    "hex": "#faea73",
-    "link": "https://fr.wiktionary.org/wiki/topaze"
-  },
-  {
-    "name": "tourterelle",
-    "hex": "#bbacac",
-    "link": "https://fr.wiktionary.org/wiki/tourterelle"
-  },
-  {
-    "name": "tuile",
-    "hex": "#bc5544",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "turquoise",
-    "hex": "#25fde9",
-    "link": "https://fr.wiktionary.org/wiki/turquoise"
-  },
-  {
-    "name": "vallée verte",
-    "hex": "#3eb6a1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vanille",
-    "hex": "#e1ce9a",
-    "link": "https://fr.wiktionary.org/wiki/vanille"
-  },
-  {
-    "name": "vent de sable orangé",
-    "hex": "#fad396",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "ventre de biche",
-    "hex": "#e9c9b1",
-    "link": "https://fr.wiktionary.org/wiki/ventre_de_biche"
-  },
-  {
-    "name": "vermeil",
-    "hex": "#ff0921",
-    "link": "https://fr.wiktionary.org/wiki/vermeil"
-  },
-  {
-    "name": "vermillon",
-    "hex": "#db1702",
-    "link": "https://fr.wiktionary.org/wiki/vermillon"
-  },
-  {
-    "name": "vert",
-    "hex": "#00ff00",
-    "link": "https://fr.wiktionary.org/wiki/vert"
-  },
-  {
-    "name": "vert Forêt noire",
-    "hex": "#174923",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert Nil",
-    "hex": "#a6c298",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert Noël",
-    "hex": "#156f49",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert Véronèse",
-    "hex": "#5a6521",
-    "link": "https://fr.wiktionary.org/wiki/vert_V%C3%A9ron%C3%A8se"
-  },
-  {
-    "name": "vert absinthe",
-    "hex": "#7fdd4c",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_absinthe&action=edit&redlink=1"
-  },
-  {
-    "name": "vert acidulé",
-    "hex": "#3d9384",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert algue",
-    "hex": "#313919",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert amande",
-    "hex": "#82c46c",
-    "link": "https://fr.wiktionary.org/wiki/vert_amande"
-  },
-  {
-    "name": "vert amandier",
-    "hex": "#477759",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert anglais",
-    "hex": "#18391e",
-    "link": "https://fr.wiktionary.org/wiki/vert_anglais"
-  },
-  {
-    "name": "vert anis",
-    "hex": "#9fe855",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_anis&action=edit&redlink=1"
-  },
-  {
-    "name": "vert artichaut",
-    "hex": "#898a58",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert avocat",
-    "hex": "#568203",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_avocat&action=edit&redlink=1"
-  },
-  {
-    "name": "vert bambou",
-    "hex": "#006442",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_bambou&action=edit&redlink=1"
-  },
-  {
-    "name": "vert basilic",
-    "hex": "#587141",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert bouteille",
-    "hex": "#096a09",
-    "link": "https://fr.wiktionary.org/wiki/vert_bouteille"
-  },
-  {
-    "name": "vert brin d'herbe",
-    "hex": "#47a72f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert bronze",
-    "hex": "#aa8f56",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert bronze clair",
-    "hex": "#bd9b51",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert buis",
-    "hex": "#405230",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert cactus",
-    "hex": "#888d33",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert canard",
-    "hex": "#559392",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert cardamome",
-    "hex": "#ccb784",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert cendré",
-    "hex": "#889268",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert chartreuse",
-    "hex": "#c2f732",
-    "link": "https://fr.wiktionary.org/wiki/vert_chartreuse"
-  },
-  {
-    "name": "vert chinois",
-    "hex": "#347d75",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert chêne liège",
-    "hex": "#8d784b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert clair",
-    "hex": "#90c0b4",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert coeur de laitue",
-    "hex": "#ccd9b1",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert criquet",
-    "hex": "#a7ae38",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert cyprès",
-    "hex": "#2c6a45",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert céladon",
-    "hex": "#83a697",
-    "link": "https://fr.wiktionary.org/wiki/vert_c%C3%A9ladon"
-  },
-  {
-    "name": "vert céleri",
-    "hex": "#e4ecd4",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert d'eau",
-    "hex": "#a9e2d8",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert de Hooker",
-    "hex": "#1b4f08",
-    "link": "https://fr.wiktionary.org/wiki/vert_de_Hooker"
-  },
-  {
-    "name": "vert de chrome",
-    "hex": "#18391e",
-    "link": "https://fr.wiktionary.org/wiki/vert_de_chrome"
-  },
-  {
-    "name": "vert de gris",
-    "hex": "#95a595",
-    "link": "https://fr.wiktionary.org/wiki/vert_de_gris"
-  },
-  {
-    "name": "vert de vessie",
-    "hex": "#22780f",
-    "link": "https://fr.wiktionary.org/wiki/vert_de_vessie"
-  },
-  {
-    "name": "vert doré",
-    "hex": "#bcb34c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert du Tyrol",
-    "hex": "#406a3a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert du marais",
-    "hex": "#a6a75d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert d’eau",
-    "hex": "#b0f2b6",
-    "link": "https://fr.wiktionary.org/wiki/vert_d%E2%80%99eau"
-  },
-  {
-    "name": "vert empire",
-    "hex": "#00561b",
-    "link": "https://fr.wiktionary.org/wiki/vert_empire"
-  },
-  {
-    "name": "vert estragon",
-    "hex": "#aebf79",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert eucalyptus",
-    "hex": "#4d8361",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert fenouil",
-    "hex": "#8da675",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert figuier",
-    "hex": "#5e6b47",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert fougère",
-    "hex": "#69885a",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert fruits confits",
-    "hex": "#056517",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert galet",
-    "hex": "#c4cdac",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert gazon",
-    "hex": "#3a9d23",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_gazon&action=edit&redlink=1"
-  },
-  {
-    "name": "vert glacier",
-    "hex": "#6fae9f",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert golf",
-    "hex": "#189065",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert herbe",
-    "hex": "#3a9d23",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_herbe&action=edit&redlink=1"
-  },
-  {
-    "name": "vert herbes de Provence",
-    "hex": "#b89d64",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert impérial",
-    "hex": "#00561b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_imp%C3%A9rial&action=edit&redlink=1"
-  },
-  {
-    "name": "vert jade",
-    "hex": "#87e990",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_jade&action=edit&redlink=1"
-  },
-  {
-    "name": "vert kaki",
-    "hex": "#798933",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_kaki&action=edit&redlink=1"
-  },
-  {
-    "name": "vert lichen",
-    "hex": "#85c17e",
-    "link": "https://fr.wiktionary.org/wiki/vert_lichen"
-  },
-  {
-    "name": "vert lierre",
-    "hex": "#044d33",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert lime",
-    "hex": "#9efd38",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_lime&action=edit&redlink=1"
-  },
-  {
-    "name": "vert malachite",
-    "hex": "#1fa055",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_malachite&action=edit&redlink=1"
-  },
-  {
-    "name": "vert malachite clair",
-    "hex": "#a7cdaf",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert menthe",
-    "hex": "#16b84e",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_menthe&action=edit&redlink=1"
-  },
-  {
-    "name": "vert menthe à l'eau",
-    "hex": "#1b9d6b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert menthe à l’eau",
-    "hex": "#54f98d",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_menthe_%C3%A0_l%E2%80%99eau&action=edit&redlink=1"
-  },
-  {
-    "name": "vert militaire",
-    "hex": "#596643",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_militaire&action=edit&redlink=1"
-  },
-  {
-    "name": "vert mousse",
-    "hex": "#679f5a",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_mousse&action=edit&redlink=1"
-  },
-  {
-    "name": "vert mousse de chêne",
-    "hex": "#4c5826",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert mousse dorée",
-    "hex": "#72843c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert mélèze",
-    "hex": "#386f48",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_m%C3%A9l%C3%A8ze&action=edit&redlink=1"
-  },
-  {
-    "name": "vert olive",
-    "hex": "#708d23",
-    "link": "https://fr.wiktionary.org/wiki/vert_olive"
-  },
-  {
-    "name": "vert olivier",
-    "hex": "#5f6648",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert opaline",
-    "hex": "#97dfc6",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_opaline&action=edit&redlink=1"
-  },
-  {
-    "name": "vert perroquet",
-    "hex": "#3af24b",
-    "link": "https://fr.wiktionary.org/wiki/vert_perroquet"
-  },
-  {
-    "name": "vert perruche",
-    "hex": "#628a28",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert peuplier",
-    "hex": "#c4decc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert pin",
-    "hex": "#01796f",
-    "link": "https://fr.wiktionary.org/wiki/vert_pin"
-  },
-  {
-    "name": "vert pinède",
-    "hex": "#338362",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert pistache",
-    "hex": "#bef574",
-    "link": "https://fr.wiktionary.org/wiki/vert_pistache"
-  },
-  {
-    "name": "vert poireau",
-    "hex": "#4ca66b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_poireau&action=edit&redlink=1"
-  },
-  {
-    "name": "vert pomme",
-    "hex": "#34c924",
-    "link": "https://fr.wiktionary.org/wiki/vert_pomme"
-  },
-  {
-    "name": "vert pousse de bambou",
-    "hex": "#d7edcc",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert prairie",
-    "hex": "#57d53b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_prairie&action=edit&redlink=1"
-  },
-  {
-    "name": "vert prasin",
-    "hex": "#4ca66b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_prasin&action=edit&redlink=1"
-  },
-  {
-    "name": "vert printemps",
-    "hex": "#00fe7e",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_printemps&action=edit&redlink=1"
-  },
-  {
-    "name": "vert prés",
-    "hex": "#57d53b",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_pr%C3%A9s&action=edit&redlink=1"
-  },
-  {
-    "name": "vert pâle",
-    "hex": "#a2d6ad",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert rizière",
-    "hex": "#88ba91",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert romarin",
-    "hex": "#728256",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert résine",
-    "hex": "#b9b982",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert sapin",
-    "hex": "#095228",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_sapin&action=edit&redlink=1"
-  },
-  {
-    "name": "vert sauge",
-    "hex": "#689d71",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_sauge&action=edit&redlink=1"
-  },
-  {
-    "name": "vert scarabée",
-    "hex": "#71935c",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert serpent",
-    "hex": "#65a57d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert smaragdin",
-    "hex": "#01d758",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_smaragdin&action=edit&redlink=1"
-  },
-  {
-    "name": "vert sous-bois",
-    "hex": "#424d21",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert steppe",
-    "hex": "#bfa671",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert tendre",
-    "hex": "#b9d7c0",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert tilleul",
-    "hex": "#a5d152",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_tilleul&action=edit&redlink=1"
-  },
-  {
-    "name": "vert treillis",
-    "hex": "#969e7e",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert turquoise",
-    "hex": "#1ffed8",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_turquoise&action=edit&redlink=1"
-  },
-  {
-    "name": "vert tweed",
-    "hex": "#9ca482",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert émeraude",
-    "hex": "#01d758",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_%C3%A9meraude&action=edit&redlink=1"
-  },
-  {
-    "name": "vert épicéa",
-    "hex": "#508b7d",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vert épinard",
-    "hex": "#175732",
-    "link": "https://fr.wiktionary.org/w/index.php?title=vert_%C3%A9pinard&action=edit&redlink=1"
-  },
-  {
-    "name": "vert étang",
-    "hex": "#396f52",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "verveine",
-    "hex": "#738b5b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "verveine rose",
-    "hex": "#e24874",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vieil or",
-    "hex": "#ce9124",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vieux Rose",
-    "hex": "#e2a099",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "vin de framboise",
-    "hex": "#c96b70",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "violet",
-    "hex": "#8806ce",
-    "link": "https://fr.wiktionary.org/wiki/violet"
-  },
-  {
-    "name": "violet d’évêque",
-    "hex": "#723e64",
-    "link": "https://fr.wiktionary.org/wiki/violet_d%E2%80%99%C3%A9v%C3%AAque"
-  },
-  {
-    "name": "violet foncé",
-    "hex": "#633666",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "violet pastel",
-    "hex": "#dbb3cb",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "violet pourpre",
-    "hex": "#946083",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "violette",
-    "hex": "#803a6b",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "violine",
-    "hex": "#a10684",
-    "link": "https://fr.wiktionary.org/wiki/violine"
-  },
-  {
-    "name": "viride",
-    "hex": "#40826d",
-    "link": "https://fr.wiktionary.org/wiki/viride"
-  },
-  {
-    "name": "vison",
-    "hex": "#653919",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "zinzolin",
-    "hex": "#6c0277",
-    "link": "https://fr.wiktionary.org/wiki/zinzolin"
-  },
-  {
-    "name": "ébène",
+    "name": "Ebène",
     "hex": "#000000",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9b%C3%A8ne"
   },
   {
-    "name": "écarlate",
+    "name": "Ecarlate",
     "hex": "#ed0000",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9carlate"
   },
   {
-    "name": "écru",
+    "name": "Eclat d'Emeraude",
+    "hex": "#49b3a1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ecorce",
+    "hex": "#7f6a55",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ecru",
     "hex": "#fefee0",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9cru"
   },
   {
-    "name": "émeraude",
+    "name": "Ecureuil",
+    "hex": "#b35f2b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Edelweiss",
+    "hex": "#f9f7f1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Embruns Bleutés",
+    "hex": "#7eb1c8",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Emeraude",
     "hex": "#01d758",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9meraude"
   },
   {
-    "name": "étain",
+    "name": "Encre Bleue",
+    "hex": "#2c597c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Epices",
+    "hex": "#f2af68",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Etain",
     "hex": "#ededed",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9tain"
   },
   {
-    "name": "étain oxydé",
+    "name": "Etain Oxydé",
     "hex": "#bababa",
     "link": "https://fr.wiktionary.org/wiki/%C3%A9tain_oxyd%C3%A9"
+  },
+  {
+    "name": "Falaise",
+    "hex": "#ebeae7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fard à Joue Rose",
+    "hex": "#f27688",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fauve",
+    "hex": "#ad4f09",
+    "link": "https://fr.wiktionary.org/wiki/fauve"
+  },
+  {
+    "name": "Fennec",
+    "hex": "#bc8d0e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fer",
+    "hex": "#848484",
+    "link": "https://fr.wiktionary.org/wiki/fer"
+  },
+  {
+    "name": "Fer Forgé",
+    "hex": "#6b5743",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Feu",
+    "hex": "#eb6307",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Feu Vif",
+    "hex": "#ff4901",
+    "link": "https://fr.wiktionary.org/w/index.php?title=feu_vif&action=edit&redlink=1"
+  },
+  {
+    "name": "Feuille-Morte",
+    "hex": "#99512b",
+    "link": "https://fr.wiktionary.org/wiki/feuille-morte"
+  },
+  {
+    "name": "Feutre Gris",
+    "hex": "#b1aa97",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ficelle",
+    "hex": "#dcc4aa",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Flamant Rose",
+    "hex": "#ffadbc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Flave",
+    "hex": "#e6e697",
+    "link": "https://fr.wiktionary.org/wiki/flave"
+  },
+  {
+    "name": "Fleur de Lin Bleue",
+    "hex": "#b0c0da",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fleur de Soufre",
+    "hex": "#ffff6b",
+    "link": "https://fr.wiktionary.org/wiki/fleur_de_soufre"
+  },
+  {
+    "name": "Fleur de Thym Parme",
+    "hex": "#ba91aa",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fond de Teint",
+    "hex": "#fbd5bb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fraise",
+    "hex": "#bf3030",
+    "link": "https://fr.wiktionary.org/wiki/fraise"
+  },
+  {
+    "name": "Fraise Ecrasée",
+    "hex": "#a42424",
+    "link": "https://fr.wiktionary.org/wiki/fraise_%C3%A9cras%C3%A9e"
+  },
+  {
+    "name": "Fraise des Bois",
+    "hex": "#b32f48",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Framboise",
+    "hex": "#c72c48",
+    "link": "https://fr.wiktionary.org/wiki/framboise"
+  },
+  {
+    "name": "Framboise Glacée",
+    "hex": "#bc4365",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fruits Rouges",
+    "hex": "#970b23",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#fd3f92",
+    "link": "https://fr.wiktionary.org/wiki/fuchsia"
+  },
+  {
+    "name": "Fumée Grise",
+    "hex": "#877d73",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Fuschia",
+    "hex": "#f3478b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Galet",
+    "hex": "#636458",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Garance",
+    "hex": "#ee1010",
+    "link": "https://fr.wiktionary.org/wiki/garance"
+  },
+  {
+    "name": "Gingembre",
+    "hex": "#d2bca6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Glaise",
+    "hex": "#ba8b7c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Glauque",
+    "hex": "#649b88",
+    "link": "https://fr.wiktionary.org/wiki/glauque"
+  },
+  {
+    "name": "Glycine",
+    "hex": "#c9a0dc",
+    "link": "https://fr.wiktionary.org/wiki/glycine"
+  },
+  {
+    "name": "Glycine Violette",
+    "hex": "#ada7c7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Grand Bleu",
+    "hex": "#3b768f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Granit Gris",
+    "hex": "#ababab",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Granit Rose",
+    "hex": "#9b5b66",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Granny Smith",
+    "hex": "#c7e666",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Grenadine",
+    "hex": "#e9383f",
+    "link": "https://fr.wiktionary.org/wiki/grenadine"
+  },
+  {
+    "name": "Grenat",
+    "hex": "#6e0b14",
+    "link": "https://fr.wiktionary.org/wiki/grenat"
+  },
+  {
+    "name": "Gris",
+    "hex": "#333333",
+    "link": "https://fr.wiktionary.org/wiki/gris"
+  },
+  {
+    "name": "Gris Anthracite",
+    "hex": "#424242",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Chromé",
+    "hex": "#d3d3d6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Eléphant",
+    "hex": "#8e9078",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Falaise",
+    "hex": "#4f4b41",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Fer",
+    "hex": "#7f7f7f",
+    "link": "https://fr.wiktionary.org/wiki/gris_fer"
+  },
+  {
+    "name": "Gris Fumée",
+    "hex": "#bbd2e1",
+    "link": "https://fr.wiktionary.org/w/index.php?title=gris_fum%C3%A9e&action=edit&redlink=1"
+  },
+  {
+    "name": "Gris Perle",
+    "hex": "#cecece",
+    "link": "https://fr.wiktionary.org/wiki/gris_perle"
+  },
+  {
+    "name": "Gris Pierre Ponce",
+    "hex": "#e6e8e8",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Pigeon",
+    "hex": "#c0b3ae",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Plomb",
+    "hex": "#798081",
+    "link": "https://fr.wiktionary.org/w/index.php?title=gris_plomb&action=edit&redlink=1"
+  },
+  {
+    "name": "Gris Rocher",
+    "hex": "#b0a69c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Rosé",
+    "hex": "#956f7c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Souris",
+    "hex": "#9e9e9e",
+    "link": "https://fr.wiktionary.org/wiki/gris_souris"
+  },
+  {
+    "name": "Gris Taupe",
+    "hex": "#463f32",
+    "link": "https://fr.wiktionary.org/w/index.php?title=gris_taupe&action=edit&redlink=1"
+  },
+  {
+    "name": "Gris Terre d'Ombre",
+    "hex": "#a49878",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Tourdille",
+    "hex": "#c1bfb1",
+    "link": "https://fr.wiktionary.org/w/index.php?title=gris_tourdille&action=edit&redlink=1"
+  },
+  {
+    "name": "Gris Tourterelle",
+    "hex": "#d7cecb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris Vert",
+    "hex": "#98aeae",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Gris de Lin",
+    "hex": "#d2caec",
+    "link": "https://fr.wiktionary.org/wiki/gris_de_lin"
+  },
+  {
+    "name": "Gris de Maure",
+    "hex": "#685e43",
+    "link": "https://fr.wiktionary.org/w/index.php?title=gris_de_maure&action=edit&redlink=1"
+  },
+  {
+    "name": "Gris de Payne",
+    "hex": "#677179",
+    "link": "https://fr.wiktionary.org/wiki/gris_de_Payne"
+  },
+  {
+    "name": "Groseille",
+    "hex": "#cf0a1d",
+    "link": "https://fr.wiktionary.org/wiki/groseille"
+  },
+  {
+    "name": "Grotte Marine",
+    "hex": "#3f7c85",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Grège",
+    "hex": "#bbae98",
+    "link": "https://fr.wiktionary.org/wiki/gr%C3%A8ge"
+  },
+  {
+    "name": "Gueules",
+    "hex": "#e21313",
+    "link": "https://fr.wiktionary.org/wiki/gueules"
+  },
+  {
+    "name": "Havane",
+    "hex": "#947f60",
+    "link": "https://fr.wiktionary.org/wiki/havane"
+  },
+  {
+    "name": "Houblon",
+    "hex": "#e4b468",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Huître",
+    "hex": "#bdcbcb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Héliotrope",
+    "hex": "#df73ff",
+    "link": "https://fr.wiktionary.org/wiki/h%C3%A9liotrope"
+  },
+  {
+    "name": "Hêtre",
+    "hex": "#f7bb77",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Incarnadin",
+    "hex": "#fe96a0",
+    "link": "https://fr.wiktionary.org/wiki/incarnadin"
+  },
+  {
+    "name": "Incarnat",
+    "hex": "#ff6f7d",
+    "link": "https://fr.wiktionary.org/wiki/incarnat"
+  },
+  {
+    "name": "Indigo",
+    "hex": "#791cf8",
+    "link": "https://fr.wiktionary.org/wiki/indigo"
+  },
+  {
+    "name": "Indigo Clair",
+    "hex": "#739fc1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Iris",
+    "hex": "#776b98",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Isabelle",
+    "hex": "#785e2f",
+    "link": "https://fr.wiktionary.org/wiki/isabelle"
+  },
+  {
+    "name": "Ivoire",
+    "hex": "#ffffd4",
+    "link": "https://fr.wiktionary.org/wiki/ivoire"
+  },
+  {
+    "name": "Jacinthe Rose",
+    "hex": "#ffb0be",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jade",
+    "hex": "#87e990",
+    "link": "https://fr.wiktionary.org/wiki/jade"
+  },
+  {
+    "name": "Jais",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/jais"
+  },
+  {
+    "name": "Jaune",
+    "hex": "#ffff00",
+    "link": "https://fr.wiktionary.org/wiki/jaune"
+  },
+  {
+    "name": "Jaune Auréolin",
+    "hex": "#efd242",
+    "link": "https://fr.wiktionary.org/wiki/jaune_aur%C3%A9olin"
+  },
+  {
+    "name": "Jaune Banane",
+    "hex": "#d1b606",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_banane&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Bouton d'or",
+    "hex": "#f6dc12",
+    "link": "https://fr.wiktionary.org/wiki/jaune_bouton_d%E2%80%99or"
+  },
+  {
+    "name": "Jaune Canari",
+    "hex": "#e7f00d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_canari&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Citron",
+    "hex": "#f7ff3c",
+    "link": "https://fr.wiktionary.org/wiki/jaune_citron"
+  },
+  {
+    "name": "Jaune Curry",
+    "hex": "#ffb515",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jaune Fleur de Soufre",
+    "hex": "#ffff6b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_fleur_de_soufre&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Impérial",
+    "hex": "#ffe436",
+    "link": "https://fr.wiktionary.org/wiki/jaune_imp%C3%A9rial"
+  },
+  {
+    "name": "Jaune Maïs",
+    "hex": "#ffde75",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_ma%C3%AFs&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Mimosa",
+    "hex": "#fef86c",
+    "link": "https://fr.wiktionary.org/wiki/jaune_mimosa"
+  },
+  {
+    "name": "Jaune Moutarde",
+    "hex": "#c7cf00",
+    "link": "https://fr.wiktionary.org/wiki/jaune_moutarde"
+  },
+  {
+    "name": "Jaune Nankin",
+    "hex": "#f7e269",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_nankin&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Paille",
+    "hex": "#fee347",
+    "link": "https://fr.wiktionary.org/wiki/jaune_paille"
+  },
+  {
+    "name": "Jaune Pamplemousse",
+    "hex": "#ffe793",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jaune Poussin",
+    "hex": "#f7e35f",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_poussin&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune Primevère",
+    "hex": "#fff1af",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jaune Pâle",
+    "hex": "#fdf9cd",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jaune Soufre",
+    "hex": "#ffff6b",
+    "link": "https://fr.wiktionary.org/wiki/jaune_soufre"
+  },
+  {
+    "name": "Jaune Vif",
+    "hex": "#ffd600",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jaune d'or",
+    "hex": "#efd807",
+    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_d%E2%80%99or&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune de Chrome",
+    "hex": "#edff0c",
+    "link": "https://fr.wiktionary.org/wiki/jaune_de_chrome"
+  },
+  {
+    "name": "Jaune de Mars",
+    "hex": "#eed153",
+    "link": "https://fr.wiktionary.org/wiki/jaune_de_Mars"
+  },
+  {
+    "name": "Jaune de Naples",
+    "hex": "#fff0bc",
+    "link": "https://fr.wiktionary.org/wiki/jaune_de_Naples"
+  },
+  {
+    "name": "Jonquille",
+    "hex": "#ffe300",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Jute",
+    "hex": "#bc9a78",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Kaki",
+    "hex": "#94812b",
+    "link": "https://fr.wiktionary.org/wiki/kaki"
+  },
+  {
+    "name": "Lagon",
+    "hex": "#12aeba",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lagune Turquoise",
+    "hex": "#90c3cc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Laine de Vigogne",
+    "hex": "#cbb69c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Laiton",
+    "hex": "#c8ab6c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lama",
+    "hex": "#8a6e4e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lapis",
+    "hex": "#464563",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lapis-Lazuli",
+    "hex": "#26619c",
+    "link": "https://fr.wiktionary.org/wiki/lapis-lazuli"
+  },
+  {
+    "name": "Laurier Vert",
+    "hex": "#617a52",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lavallière",
+    "hex": "#8f5922",
+    "link": "https://fr.wiktionary.org/wiki/lavalli%C3%A8re"
+  },
+  {
+    "name": "Lavande",
+    "hex": "#9683ec",
+    "link": "https://fr.wiktionary.org/wiki/lavande"
+  },
+  {
+    "name": "Layette Rose",
+    "hex": "#ffeeeb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lie-de-vin",
+    "hex": "#ac1e44",
+    "link": "https://fr.wiktionary.org/wiki/lie-de-vin"
+  },
+  {
+    "name": "Lilas",
+    "hex": "#b666d2",
+    "link": "https://fr.wiktionary.org/wiki/lilas"
+  },
+  {
+    "name": "Lilas Fané",
+    "hex": "#814952",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lilas Rose",
+    "hex": "#e6ccd9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lin",
+    "hex": "#faf0e6",
+    "link": "https://fr.wiktionary.org/wiki/lin"
+  },
+  {
+    "name": "Lin Bistre",
+    "hex": "#b39f8b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Litchee",
+    "hex": "#dba9b2",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Lièvre",
+    "hex": "#9a7c5c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Loup Gris",
+    "hex": "#625d50",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Loutre",
+    "hex": "#a4835c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Maduro",
+    "hex": "#372f25",
+    "link": "https://fr.wiktionary.org/wiki/maduro"
+  },
+  {
+    "name": "Maduro Colorado",
+    "hex": "#5b3c11",
+    "link": "https://fr.wiktionary.org/w/index.php?title=maduro_colorado&action=edit&redlink=1"
+  },
+  {
+    "name": "Magenta",
+    "hex": "#ff00ff",
+    "link": "https://fr.wiktionary.org/wiki/magenta"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#1fa055",
+    "link": "https://fr.wiktionary.org/wiki/malachite"
+  },
+  {
+    "name": "Mandarine",
+    "hex": "#fea347",
+    "link": "https://fr.wiktionary.org/wiki/mandarine"
+  },
+  {
+    "name": "Mangue",
+    "hex": "#fdbd96",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Marine",
+    "hex": "#03224c",
+    "link": "https://fr.wiktionary.org/wiki/marine"
+  },
+  {
+    "name": "Marron",
+    "hex": "#582900",
+    "link": "https://fr.wiktionary.org/wiki/marron"
+  },
+  {
+    "name": "Marron Doré",
+    "hex": "#ad7239",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Marron Glacé",
+    "hex": "#a06c50",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Marée Turquoise",
+    "hex": "#64abba",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Mastic",
+    "hex": "#b3b191",
+    "link": "https://fr.wiktionary.org/wiki/mastic"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#d473d4",
+    "link": "https://fr.wiktionary.org/wiki/mauve"
+  },
+  {
+    "name": "Maïs",
+    "hex": "#ffde75",
+    "link": "https://fr.wiktionary.org/wiki/ma%C3%AFs"
+  },
+  {
+    "name": "Melon",
+    "hex": "#de9816",
+    "link": "https://fr.wiktionary.org/wiki/melon"
+  },
+  {
+    "name": "Menthe",
+    "hex": "#16b84e",
+    "link": "https://fr.wiktionary.org/wiki/menthe"
+  },
+  {
+    "name": "Menthe à l'Eau",
+    "hex": "#54f98d",
+    "link": "https://fr.wiktionary.org/wiki/menthe_%C3%A0_l%E2%80%99eau"
+  },
+  {
+    "name": "Miel",
+    "hex": "#dab30a",
+    "link": "https://fr.wiktionary.org/wiki/miel"
+  },
+  {
+    "name": "Mordoré",
+    "hex": "#87591a",
+    "link": "https://fr.wiktionary.org/wiki/mordor%C3%A9"
+  },
+  {
+    "name": "Mordoré",
+    "hex": "#948c36",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Mordoré",
+    "hex": "#938b37",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Moreau",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/moreau"
+  },
+  {
+    "name": "Mouette Bleutée",
+    "hex": "#a2b5c6",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Moutarde",
+    "hex": "#c7cf00",
+    "link": "https://fr.wiktionary.org/wiki/moutarde"
+  },
+  {
+    "name": "Muscade",
+    "hex": "#c28142",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Nacarat",
+    "hex": "#fc5d5d",
+    "link": "https://fr.wiktionary.org/wiki/nacarat"
+  },
+  {
+    "name": "Nankin",
+    "hex": "#f7e269",
+    "link": "https://fr.wiktionary.org/wiki/nankin"
+  },
+  {
+    "name": "Neige",
+    "hex": "#fefefe",
+    "link": "https://fr.wiktionary.org/wiki/neige"
+  },
+  {
+    "name": "Noir",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/noir"
+  },
+  {
+    "name": "Noir Animal",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/noir_animal"
+  },
+  {
+    "name": "Noir Charbon",
+    "hex": "#000010",
+    "link": "https://fr.wiktionary.org/w/index.php?title=noir_charbon&action=edit&redlink=1"
+  },
+  {
+    "name": "Noir d'Aniline",
+    "hex": "#120d16",
+    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99aniline"
+  },
+  {
+    "name": "Noir d'Encre",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99encre"
+  },
+  {
+    "name": "Noir d'Ivoire",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/noir_d%E2%80%99ivoire"
+  },
+  {
+    "name": "Noir de Carbone",
+    "hex": "#130e0a",
+    "link": "https://fr.wiktionary.org/wiki/noir_de_carbone"
+  },
+  {
+    "name": "Noir de Fumée",
+    "hex": "#130e0a",
+    "link": "https://fr.wiktionary.org/wiki/noir_de_fum%C3%A9e"
+  },
+  {
+    "name": "Noir de Jais",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/noir_de_jais"
+  },
+  {
+    "name": "Noiraud",
+    "hex": "#2f1e0e",
+    "link": "https://fr.wiktionary.org/wiki/noiraud"
+  },
+  {
+    "name": "Noisette",
+    "hex": "#955628",
+    "link": "https://fr.wiktionary.org/wiki/noisette"
+  },
+  {
+    "name": "Nougatine",
+    "hex": "#cf7939",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Nuage Bleu",
+    "hex": "#eefcfc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ocre",
+    "hex": "#cc7722",
+    "link": "https://fr.wiktionary.org/wiki/ocre"
+  },
+  {
+    "name": "Ocre Jaune",
+    "hex": "#dfaf2c",
+    "link": "https://fr.wiktionary.org/wiki/ocre_jaune"
+  },
+  {
+    "name": "Ocre Rouge",
+    "hex": "#dd985c",
+    "link": "https://fr.wiktionary.org/wiki/ocre_rouge"
+  },
+  {
+    "name": "Ocre Terre de Sienne",
+    "hex": "#ac5414",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ocre Toscane",
+    "hex": "#c66218",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Oeillet de Poète Rose",
+    "hex": "#ff8cae",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Olive",
+    "hex": "#708d23",
+    "link": "https://fr.wiktionary.org/wiki/olive"
+  },
+  {
+    "name": "Olive Cassée",
+    "hex": "#c7c077",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ombre Verte",
+    "hex": "#205f2e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Opalin",
+    "hex": "#f2ffff",
+    "link": "https://fr.wiktionary.org/wiki/opalin"
+  },
+  {
+    "name": "Or",
+    "hex": "#d2cb0f",
+    "link": "https://fr.wiktionary.org/wiki/or"
+  },
+  {
+    "name": "Or Rose",
+    "hex": "#c56a5b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Orange",
+    "hex": "#ed7f10",
+    "link": "https://fr.wiktionary.org/wiki/orange"
+  },
+  {
+    "name": "Orange Brûlée",
+    "hex": "#cc5500",
+    "link": "https://fr.wiktionary.org/w/index.php?title=orange_br%C3%BBl%C3%A9e&action=edit&redlink=1"
+  },
+  {
+    "name": "Orange Fluo",
+    "hex": "#f78b13",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Orangé",
+    "hex": "#ed7f10",
+    "link": "https://fr.wiktionary.org/wiki/orang%C3%A9"
+  },
+  {
+    "name": "Orchidée",
+    "hex": "#da70d6",
+    "link": "https://fr.wiktionary.org/wiki/orchid%C3%A9e"
+  },
+  {
+    "name": "Orpiment",
+    "hex": "#fcd21c",
+    "link": "https://fr.wiktionary.org/wiki/orpiment"
+  },
+  {
+    "name": "Orpin de Perse",
+    "hex": "#fcd21c",
+    "link": "https://fr.wiktionary.org/wiki/orpin_de_Perse"
+  },
+  {
+    "name": "Oscuro",
+    "hex": "#292107",
+    "link": "https://fr.wiktionary.org/wiki/oscuro"
+  },
+  {
+    "name": "Osier",
+    "hex": "#ae7720",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Osier",
+    "hex": "#a26d20",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Paille",
+    "hex": "#fee347",
+    "link": "https://fr.wiktionary.org/wiki/paille"
+  },
+  {
+    "name": "Papaye",
+    "hex": "#ffefd5",
+    "link": "https://fr.wiktionary.org/wiki/papaye"
+  },
+  {
+    "name": "Papaye Orange",
+    "hex": "#f27842",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Papier Bulle",
+    "hex": "#edd38c",
+    "link": "https://fr.wiktionary.org/wiki/papier_bulle"
+  },
+  {
+    "name": "Parme",
+    "hex": "#cfa0e9",
+    "link": "https://fr.wiktionary.org/wiki/parme"
+  },
+  {
+    "name": "Parme Clair",
+    "hex": "#e3cbe3",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Passe-Velours",
+    "hex": "#91283b",
+    "link": "https://fr.wiktionary.org/wiki/passe-velours"
+  },
+  {
+    "name": "Pastel",
+    "hex": "#56739a",
+    "link": "https://fr.wiktionary.org/wiki/pastel"
+  },
+  {
+    "name": "Pavé Gris",
+    "hex": "#857b61",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Peau Rosée",
+    "hex": "#ebb7af",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Peau de Pêche",
+    "hex": "#ffdfd5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Pelure d'Oignon",
+    "hex": "#d58490",
+    "link": "https://fr.wiktionary.org/w/index.php?title=pelure_d%E2%80%99oignon&action=edit&redlink=1"
+  },
+  {
+    "name": "Pensée",
+    "hex": "#835b8b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Perle de Tahiti",
+    "hex": "#566a6a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Pervenche",
+    "hex": "#ccccff",
+    "link": "https://fr.wiktionary.org/wiki/pervenche"
+  },
+  {
+    "name": "Petit Gris",
+    "hex": "#917b73",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Piment",
+    "hex": "#d21035",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Pinchard",
+    "hex": "#cccccc",
+    "link": "https://fr.wiktionary.org/wiki/pinchard"
+  },
+  {
+    "name": "Pistache",
+    "hex": "#d2df84",
+    "link": "https://fr.wiktionary.org/wiki/pistache"
+  },
+  {
+    "name": "Platine",
+    "hex": "#faf0c5",
+    "link": "https://fr.wiktionary.org/wiki/platine"
+  },
+  {
+    "name": "Plomb",
+    "hex": "#798081",
+    "link": "https://fr.wiktionary.org/wiki/plomb"
+  },
+  {
+    "name": "Pluie d'Eté Bleue",
+    "hex": "#d9ebf1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Plume Rose",
+    "hex": "#fee7da",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Poil de Chameau",
+    "hex": "#b67823",
+    "link": "https://fr.wiktionary.org/wiki/poil_de_chameau"
+  },
+  {
+    "name": "Poivre Blanc",
+    "hex": "#bcb4ac",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Poivre Noir",
+    "hex": "#484848",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Poivre Rose",
+    "hex": "#da6783",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ponceau",
+    "hex": "#c60800",
+    "link": "https://fr.wiktionary.org/wiki/ponceau"
+  },
+  {
+    "name": "Poterie",
+    "hex": "#f7a777",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Potiron",
+    "hex": "#f56600",
+    "link": "https://fr.wiktionary.org/wiki/potiron"
+  },
+  {
+    "name": "Pourpre",
+    "hex": "#9e0e40",
+    "link": "https://fr.wiktionary.org/wiki/pourpre"
+  },
+  {
+    "name": "Praliné",
+    "hex": "#a77c49",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Prasin",
+    "hex": "#4ca66b",
+    "link": "https://fr.wiktionary.org/wiki/prasin"
+  },
+  {
+    "name": "Prune",
+    "hex": "#811453",
+    "link": "https://fr.wiktionary.org/wiki/prune"
+  },
+  {
+    "name": "Puce",
+    "hex": "#4e1609",
+    "link": "https://fr.wiktionary.org/wiki/puce"
+  },
+  {
+    "name": "Pétale de Rose",
+    "hex": "#fbbfc2",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Pêche",
+    "hex": "#fdbfb7",
+    "link": "https://fr.wiktionary.org/wiki/p%C3%AAche"
+  },
+  {
+    "name": "Quartz Rose",
+    "hex": "#ffe2e2",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Queue-de-renard",
+    "hex": "#91283b",
+    "link": "https://fr.wiktionary.org/wiki/queue-de-renard"
+  },
+  {
+    "name": "Queue-de-vache",
+    "hex": "#c3b470",
+    "link": "https://fr.wiktionary.org/wiki/queue-de-vache"
+  },
+  {
+    "name": "Raisin",
+    "hex": "#72375d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Renne Gris",
+    "hex": "#6e655c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rhododendron Rose",
+    "hex": "#ea9cc4",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose",
+    "hex": "#fd6c9e",
+    "link": "https://fr.wiktionary.org/wiki/rose"
+  },
+  {
+    "name": "Rose Ancien",
+    "hex": "#e68a8a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Aurore",
+    "hex": "#ffc9c9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Azalée",
+    "hex": "#ffcbd5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Balais",
+    "hex": "#c4698f",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rose_balais&action=edit&redlink=1"
+  },
+  {
+    "name": "Rose Bengale",
+    "hex": "#e02876",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Bombon",
+    "hex": "#ffa4be",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#f9429e",
+    "link": "https://fr.wiktionary.org/wiki/rose_bonbon"
+  },
+  {
+    "name": "Rose Bruni",
+    "hex": "#f8cac8",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Dragée",
+    "hex": "#febfd2",
+    "link": "https://fr.wiktionary.org/wiki/rose_drag%C3%A9e"
+  },
+  {
+    "name": "Rose Eglantine",
+    "hex": "#fcb0b9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Flamant",
+    "hex": "#ffded5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Fluo",
+    "hex": "#ff9191",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Foncé",
+    "hex": "#ee546e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Framboise Ecrasée",
+    "hex": "#ba4a4a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Fuchsia",
+    "hex": "#fd3f92",
+    "link": "https://fr.wiktionary.org/wiki/rose_fuchsia"
+  },
+  {
+    "name": "Rose Grenadine",
+    "hex": "#f5adad",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Guimauve",
+    "hex": "#f0ced4",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Géranium",
+    "hex": "#ff5773",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Hortensia",
+    "hex": "#e4a6ac",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Impatience",
+    "hex": "#d1286a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Indien",
+    "hex": "#c54989",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Magenta",
+    "hex": "#9c2462",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Magenta Foncé",
+    "hex": "#820043",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Mountbatten",
+    "hex": "#997a8d",
+    "link": "https://fr.wiktionary.org/wiki/rose_Mountbatten"
+  },
+  {
+    "name": "Rose Pivoine",
+    "hex": "#ffbdbd",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Poivré",
+    "hex": "#dfb3bb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Pompadour",
+    "hex": "#e7a9ac",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Poudré",
+    "hex": "#ffdfd9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Pétunia",
+    "hex": "#ff798c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Thé",
+    "hex": "#ff866a",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rose_th%C3%A9&action=edit&redlink=1"
+  },
+  {
+    "name": "Rose Trémière",
+    "hex": "#e8879b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose Vif",
+    "hex": "#fdb5b5",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rose des Sables",
+    "hex": "#fed7cc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Roseraie",
+    "hex": "#cf7373",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rosée des Prés",
+    "hex": "#f3e1d7",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge",
+    "hex": "#ff0000",
+    "link": "https://fr.wiktionary.org/wiki/rouge"
+  },
+  {
+    "name": "Rouge Andrinople",
+    "hex": "#a91101",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_Andrinople&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Anglais",
+    "hex": "#f7230c",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_anglais&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Bismarck",
+    "hex": "#a5260a",
+    "link": "https://fr.wiktionary.org/wiki/rouge_Bismarck"
+  },
+  {
+    "name": "Rouge Bordeaux",
+    "hex": "#6d071a",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bordeaux&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Bourgogne",
+    "hex": "#6b0d0d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_bourgogne&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Capucine",
+    "hex": "#ff5e4d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_capucine&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Cardinal",
+    "hex": "#b82010",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_cardinal&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Carmin",
+    "hex": "#960018",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_carmin&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Cerise",
+    "hex": "#bb0b0b",
+    "link": "https://fr.wiktionary.org/wiki/rouge_cerise"
+  },
+  {
+    "name": "Rouge Cinabre",
+    "hex": "#db1702",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_cinabre&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Clair",
+    "hex": "#ff7992",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Coquelicot",
+    "hex": "#c60800",
+    "link": "https://fr.wiktionary.org/wiki/rouge_coquelicot"
+  },
+  {
+    "name": "Rouge Ecarlate",
+    "hex": "#e31d42",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Ecrevisse",
+    "hex": "#bc2001",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_%C3%A9crevisse&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Egyptien",
+    "hex": "#bf2d2d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Feu",
+    "hex": "#fe1b00",
+    "link": "https://fr.wiktionary.org/wiki/rouge_feu"
+  },
+  {
+    "name": "Rouge Fraise",
+    "hex": "#bf3030",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_fraise&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Framboise",
+    "hex": "#c72c48",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_framboise&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Grenadine",
+    "hex": "#e9383f",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_grenadine&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Grenat",
+    "hex": "#6e0b14",
+    "link": "https://fr.wiktionary.org/wiki/rouge_grenat"
+  },
+  {
+    "name": "Rouge Groseille",
+    "hex": "#cf0a1d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_groseille&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Japonais",
+    "hex": "#bb051f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Laque de Chine",
+    "hex": "#b71f33",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Lie de Vin",
+    "hex": "#913546",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Ponceau",
+    "hex": "#c60800",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_ponceau&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Rubis",
+    "hex": "#b33b4b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Sang",
+    "hex": "#850606",
+    "link": "https://fr.wiktionary.org/wiki/rouge_sang"
+  },
+  {
+    "name": "Rouge Tomate",
+    "hex": "#de2916",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_tomate&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Tomette",
+    "hex": "#ae4a34",
+    "link": "https://fr.wiktionary.org/wiki/rouge_tomette"
+  },
+  {
+    "name": "Rouge Tulipe",
+    "hex": "#e74967",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Turc",
+    "hex": "#a91101",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_turc&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Vermillon",
+    "hex": "#db1702",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_vermillon&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge Vif",
+    "hex": "#fa3203",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge Vin",
+    "hex": "#7b001b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge d'Alizarine",
+    "hex": "#d90115",
+    "link": "https://fr.wiktionary.org/wiki/rouge_d%E2%80%99alizarine"
+  },
+  {
+    "name": "Rouge d'Andrinople",
+    "hex": "#a91101",
+    "link": "https://fr.wiktionary.org/wiki/rouge_d%E2%80%99Andrinople"
+  },
+  {
+    "name": "Rouge d'Aniline",
+    "hex": "#ed0000",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_d%E2%80%99aniline&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge de Mars",
+    "hex": "#f7230c",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge_de_Mars&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouge-Baiser",
+    "hex": "#a7132b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Rouge-Violet",
+    "hex": "#c71585",
+    "link": "https://fr.wiktionary.org/w/index.php?title=rouge-violet&action=edit&redlink=1"
+  },
+  {
+    "name": "Rouille",
+    "hex": "#985717",
+    "link": "https://fr.wiktionary.org/wiki/rouille"
+  },
+  {
+    "name": "Roux",
+    "hex": "#ad4f09",
+    "link": "https://fr.wiktionary.org/wiki/roux"
+  },
+  {
+    "name": "Réglisse",
+    "hex": "#2d241e",
+    "link": "https://fr.wiktionary.org/wiki/r%C3%A9glisse"
+  },
+  {
+    "name": "Sable",
+    "hex": "#000000",
+    "link": "https://fr.wiktionary.org/wiki/sable"
+  },
+  {
+    "name": "Sable Rose",
+    "hex": "#f4bba9",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Safran",
+    "hex": "#f3d617",
+    "link": "https://fr.wiktionary.org/wiki/safran"
+  },
+  {
+    "name": "Safre",
+    "hex": "#0131b4",
+    "link": "https://fr.wiktionary.org/wiki/safre"
+  },
+  {
+    "name": "Sahara",
+    "hex": "#eccc9e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Sang de Bœuf",
+    "hex": "#730800",
+    "link": "https://fr.wiktionary.org/wiki/sang_de_b%C5%93uf"
+  },
+  {
+    "name": "Sanguine",
+    "hex": "#850606",
+    "link": "https://fr.wiktionary.org/wiki/sanguine"
+  },
+  {
+    "name": "Saphir",
+    "hex": "#0131b4",
+    "link": "https://fr.wiktionary.org/wiki/saphir"
+  },
+  {
+    "name": "Sarcelle",
+    "hex": "#008e8e",
+    "link": "https://fr.wiktionary.org/wiki/sarcelle"
+  },
+  {
+    "name": "Saumon",
+    "hex": "#f88e55",
+    "link": "https://fr.wiktionary.org/wiki/saumon"
+  },
+  {
+    "name": "Savane",
+    "hex": "#e5ce97",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Seigle",
+    "hex": "#d8bc9a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Senois",
+    "hex": "#8d4024",
+    "link": "https://fr.wiktionary.org/wiki/senois"
+  },
+  {
+    "name": "Sinople",
+    "hex": "#149414",
+    "link": "https://fr.wiktionary.org/wiki/sinople"
+  },
+  {
+    "name": "Sisal",
+    "hex": "#967656",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Smalt",
+    "hex": "#033990",
+    "link": "https://fr.wiktionary.org/wiki/smalt"
+  },
+  {
+    "name": "Smaragdin",
+    "hex": "#01d758",
+    "link": "https://fr.wiktionary.org/wiki/smaragdin"
+  },
+  {
+    "name": "Soleil Couchant",
+    "hex": "#ff7b4d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Sorbet Fraise",
+    "hex": "#ea8699",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Soufre",
+    "hex": "#ffff6b",
+    "link": "https://fr.wiktionary.org/wiki/soufre"
+  },
+  {
+    "name": "Souris",
+    "hex": "#9e9e9e",
+    "link": "https://fr.wiktionary.org/wiki/souris"
+  },
+  {
+    "name": "Sépia",
+    "hex": "#ae8964",
+    "link": "https://fr.wiktionary.org/wiki/s%C3%A9pia"
+  },
+  {
+    "name": "Tabac",
+    "hex": "#9f551e",
+    "link": "https://fr.wiktionary.org/wiki/tabac"
+  },
+  {
+    "name": "Tanné",
+    "hex": "#a75502",
+    "link": "https://fr.wiktionary.org/wiki/tann%C3%A9"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#463f32",
+    "link": "https://fr.wiktionary.org/wiki/taupe"
+  },
+  {
+    "name": "Taupe Clair",
+    "hex": "#a68881",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Taupe Foncé",
+    "hex": "#7d5d57",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Teck",
+    "hex": "#492a13",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Teddy",
+    "hex": "#cb9051",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Tempête",
+    "hex": "#657f7f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Terracotta",
+    "hex": "#e27323",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Terre Cuite Rosé",
+    "hex": "#d98978",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Terre Rose",
+    "hex": "#a14b51",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Terre d'Ocre",
+    "hex": "#a98204",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Terre d'Ombre",
+    "hex": "#926d27",
+    "link": "https://fr.wiktionary.org/wiki/terre_d%E2%80%99ombre"
+  },
+  {
+    "name": "Terre de Sienne",
+    "hex": "#8e5434",
+    "link": "https://fr.wiktionary.org/wiki/terre_de_Sienne"
+  },
+  {
+    "name": "Thym Vert",
+    "hex": "#7bac94",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Tisane Verte",
+    "hex": "#dbbe7f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Tomate",
+    "hex": "#de2916",
+    "link": "https://fr.wiktionary.org/wiki/tomate"
+  },
+  {
+    "name": "Topaze",
+    "hex": "#faea73",
+    "link": "https://fr.wiktionary.org/wiki/topaze"
+  },
+  {
+    "name": "Tourterelle",
+    "hex": "#bbacac",
+    "link": "https://fr.wiktionary.org/wiki/tourterelle"
+  },
+  {
+    "name": "Tuile",
+    "hex": "#bc5544",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Turquoise",
+    "hex": "#25fde9",
+    "link": "https://fr.wiktionary.org/wiki/turquoise"
+  },
+  {
+    "name": "Vallée Verte",
+    "hex": "#3eb6a1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vanille",
+    "hex": "#e1ce9a",
+    "link": "https://fr.wiktionary.org/wiki/vanille"
+  },
+  {
+    "name": "Vent de Sable Orangé",
+    "hex": "#fad396",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Ventre de Biche",
+    "hex": "#e9c9b1",
+    "link": "https://fr.wiktionary.org/wiki/ventre_de_biche"
+  },
+  {
+    "name": "Vermeil",
+    "hex": "#ff0921",
+    "link": "https://fr.wiktionary.org/wiki/vermeil"
+  },
+  {
+    "name": "Vermillon",
+    "hex": "#db1702",
+    "link": "https://fr.wiktionary.org/wiki/vermillon"
+  },
+  {
+    "name": "Vert",
+    "hex": "#00ff00",
+    "link": "https://fr.wiktionary.org/wiki/vert"
+  },
+  {
+    "name": "Vert Absinthe",
+    "hex": "#7fdd4c",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_absinthe&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Acidulé",
+    "hex": "#3d9384",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Algue",
+    "hex": "#313919",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Amande",
+    "hex": "#82c46c",
+    "link": "https://fr.wiktionary.org/wiki/vert_amande"
+  },
+  {
+    "name": "Vert Amandier",
+    "hex": "#477759",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Anglais",
+    "hex": "#18391e",
+    "link": "https://fr.wiktionary.org/wiki/vert_anglais"
+  },
+  {
+    "name": "Vert Anis",
+    "hex": "#9fe855",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_anis&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Artichaut",
+    "hex": "#898a58",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Avocat",
+    "hex": "#568203",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_avocat&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Bambou",
+    "hex": "#006442",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_bambou&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Basilic",
+    "hex": "#587141",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Bouteille",
+    "hex": "#096a09",
+    "link": "https://fr.wiktionary.org/wiki/vert_bouteille"
+  },
+  {
+    "name": "Vert Brin d'Herbe",
+    "hex": "#47a72f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Bronze",
+    "hex": "#aa8f56",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Bronze Clair",
+    "hex": "#bd9b51",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Buis",
+    "hex": "#405230",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Cactus",
+    "hex": "#888d33",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Canard",
+    "hex": "#559392",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Cardamome",
+    "hex": "#ccb784",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Cendré",
+    "hex": "#889268",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Chartreuse",
+    "hex": "#c2f732",
+    "link": "https://fr.wiktionary.org/wiki/vert_chartreuse"
+  },
+  {
+    "name": "Vert Chinois",
+    "hex": "#347d75",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Chêne Liège",
+    "hex": "#8d784b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Clair",
+    "hex": "#90c0b4",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Coeur de Laitue",
+    "hex": "#ccd9b1",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Criquet",
+    "hex": "#a7ae38",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Cyprès",
+    "hex": "#2c6a45",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Céladon",
+    "hex": "#83a697",
+    "link": "https://fr.wiktionary.org/wiki/vert_c%C3%A9ladon"
+  },
+  {
+    "name": "Vert Céleri",
+    "hex": "#e4ecd4",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Doré",
+    "hex": "#bcb34c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Emeraude",
+    "hex": "#01d758",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_%C3%A9meraude&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Empire",
+    "hex": "#00561b",
+    "link": "https://fr.wiktionary.org/wiki/vert_empire"
+  },
+  {
+    "name": "Vert Epicéa",
+    "hex": "#508b7d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Epinard",
+    "hex": "#175732",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_%C3%A9pinard&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Estragon",
+    "hex": "#aebf79",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Etang",
+    "hex": "#396f52",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Eucalyptus",
+    "hex": "#4d8361",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Fenouil",
+    "hex": "#8da675",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Figuier",
+    "hex": "#5e6b47",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Forêt Noire",
+    "hex": "#174923",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Fougère",
+    "hex": "#69885a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Fruits Confits",
+    "hex": "#056517",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Galet",
+    "hex": "#c4cdac",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Gazon",
+    "hex": "#3a9d23",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_gazon&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Glacier",
+    "hex": "#6fae9f",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Golf",
+    "hex": "#189065",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Herbe",
+    "hex": "#3a9d23",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_herbe&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Herbes de Provence",
+    "hex": "#b89d64",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Impérial",
+    "hex": "#00561b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_imp%C3%A9rial&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Jade",
+    "hex": "#87e990",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_jade&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Kaki",
+    "hex": "#798933",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_kaki&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Lichen",
+    "hex": "#85c17e",
+    "link": "https://fr.wiktionary.org/wiki/vert_lichen"
+  },
+  {
+    "name": "Vert Lierre",
+    "hex": "#044d33",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Lime",
+    "hex": "#9efd38",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_lime&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Malachite",
+    "hex": "#1fa055",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_malachite&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Malachite Clair",
+    "hex": "#a7cdaf",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Menthe",
+    "hex": "#16b84e",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_menthe&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Menthe à l'Eau",
+    "hex": "#54f98d",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_menthe_%C3%A0_l%E2%80%99eau&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Militaire",
+    "hex": "#596643",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_militaire&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Mousse",
+    "hex": "#679f5a",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_mousse&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Mousse Dorée",
+    "hex": "#72843c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Mousse de Chêne",
+    "hex": "#4c5826",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Mélèze",
+    "hex": "#386f48",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_m%C3%A9l%C3%A8ze&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Nil",
+    "hex": "#a6c298",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Noël",
+    "hex": "#156f49",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Olive",
+    "hex": "#708d23",
+    "link": "https://fr.wiktionary.org/wiki/vert_olive"
+  },
+  {
+    "name": "Vert Olivier",
+    "hex": "#5f6648",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Opaline",
+    "hex": "#97dfc6",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_opaline&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Perroquet",
+    "hex": "#3af24b",
+    "link": "https://fr.wiktionary.org/wiki/vert_perroquet"
+  },
+  {
+    "name": "Vert Perruche",
+    "hex": "#628a28",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Peuplier",
+    "hex": "#c4decc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Pin",
+    "hex": "#01796f",
+    "link": "https://fr.wiktionary.org/wiki/vert_pin"
+  },
+  {
+    "name": "Vert Pinède",
+    "hex": "#338362",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Pistache",
+    "hex": "#bef574",
+    "link": "https://fr.wiktionary.org/wiki/vert_pistache"
+  },
+  {
+    "name": "Vert Poireau",
+    "hex": "#4ca66b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_poireau&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Pomme",
+    "hex": "#34c924",
+    "link": "https://fr.wiktionary.org/wiki/vert_pomme"
+  },
+  {
+    "name": "Vert Pousse de Bambou",
+    "hex": "#d7edcc",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Prairie",
+    "hex": "#57d53b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_prairie&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Prasin",
+    "hex": "#4ca66b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_prasin&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Printemps",
+    "hex": "#00fe7e",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_printemps&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Prés",
+    "hex": "#57d53b",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_pr%C3%A9s&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Pâle",
+    "hex": "#a2d6ad",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Rizière",
+    "hex": "#88ba91",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Romarin",
+    "hex": "#728256",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Résine",
+    "hex": "#b9b982",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Sapin",
+    "hex": "#095228",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_sapin&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Sauge",
+    "hex": "#689d71",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_sauge&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Scarabée",
+    "hex": "#71935c",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Serpent",
+    "hex": "#65a57d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Smaragdin",
+    "hex": "#01d758",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_smaragdin&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Sous-Bois",
+    "hex": "#424d21",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Steppe",
+    "hex": "#bfa671",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Tendre",
+    "hex": "#b9d7c0",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Tilleul",
+    "hex": "#a5d152",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_tilleul&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Treillis",
+    "hex": "#969e7e",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Turquoise",
+    "hex": "#1ffed8",
+    "link": "https://fr.wiktionary.org/w/index.php?title=vert_turquoise&action=edit&redlink=1"
+  },
+  {
+    "name": "Vert Tweed",
+    "hex": "#9ca482",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert Véronèse",
+    "hex": "#5a6521",
+    "link": "https://fr.wiktionary.org/wiki/vert_V%C3%A9ron%C3%A8se"
+  },
+  {
+    "name": "Vert d'Eau",
+    "hex": "#b0f2b6",
+    "link": "https://fr.wiktionary.org/wiki/vert_d%E2%80%99eau"
+  },
+  {
+    "name": "Vert de Chrome",
+    "hex": "#18391e",
+    "link": "https://fr.wiktionary.org/wiki/vert_de_chrome"
+  },
+  {
+    "name": "Vert de Gris",
+    "hex": "#95a595",
+    "link": "https://fr.wiktionary.org/wiki/vert_de_gris"
+  },
+  {
+    "name": "Vert de Hooker",
+    "hex": "#1b4f08",
+    "link": "https://fr.wiktionary.org/wiki/vert_de_Hooker"
+  },
+  {
+    "name": "Vert de Vessie",
+    "hex": "#22780f",
+    "link": "https://fr.wiktionary.org/wiki/vert_de_vessie"
+  },
+  {
+    "name": "Vert du Marais",
+    "hex": "#a6a75d",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vert du Tyrol",
+    "hex": "#406a3a",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Verveine",
+    "hex": "#738b5b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Verveine Rose",
+    "hex": "#e24874",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vieil or",
+    "hex": "#ce9124",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vieux Rose",
+    "hex": "#e2a099",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Vin de Framboise",
+    "hex": "#c96b70",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Violet",
+    "hex": "#8806ce",
+    "link": "https://fr.wiktionary.org/wiki/violet"
+  },
+  {
+    "name": "Violet Foncé",
+    "hex": "#633666",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Violet Pastel",
+    "hex": "#dbb3cb",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Violet Pourpre",
+    "hex": "#946083",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Violet d'Evêque",
+    "hex": "#723e64",
+    "link": "https://fr.wiktionary.org/wiki/violet_d%E2%80%99%C3%A9v%C3%AAque"
+  },
+  {
+    "name": "Violette",
+    "hex": "#803a6b",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Violine",
+    "hex": "#a10684",
+    "link": "https://fr.wiktionary.org/wiki/violine"
+  },
+  {
+    "name": "Viride",
+    "hex": "#40826d",
+    "link": "https://fr.wiktionary.org/wiki/viride"
+  },
+  {
+    "name": "Vison",
+    "hex": "#653919",
+    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Zinzolin",
+    "hex": "#6c0277",
+    "link": "https://fr.wiktionary.org/wiki/zinzolin"
   }
 ]
