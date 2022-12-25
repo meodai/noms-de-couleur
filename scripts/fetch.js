@@ -147,7 +147,35 @@ const pages = [
       return colorList;
     }
   },
+  {
+    name: 'Papeteries Montsegur',
+    sources: [
+      'https://www.papeteries-montsegur.com/content/23-nuancier-interactif?content_only=1',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorRows = document.querySelectorAll('#sb-container > div:not(:last-child)');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        
+        const link = 'https://www.papeteries-montsegur.com/';
+        const hex = window.getComputedStyle(
+          colorRow
+        )['background-color'];
+        const name = colorRow.querySelector('h4 > span').innerHTML.split('<br>')[0].trim();
+
+        colorList.push({
+          name, hex, link,
+        });
+        
+      }
+
+      return colorList;
+    }
+  },
 ];
+
 
 let colors = [];
 

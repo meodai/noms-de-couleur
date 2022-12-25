@@ -400,6 +400,11 @@
     "link": "https://fr.wikipedia.org/wiki/Blanc_lunaire"
   },
   {
+    "name": "Blanc Nacre",
+    "hex": "#f6f6f6",
+    "link": "https://www.papeteries-montsegur.com/"
+  },
+  {
     "name": "Blanc Neige",
     "hex": "#f1ede1",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
@@ -493,6 +498,11 @@
     "name": "Bleu Aqua",
     "hex": "#b9d3d1",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Bleu Arctique",
+    "hex": "#aae1ee",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Bleu Ardoise",
@@ -951,8 +961,8 @@
   },
   {
     "name": "Bleu de Minuit",
-    "hex": "#033660",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_minuit&action=edit&redlink=1"
+    "hex": "#1e1e2f",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Bleu de Perse",
@@ -1610,6 +1620,11 @@
     "link": "https://fr.wikipedia.org/wiki/Cramoisi"
   },
   {
+    "name": "Creme",
+    "hex": "#fce9ca",
+    "link": "https://www.papeteries-montsegur.com/"
+  },
+  {
     "name": "Crevette",
     "hex": "#f7976f",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -1828,6 +1843,11 @@
     "name": "Ecru",
     "hex": "#fefee0",
     "link": "https://fr.wikipedia.org/wiki/%C3%89cru"
+  },
+  {
+    "name": "Ecru Sable",
+    "hex": "#c8b993",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Ecureuil",
@@ -2110,6 +2130,11 @@
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
+    "name": "Girolle",
+    "hex": "#f6b655",
+    "link": "https://www.papeteries-montsegur.com/"
+  },
+  {
     "name": "Glaise",
     "hex": "#ba8b7c",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -2308,6 +2333,11 @@
     "name": "Gris Industriel",
     "hex": "#686d70",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Gris Mezzo",
+    "hex": "#858b8e",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Gris Miroir",
@@ -2718,6 +2748,11 @@
     "name": "Jaune Paille",
     "hex": "#fee347",
     "link": "https://fr.wikipedia.org/wiki/Paille_(couleur)"
+  },
+  {
+    "name": "Jaune Pale",
+    "hex": "#fff68f",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Jaune Pamplemousse",
@@ -3410,6 +3445,11 @@
     "link": "https://fr.wiktionary.org/wiki/noir_de_jais"
   },
   {
+    "name": "Noir de Mars",
+    "hex": "#0f100d",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Noiraud",
     "hex": "#2f1e0e",
     "link": "https://fr.wiktionary.org/wiki/noiraud"
@@ -3670,6 +3710,11 @@
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
+    "name": "Peche",
+    "hex": "#f8c496",
+    "link": "https://www.papeteries-montsegur.com/"
+  },
+  {
     "name": "Pelure d'Oignon",
     "hex": "#d58490",
     "link": "https://fr.wikipedia.org/wiki/Pelure_d%27oignon"
@@ -3705,6 +3750,11 @@
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
+    "name": "Pierre de Fiel",
+    "hex": "#e5b53f",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Pierre de Lave",
     "hex": "#737372",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
@@ -3723,6 +3773,11 @@
     "name": "Pistache",
     "hex": "#d2df84",
     "link": "https://fr.wiktionary.org/wiki/pistache"
+  },
+  {
+    "name": "Pivoine",
+    "hex": "#92353b",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Plaines d'Asie Clair",
@@ -3828,6 +3883,11 @@
     "name": "Pourpre",
     "hex": "#9e0e40",
     "link": "https://fr.wikipedia.org/wiki/Pourpre"
+  },
+  {
+    "name": "Pourpre Hélios",
+    "hex": "#a3294d",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Pourpre de Venise",
@@ -4063,6 +4123,11 @@
     "name": "Rose Organza",
     "hex": "#dec7cb",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Rose Pale",
+    "hex": "#fdced6",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Rose Paradis",
@@ -4420,6 +4485,16 @@
     "link": "https://fr.wikipedia.org/wiki/Oxyde_de_fer(III)"
   },
   {
+    "name": "Rouge de Venise",
+    "hex": "#6b3634",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
+    "name": "Rouge à Lèvres",
+    "hex": "#d22e2e",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Rouge-Baiser",
     "hex": "#a7132b",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -4580,6 +4655,11 @@
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
+    "name": "Solferino",
+    "hex": "#692d6c",
+    "link": "https://www.papeteries-montsegur.com/"
+  },
+  {
     "name": "Sorbet Fraise",
     "hex": "#ea8699",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -4598,6 +4678,11 @@
     "name": "Suédine Beige",
     "hex": "#d8bcaa",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Syrah",
+    "hex": "#442239",
+    "link": "https://www.papeteries-montsegur.com/"
   },
   {
     "name": "Sépia",
@@ -5076,8 +5161,8 @@
   },
   {
     "name": "Vert Emeraude",
-    "hex": "#03d95a",
-    "link": "https://fr.wikipedia.org/wiki/%C3%89meraude_(couleur)"
+    "hex": "#31725c",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Vert Empire",
@@ -5421,7 +5506,7 @@
   },
   {
     "name": "Vert Smaragdin",
-    "hex": "#04da5b",
+    "hex": "#03d95a",
     "link": "https://fr.wiktionary.org/w/index.php?title=vert_smaragdin&action=edit&redlink=1"
   },
   {

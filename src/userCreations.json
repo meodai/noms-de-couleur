@@ -14,6 +14,51 @@
       "name": "flamme rouge",
       "hex": "#dd6a2d",
       "author": "@meodai"
+    },
+    {
+      "name": "rouge à lèvres",
+      "hex": "#d22e2e",
+      "author": "@meodai"
+    },
+    {
+      "name": "Pourpre Hélios",
+      "hex": "#a3294d",
+      "author": "@meodai"
+    },
+    {
+      "name": "Vert émeraude",
+      "hex": "#31725c",
+      "author": "@meodai"
+    },
+    {
+      "name": "bleu de minuit",
+      "hex": "#1e1e2f",
+      "author": "@meodai"
+    },
+    {
+      "name": "Rouge de Venise",
+      "hex": "#6b3634",
+      "author": "@meodai"
+    },
+    {
+      "name": "Pierre de fiel",
+      "hex": "#e5b53f",
+      "author": "@meodai"
+    },
+    {
+      "name": "Noir de Mars",
+      "hex": "#0f100d",
+      "author": "@meodai"
+    },
+    {
+      "name": "Vert de mai",
+      "hex": "#6ca843",
+      "author": "@meodai"
+    },
+    {
+      "name": "Turquoise de cobalt",
+      "hex": "#469bb1",
+      "author": "@meodai"
     }
   ]
 }
