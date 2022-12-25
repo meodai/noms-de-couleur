@@ -1225,11 +1225,6 @@
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "Coquille d'Oeuf",
-    "hex": "#ffeee3",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
     "name": "Coquille d'Œuf",
     "hex": "#fde9e0",
     "link": "https://fr.wikipedia.org/wiki/Coquille_d%27œuf"
@@ -1488,6 +1483,11 @@
     "name": "Flamant Rose",
     "hex": "#ffadbc",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Flamme Rouge",
+    "hex": "#dd6a2d",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Flave",
@@ -3830,11 +3830,6 @@
     "link": "https://fr.wikipedia.org/wiki/Vert_oxyde_de_chrome"
   },
   {
-    "name": "Vert de Gris",
-    "hex": "#95a595",
-    "link": "https://fr.wiktionary.org/wiki/vert_de_gris"
-  },
-  {
     "name": "Vert de Hooker",
     "hex": "#1b4f08",
     "link": "https://fr.wikipedia.org/wiki/Vert_de_Hooker"
@@ -3856,7 +3851,7 @@
   },
   {
     "name": "Vert-de-gris",
-    "hex": "#96a696",
+    "hex": "#95a595",
     "link": "https://fr.wikipedia.org/wiki/Vert-de-gris"
   },
   {

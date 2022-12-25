@@ -160,8 +160,15 @@ userColors.forEach(color => {
   // remove duplicate names from colors list
   // while keeping the first occurence
   colors = colors.filter((c, i) => {
-    const name = c.name.toLowerCase();
-    const index = colors.findIndex(c => c.name.toLowerCase().localeCompare(name) === 0);
+    const referenceName = c.name.toLowerCase().replace(/-/g, ' ').replace(/Œ/ig, 'oe');
+    const index = colors.findIndex(
+      c => c.name.toLowerCase()
+                 .replace(/-/g, ' ')
+                 .replace(/Œ/ig, 'oe')
+                 .localeCompare(
+                    referenceName
+                  ) === 0
+    );
     if (index === i) {
       return true;
     }
