@@ -3,6 +3,12 @@ import path from 'path';
 import puppeteer from 'puppeteer';
 import { formatHex } from 'culori';
 
+// to add
+// - http://pourpre.com/fr/dictionnaire/alpha/c
+// - https://influenz.design/mag/couleurs-et-leurs-noms
+// - https://encycolorpedia.fr/named
+// - https://podarilove.ru/fr/unusual-names-of-color-shades/ <- probably manually
+
 const pages = [
   {
     name: 'Wiktionary',
@@ -23,7 +29,11 @@ const pages = [
         
         const name = $wrap.innerText;
         const link = $wrap.href;
-        const hex = '#' + colorRow.querySelector('td:nth-child(2)').getAttribute('bgcolor');
+        // because sometimes the bgcolor attribute is not a valid color
+        // but somehow the browser gets it right anyway
+        const hex = window.getComputedStyle(
+          colorRow.querySelector('td:nth-child(2)')
+        )['background-color'];
         colorList.push({
           name, hex, link,
         });
@@ -87,6 +97,17 @@ let colors = [];
     c.name = c.name.charAt(0).toLowerCase() + c.name.slice(1);
   });
 
+  // remove duplicate names from colors list
+  // while keeping the first occurence
+  colors = colors.filter((c, i) => {
+    const name = c.name.toLowerCase();
+    const index = colors.findIndex(c => c.name.toLowerCase() === name);
+    if (index === i) {
+      return true;
+    }
+    return false;
+  });
+
   // sort colors by name
   colors.sort((a, b) => {
     if (a.name < b.name) {
@@ -100,17 +121,6 @@ let colors = [];
     // remove parentheses and its contents from name
     c.name = c.name.replace(/\(.*\)/, '').trim();
     c.hex = formatHex(c.hex);
-  });
-
-  // remove duplicate names from colors list
-  // while keeping the first occurence
-  colors = colors.filter((c, i) => {
-    const name = c.name.toLowerCase();
-    const index = colors.findIndex(c => c.name.toLowerCase() === name);
-    if (index === i) {
-      return true;
-    }
-    return false;
   });
 
   
