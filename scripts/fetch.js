@@ -6,11 +6,45 @@ import { formatHex } from 'culori';
 
 // to add
 // - http://pourpre.com/fr/dictionnaire/alpha/c
-// - https://influenz.design/mag/couleurs-et-leurs-noms
 // - https://encycolorpedia.fr/named
 // - https://podarilove.ru/fr/unusual-names-of-color-shades/ <- probably manually
 
 const pages = [
+  {
+    name: 'influenz.design',
+    sources: [
+      'https://influenz.design/mag/couleurs-et-leurs-noms',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorTable = document.querySelector('div.col.sqs-col-12.span-12');
+      const colorRows = colorTable.querySelectorAll('div.summary-item-has-thumbnail');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        const $wrap = colorRow.querySelector('.summary-excerpt-gallery-caption-description');
+        
+        if ($wrap) {
+          const $link = colorRow.querySelector('a');
+          const titleParts = $link.dataset.title.split(' / ');
+          let link = $link.getAttribute('href');
+          // if link does not start with http, it's a relative link
+          // so we need to add the domain
+          if (link && !link.startsWith('http')) {
+            link = 'https://influenz.design' + link;
+          }
+          
+          const hex = titleParts[1].trim();
+          const name = titleParts[0].trim();
+          colorList.push({
+            name, hex, link,
+          });
+        }
+      }
+
+      return colorList;
+    }
+  },
   {
     name: 'Wiktionary',
     sources: [
@@ -118,10 +152,16 @@ let colors = [];
       return 1;
     }
     return 0;
-  }).forEach(c => {
+  })
+  
+  // sanitize hex values and names
+  colors.forEach(c => {
     // remove parentheses and its contents from name
     c.name = c.name.replace(/\(.*\)/, '').trim();
     c.hex = formatHex(c.hex);
+    if (!c.hex) {
+      console.wran(`invalid hex: ${c.name} (${c.link})`);
+    }
   });
 
   
