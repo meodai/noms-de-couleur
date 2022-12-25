@@ -225,11 +225,6 @@
     "link": "https://fr.wikipedia.org/wiki/Beige"
   },
   {
-    "name": "Beige",
-    "hex": "#f5f5dc",
-    "link": "https://fr.wikipedia.org/wiki/Beige#Variantes_de_teinte"
-  },
-  {
     "name": "Beige Cachemire",
     "hex": "#ffe2cf",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -2215,16 +2210,6 @@
     "link": "https://fr.wiktionary.org/wiki/mordor%C3%A9"
   },
   {
-    "name": "Mordoré",
-    "hex": "#948c36",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
-    "name": "Mordoré",
-    "hex": "#938b37",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
-  },
-  {
     "name": "Moreau",
     "hex": "#040404",
     "link": "https://fr.wiktionary.org/wiki/moreau"
@@ -2326,11 +2311,6 @@
   },
   {
     "name": "Ocre",
-    "hex": "#dd985c",
-    "link": "https://fr.wikipedia.org/wiki/Ocre_rouge"
-  },
-  {
-    "name": "Ocre",
     "hex": "#dfaf2c",
     "link": "https://fr.wikipedia.org/wiki/Ocre"
   },
@@ -2341,7 +2321,7 @@
   },
   {
     "name": "Ocre Rouge",
-    "hex": "#de995d",
+    "hex": "#dd985c",
     "link": "https://fr.wiktionary.org/wiki/ocre_rouge"
   },
   {
@@ -2433,11 +2413,6 @@
     "name": "Oscuro",
     "hex": "#292107",
     "link": "https://fr.wiktionary.org/wiki/oscuro"
-  },
-  {
-    "name": "Osier",
-    "hex": "#ae7720",
-    "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
     "name": "Osier",

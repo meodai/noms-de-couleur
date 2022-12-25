@@ -8,6 +8,6 @@ Recueil de noms de couleur en français.
 - [Couleurs de Influenz Design](https://influenz.design/mag/couleurs-et-leurs-noms)
 - [Liste de Marcel Délèze](https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php)
   
-## List of Color Names 🔖 (**793**)
+## List of Color Names 🔖 (**788**)
 
 ![Toutes les couleurs](colors.svg "Liste de couleur")

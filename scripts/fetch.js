@@ -139,12 +139,22 @@ userColors.forEach(color => {
 
   await browser.close();
 
-
   // data sanitization
   
   // title case each color name
   colors.forEach(c => {
     c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'").trim());
+  });
+
+
+  // sanitize hex values and names
+  colors.forEach(c => {
+    // remove parentheses and its contents from name
+    c.name = c.name.replace(/\(.*\)/, '').trim();
+    c.hex = formatHex(c.hex);
+    if (!c.hex) {
+      console.wran(`invalid hex: ${c.name} (${c.link})`);
+    }
   });
 
   // remove duplicate names from colors list
@@ -167,16 +177,6 @@ userColors.forEach(color => {
       return 1;
     }
     return 0;
-  })
-  
-  // sanitize hex values and names
-  colors.forEach(c => {
-    // remove parentheses and its contents from name
-    c.name = c.name.replace(/\(.*\)/, '').trim();
-    c.hex = formatHex(c.hex);
-    if (!c.hex) {
-      console.wran(`invalid hex: ${c.name} (${c.link})`);
-    }
   });
 
   // find duplicate hex values and warn about them
