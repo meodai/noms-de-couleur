@@ -109,6 +109,44 @@ const pages = [
       return colorList;
     }
   },
+  {
+    name: 'Dulux',
+    sources: [
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_White#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Red#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Orange#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Gold#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Yellow#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Lime#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Green#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Teal#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Blue#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Violet#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Cool%20neutral#tabId=item0',
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Warm%20neutral#tabId=item0',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorTable = document.querySelector('.related-colors');
+      const colorRows = colorTable.querySelectorAll('.js-color-card');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        
+        const link = 'https://www.duluxvalentine.com/fr/couleurs';
+        const hex = colorRow.dataset.hex;
+        let name = colorRow.querySelector('.color-card-label').innerHTML;
+        name = name.replace(/RAL \d+/g, '').trim();
+
+        colorList.push({
+          name, hex, link,
+        });
+        
+      }
+
+      return colorList;
+    }
+  },
 ];
 
 let colors = [];
@@ -153,7 +191,7 @@ userColors.forEach(color => {
     c.name = c.name.replace(/\(.*\)/, '').trim();
     c.hex = formatHex(c.hex);
     if (!c.hex) {
-      console.wran(`invalid hex: ${c.name} (${c.link})`);
+      console.warn(`invalid hex: ${c.name} (${c.link})`);
     }
   });
 
