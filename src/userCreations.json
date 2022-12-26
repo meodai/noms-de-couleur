@@ -59,6 +59,36 @@
       "name": "Turquoise de cobalt",
       "hex": "#469bb1",
       "author": "@meodai"
+    },
+    {
+      "name": "encre de Chine",
+      "hex": "#1e1e2f",
+      "author": "@meodai"
+    },
+    {
+      "name": "Bleu d'indanthrène",
+      "hex": "#194778",
+      "author": "@meodai"
+    },
+    {
+      "name": "Bleu de Phtalocyanine",
+      "hex": "#0d0da8",
+      "author": "@meodai"
+    },
+    {
+      "name": "Bleu de Céruléum",
+      "hex": "#367ab2",
+      "author": "@meodai"
+    },
+    {
+      "name": " terre de Vérone",
+      "hex": "#7a9178",
+      "author": "@meodai"
+    },
+    {
+      "name": "Jaune Azo",
+      "hex": "#f9dc66",
+      "author": "@meodai"
     }
   ]
 }

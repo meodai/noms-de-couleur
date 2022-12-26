@@ -925,6 +925,11 @@
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
+    "name": "Bleu d'Indanthrène",
+    "hex": "#194778",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Bleu de Berlin",
     "hex": "#27475f",
     "link": "https://fr.wiktionary.org/w/index.php?title=bleu_de_Berlin&action=edit&redlink=1"
@@ -950,6 +955,11 @@
     "link": "https://fr.wikipedia.org/wiki/C%C3%A6ruleum"
   },
   {
+    "name": "Bleu de Céruléum",
+    "hex": "#367ab2",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Bleu de Delft",
     "hex": "#5a8fb8",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -968,6 +978,11 @@
     "name": "Bleu de Perse",
     "hex": "#488e9a",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
+  },
+  {
+    "name": "Bleu de Phtalocyanine",
+    "hex": "#0d0da8",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Bleu de Prusse",
@@ -1875,6 +1890,11 @@
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
+    "name": "Encre de Chine",
+    "hex": "#1f1f30",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Epices",
     "hex": "#f2af68",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -1972,6 +1992,11 @@
   {
     "name": "Figue",
     "hex": "#977287",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Fjords Scandinaves Blanc",
+    "hex": "#f7f7f1",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
@@ -4825,6 +4850,11 @@
     "link": "https://fr.wikipedia.org/wiki/Terre_de_Sienne"
   },
   {
+    "name": "Terre de Vérone",
+    "hex": "#7a9178",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Terres d'Afrique Clair",
     "hex": "#d9ccbc",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
@@ -4933,6 +4963,11 @@
     "name": "Turquoise Intense",
     "hex": "#136777",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Turquoise de Cobalt",
+    "hex": "#469bb1",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Ultra Rose",
@@ -5573,6 +5608,11 @@
     "name": "Vert de Hooker",
     "hex": "#1b4f08",
     "link": "https://fr.wikipedia.org/wiki/Vert_de_Hooker"
+  },
+  {
+    "name": "Vert de Mai",
+    "hex": "#6ca843",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Vert de Vessie",
