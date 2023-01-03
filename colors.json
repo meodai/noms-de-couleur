@@ -1995,11 +1995,6 @@
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
-    "name": "Fjords Scandinaves Blanc",
-    "hex": "#f7f7f1",
-    "link": "https://www.duluxvalentine.com/fr/couleurs"
-  },
-  {
     "name": "Fjords Scandinaves Clair",
     "hex": "#ceccc3",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
@@ -2690,6 +2685,11 @@
     "link": "https://fr.wiktionary.org/wiki/jaune_aur%C3%A9olin"
   },
   {
+    "name": "Jaune Azo",
+    "hex": "#f9dc66",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Jaune Banane",
     "hex": "#d2b707",
     "link": "https://fr.wikipedia.org/wiki/Banane"
@@ -2888,6 +2888,11 @@
     "name": "L'Ocre",
     "hex": "#d08e61",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "La Vie en Rose",
+    "hex": "#d2a5a3",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-Édith Piaf"
   },
   {
     "name": "Lagon",
