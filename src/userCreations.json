@@ -99,6 +99,16 @@
       "name": "Presque Blanc",
       "hex": "#f2ebdf",
       "author": "@sableraph (Raphaël de Courville)"
+    },
+    {
+      "name": "Minuit",
+      "hex": "#011627",
+      "author": "@camillerouxart"
+    },
+    {
+      "name": "Jaune d'œuf",
+      "hex": "#ff9f1c",
+      "author": "@camillerouxart"
     }
   ]
 }
