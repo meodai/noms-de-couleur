@@ -174,6 +174,31 @@ const pages = [
       return colorList;
     }
   },
+  {
+    name: 'Peintures MF',
+    sources: [
+      'https://www.peinturesmf.com/couleurs/',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const colorRows = document.querySelectorAll('.row.no-gutters.align-items-center.my-auto a');
+
+      for (let y = 1; y < colorRows.length; y++) {
+        const colorRow = colorRows[y];
+        const $el = colorRow.querySelector('.pastille-couleur');
+        const link = colorRow.href;
+        const hex = $el.style['background-color'];
+        const name = $el.innerHTML.split(' - ')[1].trim();
+
+        colorList.push({
+          name, hex, link,
+        });
+        
+      }
+
+      return colorList;
+    }
+  },
 ];
 
 
