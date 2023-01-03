@@ -5855,11 +5855,6 @@
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
   },
   {
-    "name": "Jaune d'Oeuf",
-    "hex": "#f0c900",
-    "link": "https://www.peinturesmf.com/couleur/jaune-doeuf/"
-  },
-  {
     "name": "Jaune d'Orient",
     "hex": "#fab248",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
@@ -5868,6 +5863,11 @@
     "name": "Jaune d'or",
     "hex": "#efd807",
     "link": "https://fr.wiktionary.org/w/index.php?title=jaune_d%E2%80%99or&action=edit&redlink=1"
+  },
+  {
+    "name": "Jaune d'Œuf",
+    "hex": "#ff9f1c",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@camillerouxart"
   },
   {
     "name": "Jaune de Chrome",
@@ -7113,6 +7113,11 @@
     "name": "Mini-Vert",
     "hex": "#9dc4a8",
     "link": "https://www.peinturesmf.com/couleur/mini-vert/"
+  },
+  {
+    "name": "Minuit",
+    "hex": "#011627",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@camillerouxart"
   },
   {
     "name": "Mirage du Désert",
