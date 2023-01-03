@@ -5,6 +5,12 @@
 
 Recueil de noms de couleur en français.
 
+## Installation
+
+```bash
+npm install recueil-de-couleur --save
+```
+
 ## Sources 📚
 
 - [Wiktionary: Thésaurus couleur](https://fr.wiktionary.org/wiki/Th%C3%A9saurus:couleur/fran%C3%A7ais)
