@@ -882,7 +882,7 @@
   {
     "name": "Blanc Crème",
     "hex": "#fdf1b8",
-    "link": "https://fr.wiktionary.org/w/index.php?title=blanc_cr%C3%A8me&action=edit&redlink=1"
+    "link": "https://fr.wiktionary.org/wiki/blanc_cr%C3%A8me"
   },
   {
     "name": "Blanc Fugace",
@@ -1120,6 +1120,11 @@
     "link": "https://www.peinturesmf.com/couleur/bleu-congele/"
   },
   {
+    "name": "Bleu Cristal",
+    "hex": "#afd2e5",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
     "name": "Bleu Céleste",
     "hex": "#26c4ec",
     "link": "https://fr.wikipedia.org/wiki/C%C3%A6ruleum"
@@ -1132,7 +1137,7 @@
   {
     "name": "Bleu Céruléen",
     "hex": "#367bb8",
-    "link": "https://fr.wiktionary.org/w/index.php?title=bleu_c%C3%A9rul%C3%A9en&action=edit&redlink=1"
+    "link": "https://fr.wiktionary.org/wiki/bleu_c%C3%A9rul%C3%A9en"
   },
   {
     "name": "Bleu Denim",
@@ -2990,6 +2995,11 @@
     "link": "https://www.peinturesmf.com/couleur/collinsie/"
   },
   {
+    "name": "Colombe",
+    "hex": "#f2efe5",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
     "name": "Colombe du Soir",
     "hex": "#535141",
     "link": "https://www.peinturesmf.com/couleur/colombe-du-soir/"
@@ -3708,11 +3718,6 @@
     "name": "Eau Noire",
     "hex": "#535561",
     "link": "https://www.peinturesmf.com/couleur/eau-noire/"
-  },
-  {
-    "name": "Eau de Source",
-    "hex": "#bee1e2",
-    "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
     "name": "Eau du Parc",
@@ -5041,7 +5046,7 @@
   },
   {
     "name": "Gris Parfait",
-    "hex": "#a2a5a5",
+    "hex": "#a4a8a8",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
@@ -5862,7 +5867,7 @@
   {
     "name": "Jaune d'or",
     "hex": "#efd807",
-    "link": "https://fr.wiktionary.org/w/index.php?title=jaune_d%E2%80%99or&action=edit&redlink=1"
+    "link": "https://fr.wiktionary.org/wiki/jaune_d%E2%80%99or"
   },
   {
     "name": "Jaune d'Œuf",
@@ -6122,6 +6127,11 @@
   {
     "name": "Lait Fraise",
     "hex": "#f2bcc2",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Lait d'Amande",
+    "hex": "#efe7da",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
@@ -6547,6 +6557,11 @@
   {
     "name": "Lin Clair",
     "hex": "#e3ddd2",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Lin Ecru",
+    "hex": "#efe8d9",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
@@ -7520,6 +7535,11 @@
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
+    "name": "Nuage",
+    "hex": "#e9eae9",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
     "name": "Nuage Bleu",
     "hex": "#eefcfc",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -8245,6 +8265,11 @@
     "link": "https://www.peinturesmf.com/couleur/perle-de-diamant/"
   },
   {
+    "name": "Perle de Rose",
+    "hex": "#e6d8d1",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
     "name": "Perle de Tahiti",
     "hex": "#566a6a",
     "link": "https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php"
@@ -8718,6 +8743,11 @@
     "name": "Première Fille",
     "hex": "#f4d2d6",
     "link": "https://www.peinturesmf.com/couleur/premiere-fille/"
+  },
+  {
+    "name": "Première Lueur",
+    "hex": "#f4e9d7",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {
     "name": "Presque Blanc",
@@ -9910,6 +9940,11 @@
     "link": "https://www.peinturesmf.com/couleur/royaume-paisible/"
   },
   {
+    "name": "Ruban Bleu",
+    "hex": "#bee1e2",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
     "name": "Ruban à Cheveux",
     "hex": "#bc9b34",
     "link": "https://www.peinturesmf.com/couleur/ruban-a-cheveux/"
@@ -10647,6 +10682,11 @@
   {
     "name": "Taupe Intense",
     "hex": "#9f9899",
+    "link": "https://www.duluxvalentine.com/fr/couleurs"
+  },
+  {
+    "name": "Taupe Parfait",
+    "hex": "#b9a99f",
     "link": "https://www.duluxvalentine.com/fr/couleurs"
   },
   {

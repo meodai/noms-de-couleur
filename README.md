@@ -17,6 +17,6 @@ npm install recueil-de-couleur --save
 - [Couleurs de Influenz Design](https://influenz.design/mag/couleurs-et-leurs-noms)
 - [Liste de Marcel Délèze](https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php)
   
-## List of Color Names 🔖 (**2468**)
+## List of Color Names 🔖 (**2476**)
 
 ![Toutes les couleurs](colors.svg "Liste de couleur")
