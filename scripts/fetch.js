@@ -1,11 +1,7 @@
-import fs from 'fs';
-import path from 'path';
+import { readFile, writeFile } from 'node:fs/promises';
 import puppeteer from 'puppeteer';
 import titleCaseFrench from 'titlecase-french';
 import { formatHex, converter } from 'culori';
-const userColors = JSON.parse( 
-  fs.readFileSync(path.normalize('src/userCreations.json'), 'utf8') 
-).colors;
 
 const rgbconv = converter('rgb');
 
@@ -112,36 +108,21 @@ const pages = [
   {
     name: 'Dulux',
     sources: [
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_White#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Red#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Orange#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Gold#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Yellow#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Lime#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Green#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Teal#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Blue#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Violet#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Cool%20neutral#tabId=item0',
-      'https://www.duluxvalentine.com/fr/couleurs/filters/h_Warm%20neutral#tabId=item0',
+      // the hue filters are ignored now, the color wall always contains every color
+      'https://www.duluxvalentine.com/fr/couleurs/filters/h_White',
     ],
     fn: _ => {
       const colorList = [];
-      const colorTable = document.querySelector('.related-colors');
-      const colorRows = colorTable.querySelectorAll('.js-color-card');
+      const colorBoxes = document.querySelectorAll('.js-color-box[data-hex]');
 
-      for (let y = 1; y < colorRows.length; y++) {
-        const colorRow = colorRows[y];
-        
-        const link = 'https://www.duluxvalentine.com/fr/couleurs';
-        const hex = colorRow.dataset.hex;
-        let name = colorRow.querySelector('.color-card-label').innerHTML;
-        name = name.replace(/RAL \d+/g, '').trim();
+      for (const colorBox of colorBoxes) {
+        const link = new URL(colorBox.dataset.href, location.origin).href;
+        const hex = colorBox.dataset.hex;
+        const name = colorBox.dataset.name;
 
         colorList.push({
           name, hex, link,
         });
-        
       }
 
       return colorList;
@@ -202,136 +183,151 @@ const pages = [
 ];
 
 
-let colors = [];
+const userColors = JSON.parse(
+  await readFile(new URL('../src/userCreations.json', import.meta.url), 'utf8'),
+).colors;
 
-userColors.forEach(color => {
-  colors.push({
-    name: color.name,
-    hex: color.hex,
-    link: color.hasOwnProperty('link') ? color.link :
-    `https://github.com/meodai/noms-de-couleur/#authors-${color.author}`,
-  })  
+let colors = userColors.map(color => ({
+  name: color.name,
+  hex: color.hex,
+  link: color.link ?? `https://github.com/meodai/noms-de-couleur/#authors-${color.author}`,
+}));
+
+const browser = await puppeteer.launch();
+
+try {
+  for (const { sources, fn } of pages) {
+    for (const source of sources) {
+      const page = await browser.newPage();
+      console.log(`visiting ${source}`);
+      await page.goto(source);
+      colors.push(...await page.evaluate(fn));
+      await page.close();
+    }
+  }
+} finally {
+  await browser.close();
+}
+
+// the Dulux color wall only shows part of the catalog, the rest is listed in the sitemap
+const duluxLinks = new Set(colors.map(c => c.link).filter(link => link.includes('duluxvalentine.com')));
+colors.push(...await fetchDuluxCatalog(duluxLinks));
+
+async function fetchDuluxCatalog(knownLinks, concurrency = 6) {
+  const sitemap = await (await fetch('https://www.duluxvalentine.com/fr/sitemap.xml')).text();
+  const links = [...new Set(
+    [...sitemap.matchAll(/<loc>(https:\/\/www\.duluxvalentine\.com\/fr\/couleurs\/[a-z0-9-]+-\d{5,})<\/loc>/g)]
+      .map(m => m[1]),
+  )].filter(link => !knownLinks.has(link));
+
+  console.log(`visiting ${links.length} Dulux color pages`);
+
+  const decode = str => str
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(code))
+    .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&amp;/g, '&');
+  const results = new Array(links.length);
+  let next = 0;
+  let skipped = 0;
+
+  await Promise.all(Array.from({ length: concurrency }, async () => {
+    while (next < links.length) {
+      const i = next++;
+      const link = links[i];
+      const id = link.match(/-(\d+)$/)[1];
+      try {
+        const res = await fetch(link);
+        const html = res.ok ? await res.text() : '';
+        const m = html.match(new RegExp(`data-ccid="${id}" data-label="([^"]+)" data-hex="(#[0-9a-f]{6})"`, 'i'));
+        // some sitemap entries are product pages without a color card
+        if (m) results[i] = { name: decode(m[1]), hex: m[2], link };
+        else skipped++;
+      } catch (e) {
+        console.warn(`could not fetch ${link}: ${e.cause?.message ?? e.message}`);
+      }
+    }
+  }));
+
+  console.log(`skipped ${skipped} Dulux pages without a color`);
+  return results.filter(Boolean);
+}
+
+// data sanitization
+// titlecase-french drops the accents of the letters it capitalizes ("écru" -> "Ecru"),
+// the accent-less version is kept as sort and deduplication key, the name gets its accents back
+const sortKeys = new Map();
+for (const c of colors) {
+  const raw = c.name.replace(/’/g, "'").replace(/(?<!\p{L})RAL \d+/giu, '').trim().normalize();
+  const titled = titleCaseFrench.convert(raw);
+  // remove parentheses and their contents from the name
+  sortKeys.set(c, titled.replace(/\(.*\)/, '').trim());
+  c.name = restoreAccents(raw, titled).replace(/\(.*\)/, '').trim();
+  c.hex = formatHex(c.hex);
+  if (!c.hex) {
+    console.warn(`invalid hex: ${c.name} (${c.link})`);
+  }
+}
+
+function restoreAccents(original, titled) {
+  if (original.length !== titled.length) return titled;
+  const base = char => char.normalize('NFD')[0].toLowerCase();
+  return [...titled].map((char, i) => {
+    const source = original[i];
+    if (char === source || base(char) !== base(source)) return char;
+    return char === char.toUpperCase() ? source.toUpperCase() : source.toLowerCase();
+  }).join('');
+}
+
+// drop numbered shades like "Terre Cuite 1", "Terre Cuite 2"…
+colors = colors.filter(c => !/\s\d+$/.test(c.name));
+
+// remove duplicate names while keeping the first occurrence
+const normalizeName = name => name.normalize().toLowerCase().replace(/-/g, ' ').replace(/œ/g, 'oe');
+const seenNames = new Set();
+colors = colors.filter(c => {
+  const key = normalizeName(sortKeys.get(c));
+  if (seenNames.has(key)) return false;
+  seenNames.add(key);
+  return true;
 });
 
+const compare = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
+colors.sort((a, b) => compare(sortKeys.get(a), sortKeys.get(b)) || compare(a.name, b.name));
 
-(async () => {
-  const browser = await puppeteer.launch();
-  
-  for (let j = 0; j < pages.length; j++) {
-    for (let i = 0; i < pages[j].sources.length; i++) {
-      const page = await browser.newPage();
-      console.log(`visiting ${pages[j].sources[i]}`);
-      await page.goto(pages[j].sources[i]);
-
-      const colorList = await page.evaluate(pages[j].fn);
-      colors = colors.concat(colorList);
-    }
+// find duplicate hex values and shift each subsequent one a bit to make each color unique
+const byHex = Map.groupBy(colors, c => c.hex);
+const usedHexes = new Set(byHex.keys());
+for (const [hex, dupes] of byHex) {
+  if (dupes.length < 2) continue;
+  console.warn(`duplicate hex: ${hex} (${dupes.map(c => c.name).join(', ')})`);
+  for (const c of dupes.slice(1)) {
+    let step = 1;
+    let shifted;
+    do {
+      shifted = shiftColor(hex, step++ / 255);
+    } while (usedHexes.has(shifted));
+    c.hex = shifted;
+    usedHexes.add(shifted);
   }
+}
 
-  await browser.close();
-
-  // data sanitization
-  
-  // title case each color name
-  colors.forEach(c => {
-    c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'").trim());
-  });
-
-
-  // sanitize hex values and names
-  colors.forEach(c => {
-    // remove parentheses and its contents from name
-    c.name = c.name.replace(/\(.*\)/, '').trim();
-    c.hex = formatHex(c.hex);
-    if (!c.hex) {
-      console.warn(`invalid hex: ${c.name} (${c.link})`);
-    }
-  });
-
-  // remove duplicate names from colors list
-  // while keeping the first occurence
-  colors = colors.filter((c, i) => {
-    const referenceName = c.name.toLowerCase().replace(/-/g, ' ').replace(/Œ/ig, 'oe');
-    const index = colors.findIndex(
-      c => c.name.toLowerCase()
-                 .replace(/-/g, ' ')
-                 .replace(/Œ/ig, 'oe')
-                 .localeCompare(
-                    referenceName
-                  ) === 0
-    );
-    if (index === i) {
-      return true;
-    }
-    return false;
-  });
-
-  // sort colors by name
-  colors.sort((a, b) => {
-    if (a.name < b.name) {
-      return -1;
-    }
-    if (a.name > b.name) {
-      return 1;
-    }
-    return 0;
-  });
-
-  // find duplicate hex values and warn about them
-  const hexes = colors.map(c => c.hex);
-  const duplicates = hexes.filter((h, i) => hexes.indexOf(h) !== i);
-  if (duplicates.length > 0) {
-    console.warn('found some duplicate hex values:');
-    duplicates.forEach(d => {
-      const dupes = colors.filter(c => c.hex === d);
-      console.warn(`duplicate hex: ${d} (${dupes.map(c => c.name).join(', ')})`);
-      // shift each subsequent duplicate color value by 1
-      for (let i = 1; i < dupes.length; i++) {
-        dupes[i].hex = shiftColor(dupes[i].hex, (1/255) * i);
-      }
-    });
+function shiftColor(hex, shift) {
+  const rgb = rgbconv(hex);
+  for (const channel of ['r', 'g', 'b']) {
+    rgb[channel] += shift;
+    if (rgb[channel] > 1) rgb[channel] = 2 - rgb[channel];
   }
-  // will probably need to do this recursively
-  console.warn('Shifted all the color values a bit to make each color unique');
+  return formatHex(rgb);
+}
 
-  function shiftColor(hex, shift) {
-    const rgb = rgbconv(hex);
-    rgb.r = rgb.r + shift;
-    rgb.g = rgb.g + shift;
-    rgb.b = rgb.b + shift;
-    
-    if (rgb.r > 1) {
-      rgb.r = 2 - rgb.r;
-    }
-    if (rgb.g > 1) {
-      rgb.g = 2 - rgb.g;
-    }
-    if (rgb.b > 1) {
-      rgb.b = 2 - rgb.b;
-    }
+// update color count in README.md
+const readmePath = new URL('../README.md', import.meta.url);
+const readme = await readFile(readmePath, 'utf8');
+await writeFile(readmePath, readme.replace(/\(\*{2}(\d+)\*{2}\)/gm, `(**${colors.length}**)`));
 
-    return formatHex(rgb);
-  }
+const csvField = value => (/[",\n]/.test(value) ? `"${value.replace(/"/g, '""')}"` : value);
+const csv = 'name,hex,link\n' + colors.map(c => [c.name, c.hex, c.link].map(csvField).join(',')).join('\n');
 
-
-  // update color count in readme.md
-  // gets SVG template
-  let mdTpl = fs.readFileSync(
-    './readme.md',
-    'utf8'
-  ).toString();
-
-  mdTpl = mdTpl.replace(/\(\*{2}(\d+)\*{2}\)/gm, `(**${colors.length}**)`);
-
-  fs.writeFileSync(
-    './readme.md',
-    mdTpl
-  );
-
-  // create a csv file with the colors
-  const csv = 'name,hex,link\n' + colors.map(c => `${c.name},${c.hex},${c.link}`).join('\n');
-  
-  fs.writeFileSync('./colors.csv', csv);
-  fs.writeFileSync('./colors.min.json', JSON.stringify(colors));
-  fs.writeFileSync('./colors.json', JSON.stringify(colors, null, 2));
-})().catch(e => console.log(e));
+const out = file => new URL(`../${file}`, import.meta.url);
+await writeFile(out('colors.csv'), csv);
+await writeFile(out('colors.min.json'), JSON.stringify(colors));
+await writeFile(out('colors.json'), JSON.stringify(colors, null, 2));
