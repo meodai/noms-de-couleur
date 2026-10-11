@@ -32,6 +32,6 @@ npm test
 - [Couleurs de Influenz Design](https://influenz.design/mag/couleurs-et-leurs-noms)
 - [Liste de Marcel Délèze](https://www.deleze.name/marcel/photo/noms-couleurs/454-couleurs.php)
   
-## List of Color Names 🔖 (**2476**)
+## List of Color Names 🔖 (**2473**)
 
 ![Toutes les couleurs](colors.svg "Liste de couleur")
