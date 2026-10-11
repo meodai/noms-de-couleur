@@ -8,7 +8,22 @@ Recueil de noms de couleur en français.
 ## Installation
 
 ```bash
-npm install recueil-de-couleur --save
+npm install recueil-de-couleur
+```
+
+```js
+import colors from 'recueil-de-couleur' with { type: 'json' };
+// [{ name: 'Abricot', hex: '#e67e30', link: '…' }, …]
+```
+
+Aussi disponible : `recueil-de-couleur/colors.min.json` et `recueil-de-couleur/colors.csv`.
+
+## Développement
+
+```bash
+npm install
+npm run build   # récupère les couleurs puis génère colors.svg / colors.html
+npm test
 ```
 
 ## Sources 📚

@@ -2,11 +2,28 @@
   "name": "recueil-de-couleur",
   "version": "0.11.0",
   "description": "Liste de noms de couleur en français.",
-  "main": "index.js",
   "type": "module",
+  "main": "colors.json",
+  "exports": {
+    ".": "./colors.json",
+    "./colors.json": "./colors.json",
+    "./colors.min.json": "./colors.min.json",
+    "./colors.csv": "./colors.csv",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "colors.json",
+    "colors.min.json",
+    "colors.csv"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node scripts/fetch.js && node scripts/createimage.js"
+    "fetch": "node scripts/fetch.js",
+    "render": "node scripts/createimage.js",
+    "build": "npm run fetch && npm run render",
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -21,7 +38,6 @@
     "france",
     "colours",
     "couleurs",
-    "color",
     "colour"
   ],
   "author": "meodai@gmail.com",
@@ -31,10 +47,8 @@
   },
   "homepage": "https://github.com/meodai/noms-de-couleur#readme",
   "devDependencies": {
-    "puppeteer": "^19.4.1",
+    "culori": "^4.0.2",
+    "puppeteer": "^25.13.0",
     "titlecase-french": "^1.0.1"
-  },
-  "dependencies": {
-    "culori": "^2.0.3"
   }
 }
